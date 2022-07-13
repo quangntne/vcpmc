@@ -1,0 +1,22 @@
+.main-modal .ant-modal-content .ant-form .ant-form-item-label label {
+  color: white;
+}
+
+.main-modal .ant-modal-content .ant-form .ant-form-item-control-input-content .ant-picker-disabled {
+  background: transparent !important;
+}
+
+.main-modal .ant-modal-content .ant-form .ant-form-item-control-input-content input {
+  background: transparent;
+  color: #F6F6F6;
+  border-radius: 5px;
+  height: 40px;
+}
+
+.main-modal .ant-modal-content .ant-form .ant-form-item-control-input-content textarea {
+  background: transparent;
+  color: #F6F6F6;
+  border-radius: 5px;
+  border: 2px dashed #F6F6F6;
+}
+/*# sourceMappingURL=styles.css.map */

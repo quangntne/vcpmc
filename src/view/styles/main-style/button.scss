@@ -1,0 +1,50 @@
+@use "variable";
+button.ant-btn.normal-button,
+button.ant-btn.cancel-button,
+button.ant-btn.icon-button,
+.ant-modal-confirm-btns button.ant-btn {
+  min-width: 168px;
+  height: 48px;
+  border-radius: 8px;
+  padding: 12px 24px;
+  background-color: #FF7506;
+  color: #ffffff;
+  border: none;
+  &:hover{
+      background-color: #FF7506;
+  }
+  font-weight: 600;
+}
+
+button.ant-btn.normal-button,
+.ant-modal-confirm-btns button.ant-btn.ant-btn-dangerous {
+  background-color: $color__yellow;
+  color: white;
+}
+
+.icon-button {
+  i {
+    margin-right: 10px;
+  }
+}
+button.ant-btn.bg-custom-button{
+  background-color: $color__yellow;
+  color: white;
+  &:hover {
+    opacity: 0.8;
+  }
+  transition: 0.2s;
+  font-weight: bold;
+  height: 40px;
+  border: none;
+}
+
+button.ant-btn.cancel-button{
+  border: solid 1px #FF7506;
+  background-color: #1e1e2e;
+  color: #FF7506;
+  &:hover{
+      background-color: #1e1e2e;
+      border: solid 1px #FF7506;
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "Action": {
+    "USA": "Action",
+    "VNM": "Hành động"
+  },
+  "open": {
+    "USA": "Open",
+    "VNM": "Mở"
+  },
+  "delete": {
+    "USA": "Delete",
+    "VNM": "Xóa"
+  },
+  "message": {
+    "USA": "Message",
+    "VNM": "Thông báo"
+  },
+  "success": {
+    "USA": "Success",
+    "VNM": "Thành công"
+  },
+  "reject": {
+    "USA": "Reject",
+    "VNM": "Từ chối"
+  },
+  "error": {
+    "USA": "Error",
+    "VNM": "Lỗi"
+  },
+  "Yes": {
+    "USA": "Yes",
+    "VNM": "Có"
+  },
+  "Create PlayList success!!!": {
+    "USA": "Create PlayList success!",
+    "VNM": "Tạo danh sách phát thành công!"
+  },
+  "Continue": {
+    "USA": "Continue",
+    "VNM": "Tiếp tục"
+  },
+  "Cancel": {
+    "USA": "Cancel",
+    "VNM": "Huỷ bỏ"
+  },
+  "Cancel_2": {
+    "USA": "Cancel",
+    "VNM": "Huỷ"
+  },
+  "UpdateMediaSuccess": {
+    "USA": "Update Media Success.",
+    "VNM": "Cập nhật Media thành công."
+  },
+  "ConfirmMediaSuccess": {
+    "USA": "Approve success.",
+    "VNM": "Xác nhận thành công."
+  },
+  "AddMediaSuccess": {
+    "USA": "Add media success.",
+    "VNM": "Thêm media thành công."
+  },
+  "AddLinkSuccess": {
+    "USA": "Add media success.",
+    "VNM": "Thêm media thành công."
+  },
+  "MediaNameIsExist": {
+    "USA": "Media name is exist.",
+    "VNM": "Tên media đã tồn tại."
+  },
+  "DeleteMediaSuccess":{
+    "USA": "Delete media success",
+    "VNM": "Xóa media thành công."
+  },
+  "UpdateProfile:Success":{
+    "USA": "Update Profile Success",
+    "VNM": "Cập nhật hồ sơ thành công"
+  },
+  "Login:Success":{
+    "USA": "Login Success",
+    "VNM": "Đăng Nhập Thành Công"
+  },
+  "UserName:MustBeEmailAddress":{
+    "USA": "UserName Must Be Email Address",
+    "VNM": "Tên đăng nhập phải dạng email"
+  },
+  "UserPassword:Incorrect":{
+    "USA": "UserPassword Incorrect",
+    "VNM": "Mật khẩu không đúng"
+  },
+  "UserName:DoesNotExist":{
+    "USA": "UserName Does Not Exist",
+    "VNM": "Tên đăng nhập không tồn tại"
+  }
+}

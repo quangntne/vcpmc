@@ -1,0 +1,50 @@
+.chart-line {
+  padding: 16px;
+  background: rgba(47, 47, 65, 0.7);
+  height: 40vh !important;
+  .g2-tooltip {
+    // transform: translateX(-56.5%) !important;
+    color: #eee8e8 !important;
+    background: rgba(62, 62, 91, 0.7) !important;
+    box-shadow: 0px 0px 0px rgba(50, 50, 71, 0.08) !important;
+    border-radius: 20px !important;
+    width: 18vh;
+    height: 9vh;
+    opacity: 1 !important;
+    &::after{
+      content: "";
+      display: block;
+      width: 0;
+      height: 0;
+      position: absolute;
+      bottom: -20px;
+      left: 50%;
+      transform: translateX(-50%);
+      border-bottom: 10px solid transparent;
+      border-left: 10px solid transparent;
+      border-top: 10px solid rgba(62, 62, 91, 0.7);
+      border-right: 10px solid transparent;
+    }
+    &-list {
+      &-item {
+        margin: 15px 30px 45px 30px !important;
+        &-value {
+          display: grid;
+          font-weight: bold;
+          font-size: 16px;
+          line-height: 24px;
+          color: #ffffff;
+          label {
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 17px;
+            color: rgba(235, 235, 245, 0.6);
+          }
+        }
+      }
+    }
+    &-title {
+      display: none !important;
+    }
+  }
+}

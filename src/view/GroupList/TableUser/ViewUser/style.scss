@@ -1,0 +1,18 @@
+@import "./../styles/variable";
+
+.location {
+    font-size: 16px;
+    line-height: 24px;
+    color: $color-breadcumb-text;
+    .ant-form-item-label {
+        text-align: left;
+    }
+}
+
+.label-view-user{
+    p {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}

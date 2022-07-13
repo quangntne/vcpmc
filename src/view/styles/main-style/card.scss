@@ -1,0 +1,6 @@
+@use "variable";
+.main-card{
+  background-color: $color--card;
+  border-radius: $border-radius;
+  padding: 40px 50px; //Chỗ này có thể chỉnh sửa tùy ý
+}

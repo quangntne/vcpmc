@@ -1,0 +1,194 @@
+{
+  "PLAYLIST_NAME": {
+    "USA": "Playlist name",
+    "VNM": "Tên playlist"
+  },
+  "TITLE": {
+    "USA": "Title",
+    "VNM": "Tiêu đề"
+  },
+  "TOTAL_DISPENSATION": {
+    "USA": "Total dispansation",
+    "VNM": "Tổng số lượt phát"
+  },
+  "TOTAL": {
+    "USA": "Total",
+    "VNM": "Tổng"
+  },
+  "PLAYLIST_MANAGEMENT": {
+    "USA": "Manager Playlist",
+    "VNM": "Quản lý playlist"
+  },
+  "Description": {
+    "USA": "Description",
+    "VNM": "Mô tả"
+  },
+  "DETAIL": {
+    "USA": "Detail",
+    "VNM": "Chi tiết"
+  },
+  "Playlist_assign": {
+    "USA": "Playlist assign user",
+    "VNM": "Thêm người dùng vào playlist"
+  },
+  "LEAVE_COMMENT": {
+    "USA": "Leave a comment",
+    "VNM": "Để lại mô tả"
+  },
+  "SELECT": {
+    "USA": "Please select",
+    "VNM": "Vui lòng chọn"
+  },
+  "NO_USER": {
+    "USA": "No user to choose",
+    "VNM": "Không có người dùng"
+  },
+  "REPLAYING": {
+    "USA": "Re-playing video in playing duration of the template",
+    "VNM": "Phát lại video trong khoảng thời gian chạy của bản mẫu"
+  },
+  "PLAYLIST": {
+    "USA": "Playlist",
+    "VNM": "playlist"
+  },
+  "COVER_IMAGE": {
+    "USA": "Cover image",
+    "VNM": "Ảnh bìa"
+  },
+  "TYPE_TOPIC": {
+    "USA": "Type topic",
+    "VNM": "Nhập chủ đề"
+  },
+  "DISPLAY_PUB": {
+    "USA": "Display in public mode",
+    "VNM": "Hiển thị ở chế độ công khai"
+  },
+  "PUBLIC_MODE": {
+    "USA": "Public mode",
+    "VNM": "Chế độ công khai"
+  },
+  "DURATION": {
+    "USA": "Duration",
+    "VNM": "Thời lượng"
+  },
+  "NUMBER_MEDIA": {
+    "USA": "Number media",
+    "VNM": "Số bản ghi"
+  },
+  "TOPIC": {
+    "USA": "Topic",
+    "VNM": "Chủ đề"
+  },
+  "CREATE_AT": {
+    "USA": "Create At",
+    "VNM": "Ngày Tạo"
+  },
+  "CREATOR": {
+    "USA": "Creator",
+    "VNM": "Người Tạo"
+  },
+  "NUMBER_RECORD": {
+    "USA": "Number record",
+    "VNM": "Số bản ghi"
+  },
+  "SUFFER": {
+    "USA": "Play suffer",
+    "VNM": "Phát ngẫu nhiên"
+  },
+  "REPLAY": {
+    "USA": "Replay",
+    "VNM": "Lặp lại"
+  },
+  "UP_IMG": {
+    "USA": "Upload image",
+    "VNM": "Tải lên hình ảnh"
+  },
+  "DELETE_IMG": {
+    "USA": "Delete image",
+    "VNM": "Xóa hình ảnh"
+  },
+  "ADD_RECORD_PLAYLIST": {
+    "USA": "Add record to Playlist",
+    "VNM": "Thêm bản ghi vào playlist"
+  },
+  "PLAYLIST_DEMO": {
+    "USA": "Playlist demo",
+    "VNM": "Playlist mẫu"
+  },
+  "LIST_RECORD": {
+    "USA": "List record add to playlist",
+    "VNM": "Danh sách bản ghi được thêm vào playlist"
+  },
+  "PLAYLIST": {
+    "USA": "Playlist",
+    "VNM": "playlist"
+  },
+  "PLAYLIST": {
+    "USA": "Playlist",
+    "VNM": "playlist"
+  },
+  "PLAYLIST": {
+    "USA": "Playlist",
+    "VNM": "playlist"
+  },
+  "PLAYLIST": {
+    "USA": "Playlist",
+    "VNM": "playlist"
+  },
+  "TEMPLATE": {
+    "USA": "Template",
+    "VNM": "Bản mẫu"
+  },
+  "SURE_DELETE": {
+    "USA": "Are you sure to delete",
+    "VNM": "Bạn có chắc chắn xóa"
+  },
+  "START_TIME": {
+    "USA": "Start time",
+    "VNM": "Thời gian bắt đầu"
+  },
+  "END_TIME": {
+    "USA": "End time",
+    "VNM": "Thời gian kết thúc"
+  },
+  "TIMEEND_GREATER": {
+    "USA": "The time end much greater than the time begin!",
+    "VNM": "Thời gian kết thúc phải lớn hơn thời gian bắt đầu"
+  },
+  "GREATER_00": {
+    "USA": "Please input the duration greater than 00:00:00",
+    "VNM": "Nhập khoảng thời gian lớn hơn 00:00:00"
+  },
+  "DURATION_GREATER": {
+    "USA": "Please input this duration smaller than the duration of Start time and End time",
+    "VNM": "Vui lòng nhập khoảng thời gian nhỏ hơn khoảng thời gian của thời gian bắt đầu và thời gian kết thúc"
+  },
+  "PREVIEW": {
+    "USA": "Preview",
+    "VNM": "Xem trước"
+  },
+  "NO_PREVIEW": {
+    "USA": "No template to preview",
+    "VNM": "Không có bản mẫu để xem trước"
+  },
+  "TEMPLATE_NAME": {
+    "USA": "Template name",
+    "VNM": "Tên bản mẫu"
+  },
+  "SEQUENTIALLY_TYPE": {
+    "USA": "Sequentially type",
+    "VNM": "Loại tuần tự"
+  },
+  "SEQUENTIALLY": {
+    "USA": "Sequentially",
+    "VNM": "Tuần tự"
+  },
+  "BOTH": {
+    "USA": "Both",
+    "VNM": "Cả hai"
+  },
+  "COPY": {
+    "USA": "Copy from",
+    "VNM": "Sao chép"
+  }
+}

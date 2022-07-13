@@ -1,0 +1,1 @@
+export const noImg = require("./no-image.jpg");

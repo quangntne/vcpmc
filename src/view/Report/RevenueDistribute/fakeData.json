@@ -1,0 +1,161 @@
+[
+    {
+        "no":1,
+        "authorContract": "UQ789",
+        "authorPerson": "Vương Anh Tú",
+        "numberSong": "15",
+        "revennue": "365.000.000",
+        "adminFree": "365.000.000", 
+        "royal": "365.000.000",
+        "detailRevenu":[
+            {
+                "noSong":1,
+                "songName": "Hết thương cạn nhớ ",
+                "numberPlay": "1200",
+                "revenue": "12.000.000",
+                "adminFree": "425.000",
+                "royal": "425.000",
+                "detailSong":[
+                    {
+                        "miningUnit": "CTy TNHH A",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH B",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH C",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH D",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },                    {
+                        "miningUnit": "CTy TNHH E",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    }
+                ]
+            },
+            {
+                "noSong":2,
+                "songName": "Cuộc gọi nhỡ",
+                "numberPlay": "2400",
+                "revenue": "15.000.000",
+                "adminFree": "123.000",
+                "royal": "235.000",
+                "detailSong":[
+                    {
+                        "miningUnit": "CTy TNHH A",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH B",
+                        "numberPlayDetail": "400",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH C",
+                        "numberPlayDetail": "100",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH D",
+                        "numberPlayDetail": "60",
+                        "revenue":"2.500.000"
+                    },                    {
+                        "miningUnit": "CTy TNHH E",
+                        "numberPlayDetail": "450",
+                        "revenue":"2.500.000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "no":2,
+        "authorContract": "VN235",
+        "authorPerson": "Nguyễn Hồng Thuận",
+        "numberSong": "23",
+        "revennue": "425.000.000",
+        "adminFree": "425.000.000", 
+        "royal": "425.000.000",
+        "detailRevenu":[
+            {
+                "noSong":1,
+                "songName": "Gặp nhưng không ở lại",
+                "numberPlay": "1200",
+                "revenue": "21.000.000",
+                "adminFree": "3232.000",
+                "royal": "425.000",
+                "detailSong":[
+                    {
+                        "miningUnit": "CTy TNHH 1",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH 2",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH 3",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH 4",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },                    {
+                        "miningUnit": "CTy TNHH 5",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    }
+                ]
+            },
+            {
+                "noSong":2,
+                "songName": "Giá cô ấy đừng xuất hiện",
+                "numberPlay": "2400",
+                "revenue": "123.000.000",
+                "adminFree": "12323.000",
+                "royal": "32.000",
+                "detailSong":[
+                    {
+                        "miningUnit": "CTy TNHH 7",
+                        "numberPlayDetail": "200",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH 8",
+                        "numberPlayDetail": "400",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH 9",
+                        "numberPlayDetail": "100",
+                        "revenue":"2.500.000"
+                    },
+                    {
+                        "miningUnit": "CTy TNHH 10",
+                        "numberPlayDetail": "60",
+                        "revenue":"2.500.000"
+                    },                    {
+                        "miningUnit": "CTy TNHH 11",
+                        "numberPlayDetail": "450",
+                        "revenue":"2.500.000"
+                    }
+                ]
+            }
+        ]
+    }
+]
+    

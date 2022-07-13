@@ -1,0 +1,28 @@
+@import "../../../styles/variable";
+
+.extend-contract-modal{
+  .form-new-work{
+    .ant-form-item-control{
+      &-input{
+        &-content{
+          .ant-select{
+            &-selector{
+              background-color: #2B2B3F;
+              border: none;
+            }
+            .ant-select-arrow{
+              color: $color__yellow;
+            }
+          }
+          .ant-input{
+            background-color: #2B2B3F;
+            border: none;
+          }
+          .ant-picker{
+            height: 40px;
+          }
+        }
+      }
+    }
+  }
+}

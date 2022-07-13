@@ -1,0 +1,167 @@
+@import "./../styles/variable";
+.add-business-contract {
+  .ant-picker-input > input[disabled] {
+    color: white;
+  }
+  .ant-radio-disabled .ant-radio-inner::after {
+    background-color: #0b80ec;
+  }
+  .ant-radio-disabled + span {
+    color: white;
+  }
+  .ant-radio-inner {
+    background-color: white;
+  }
+  .ant-input-affix-wrapper {
+    padding: 0;
+  }
+  .form-contract {
+    .business-add-form {
+      #two {
+        margin-top: 6rem;
+      }
+      .info-contract {
+        .ant-divider-vertical {
+          height: 7rem;
+          margin-right: -13px;
+          border-color: $color__bor_input;
+        }
+      }
+      .label-normal {
+        .ant-form-item-label {
+          label {
+            font-weight: unset;
+            font-size: 14px;
+            display: block;
+          }
+        }
+      }
+      .type-contract-turn {
+        margin-top: 2.7rem;
+      }
+      .ant-input,
+      .ant-input-number {
+        //background-color: transparent;
+        border-radius: 5px;
+        border: none;
+        background-color: #2b2b3f;
+        min-height: 40px;
+        width: 100%;
+        color: white;
+        padding: 4px 20px;
+        font-size: 16px;
+        //border-color: white;
+        @include no-outline($color__yellow__second);
+      }
+      .ant-picker {
+        border: none;
+        background-color: #2b2b3f;
+      }
+
+      .ant-select-arrow,
+      .ant-form-item-label > label,
+      .ant-select,
+      .ant-select-clear {
+        color: white;
+      }
+
+      .ant-form-item-label > label {
+        font-weight: bold;
+        font-size: 1rem;
+        position: relative;
+        margin-right: 10px;
+      }
+
+      .ant-form-item-label > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before {
+        position: absolute;
+        right: -6px;
+      }
+      .ant-form-item {
+        margin-bottom: 12px;
+        .ant-form-item-control-input {
+          .ant-form-item-control-input-content {
+            .ant-select-auto-complete {
+              .ant-select-selection-search {
+                .ant-select-selection-search-input {
+                  margin: 5px 9px;
+                  font-size: 16px;
+                  color: white;
+                }
+              }
+            }
+            .ant-select,
+            .ant-select:not(.ant-select-customize-input) {
+              .ant-select-selector {
+                border: none;
+                background-color: #2b2b3f;
+                min-height: 40px;
+                border-radius: 5px;
+                .ant-select-selection-item {
+                  padding: 4px 0 0 9px;
+                }
+              }
+            }
+
+            .anticon {
+              color: #ff7506;
+            }
+            .ant-input-disabled {
+              border-color: transparent;
+            }
+            .ant-input-password {
+              border: none;
+              background-color: #2b2b3f;
+              &:focus,
+              &:hover {
+                border-color: #ff9911;
+              }
+              input[type="password"] {
+                font: caption;
+                font-size: 27px;
+              }
+              .ant-input {
+                &:hover,
+                &:focus {
+                  border: none;
+                }
+              }
+            }
+          }
+        }
+        .ant-radio-wrapper {
+          color: white;
+        }
+      }
+    }
+  }
+}
+.business-contract-table {
+  .ant-table-tbody > tr > td {
+    @include text-wrap;
+  }
+
+  th.ant-table-selection-column .ant-radio-wrapper,
+  td.ant-table-selection-column .ant-radio-wrapper {
+    display: none;
+  }
+  tr.ant-table-row.ant-table-row-level-0.ant-table-row-selected {
+    background-color: $color__yellow;
+  }
+  tr.ant-table-row-selected td.main-column {
+    color: white;
+  }
+  tr.ant-table-row-level-0.ant-table-row-selected.ant-table-row:first-child td.ant-table-cell {
+    border-top: 1px solid white;
+  }
+}
+.text-wrap {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 20px;
+}
+.bc-search {
+  //margin:10px 0;
+  display: flex;
+  justify-content: start;
+}

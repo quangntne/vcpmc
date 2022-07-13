@@ -1,0 +1,37 @@
+@import "../../../../styles/variable";
+
+.modal-edit-device{
+  .ant-modal-content, .ant-modal-header{
+    background-color: #3E3E5B;
+  }
+  .ant-modal-body{
+    .form-edit-device {
+      .ant-form-item{
+        margin-bottom: 16px;
+        &-label {
+          .label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::after{
+            margin-top: 5px;
+          }
+        }
+        .ant-form-item-control{
+          &-input{
+            &-content{
+              .ant-input{
+                background-color: #2B2B3F;
+                border-color: #727288;
+                min-height: 48px;
+                color: #F5F5FF;
+              }
+              .ant-radio-group{
+                .ant-radio-wrapper{
+                  color: #F5F5FF;
+                  text-transform: capitalize;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

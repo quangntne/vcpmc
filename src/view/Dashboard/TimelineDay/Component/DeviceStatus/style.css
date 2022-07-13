@@ -1,0 +1,74 @@
+.device-status {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: #3b3e55;
+  margin-bottom: 20px;
+  padding: 20px 10px;
+  border-radius: 20px;
+}
+
+.device-status .status {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.device-status .status .label {
+  white-space: nowrap;
+}
+
+.device-status .status .full-status-bar {
+  width: 100%;
+  background-color: #46485d;
+  border-radius: 15px;
+  height: 70%;
+  overflow: hidden;
+  margin-right: 50px;
+  margin-left: 15px;
+}
+
+.device-status .status .status-bar {
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.device-status .bg-active {
+  background-color: #7FB800;
+}
+
+.device-status .color-active {
+  color: #7FB800;
+}
+
+.device-status .bg-inactive {
+  background-color: #E15554;
+}
+
+.device-status .color-inactive {
+  color: #E15554;
+}
+
+.device-status .bg-warranty {
+  background-color: #FFC81E;
+}
+
+.device-status .color-warranty {
+  color: #FFC81E;
+}
+/*# sourceMappingURL=style.css.map */

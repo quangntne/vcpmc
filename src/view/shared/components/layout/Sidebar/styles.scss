@@ -1,0 +1,133 @@
+@import "./../../../../styles/variable";
+@import "./../Header/styles.scss";
+
+$size-img: 80px;
+@mixin logo {
+  margin-top: 40px;
+  height: $size-img;
+  width: $size-img;
+}
+.sider-component {
+  display: flex;
+  min-width: 20px;
+  background-color: $color-sidebar;
+  border-radius: 0px 24px 24px 0px;
+  transition: all 0.2s linear;
+  .logo img {
+    @include logo();
+  }
+
+  .mask {
+    left: 0%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    background-color: $color-sidebar;
+    border-radius: 0px 24px 24px 0px;
+    transition: all 0.2s linear;
+    z-index: 2;
+    .menu {
+      .item-label {
+        padding-top: 22px;
+        padding-bottom: 22px;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        transition: 0.2s;
+        &:hover {
+          opacity: 0.7;
+        }
+        .item__nav {
+          @include text-wrap;
+          font-weight: $font-weight-medium;
+          font-size: 14px;
+          color: $color-sidebar-text;
+          padding-top: 4px;
+          width: 110px;
+          margin: 0 auto;
+        }
+        .item-hover__icon .anticon svg {
+          font-size: 30px;
+          color: $color-sidebar-text;
+        }
+      }
+      .menu--component--item.menu-active {
+        position: relative;
+        .item__nav {
+          color: $color__yellow;
+        }
+        .item-hover__icon .anticon svg {
+          color: $color__yellow;
+        }
+        &::before {
+          display: block;
+          content: "";
+          width: 8px;
+          height: 72px;
+          background: $color__yellow;
+          position: absolute;
+          left: 0;
+          border-radius: 8px;
+          top: 50%;
+          transform: translateY(-50%);
+        }
+        .icon-3dot {
+          color: $color__yellow;
+        }
+      }
+      .menu--component--item.three-dot {
+        position: relative;
+        cursor: pointer !important;
+        .icon-3dot {
+          position: absolute;
+          top: 39%;
+          transform: translateY(-50%);
+          right: 8%;
+          &:hover {
+            color: $color__yellow;
+          }
+        }
+        .dropdown-3dot {
+          display: none;
+          position: absolute;
+          top: 0;
+          border-radius: 0 8px 8px 0;
+          background-color: $color-dropdown;
+          z-index: 99;
+          left: 100%;
+          width: 150%;
+          &__item {
+            display: block;
+            text-align: left;
+            padding: 12px 24px 9px;
+            transition: 0.2s;
+            width: 150%;
+            &:hover {
+              opacity: 0.4;
+            }
+          }
+          &__item.active {
+            color: $color__yellow;
+          }
+        }
+        &:hover .dropdown-3dot {
+          display: block;
+        }
+      }
+    }
+  }
+  .icon {
+    position: absolute;
+    top: 50%;
+    color: #ff7506;
+    font-size: 2rem;
+    left: -5px;
+    z-index: 1;
+  }
+}
+.sider-component-pointer {
+  cursor: pointer;
+}

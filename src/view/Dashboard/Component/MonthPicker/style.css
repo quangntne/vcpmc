@@ -1,0 +1,71 @@
+.month-picker {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 20px 20px;
+  background-color: #3b3e55;
+  color: #ffffff;
+  width: 100%;
+  height: 72px;
+}
+
+.month-picker .show-month {
+  font-size: 20px;
+}
+
+.month-picker .show-month i {
+  cursor: pointer;
+}
+
+.month-picker .custom-datepicker {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.month-picker .custom-datepicker .antd-daypicker {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+
+.month-picker .custom-datepicker .antd-daypicker .ant-picker-clear {
+  display: none !important;
+}
+
+.month-picker .custom-datepicker .icon-datepicker {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  z-index: 1;
+  font-size: 17px;
+  width: 30px;
+  color: #000;
+  background-color: #939393;
+  padding: 7px;
+  border-radius: 8px;
+  height: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,79 @@
+.actionHeader {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 52px;
+  .filter {
+    display: flex;
+    align-items: baseline;
+    width: 600px;
+    justify-content: space-around;
+    p {
+      font-size: 16px;
+    }
+  }
+  .export {
+    button {
+      width: 170px;
+      height: 38px;
+      background-color: #ff7506;
+      border: none;
+      color: white;
+    }
+  }
+  .ant-picker {
+    width: 200px;
+    height: 40px;
+  }
+}
+
+@import "./../styles/variable";
+th.ant-table-selection-column .ant-radio-wrapper,
+td.ant-table-selection-column .ant-radio-wrapper {
+  display: none;
+}
+tr.ant-table-row.ant-table-row-level-0.ant-table-row-selected {
+  background-color: $color__yellow;
+}
+.table-playlist,
+.template-table {
+  .ant-table-thead > tr > th,
+  .ant-table-tbody > tr > td {
+    position: relative;
+    padding: 16px 16px 16px 0px;
+  }
+  tr.ant-table-row-level-0.ant-table-row-selected.ant-table-row:first-child
+    td.ant-table-cell {
+    border-top: 1px solid white;
+  }
+}
+$size: 14px;
+.table-playlist
+  .ant-table-tbody
+  > tr.ant-table-row-selected
+  > td:last-child:after {
+  display: block;
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  right: -$size;
+  top: 50%;
+  transform: translateY(-50%);
+  border-top: $size solid transparent;
+  border-bottom: $size solid transparent;
+  border-left: $size solid $color__yellow;
+}
+.pagesize {
+  display: none;
+}
+.template-table {
+}
+.total-template {
+  font-weight: 600;
+  text-align: right;
+  margin-top: 23px;
+}
+.list-button-template {
+  display: flex;
+  justify-content: space-between;
+}

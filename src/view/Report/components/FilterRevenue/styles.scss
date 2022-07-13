@@ -1,0 +1,25 @@
+.filterRevenuew {
+  button.ant-btn.normal-button,
+  .ant-modal-confirm-btns button.ant-btn.ant-btn-dangerous {
+    background-color: #ff7506;
+    margin-left: 40px !important;
+  }
+}
+
+.filterRevenuew {
+  .select-custom {
+    .ant-select-selector {
+      border-color: #727288;
+      padding-left: 0.8vw !important;
+      padding-right: 5vw !important;
+    }
+  }
+}
+
+.label-title-report {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 16px !important;
+  line-height: 24px;
+  margin-top: 1.2vh;
+}

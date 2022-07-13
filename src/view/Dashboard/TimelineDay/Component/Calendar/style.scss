@@ -1,0 +1,133 @@
+.device-calendar {
+    width: 80%;
+    position: relative;
+
+    .device-row:last-child {
+        border-bottom: none !important;
+    }
+
+    .device-row {
+        border-bottom: 1px solid rgb(92, 92, 92);
+        height: 71px;
+
+        &:last-child {
+            border-bottom: none !important;
+        }
+
+        .day {
+            box-sizing: border-box;
+            height: 100%;
+            width: 100%;
+            border-right: 1px solid rgb(92, 92, 92);
+            background-color: #3B3E55;
+
+            &:last-child {
+                border-right: none;
+            }
+        }
+
+        .active-day {
+            width: 100%;
+            height: 100%;
+            background-color: #00B2CA;
+            cursor: pointer;
+
+            &:hover {
+                opacity: .8;
+            }
+        }
+
+        .start-day {
+            border-top-left-radius: 8px;
+            border-bottom-left-radius: 8px;
+        }
+
+        .end-day {
+            border-top-right-radius: 8px;
+            border-bottom-right-radius: 8px;
+        }
+
+        .border-00B2CA {
+            border-color: #00B2CA !important;
+        }
+    }
+
+    .device-title {
+        font-weight: bold;
+        color: #fff;
+        background-color: #FF7506;
+        align-items: center;
+        padding: 5px 15px;
+        display: flex;
+        justify-content: space-between;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+    }
+    .playlists-in-device {
+        z-index: 9999;
+        border-radius: 7px;
+        width: 260px;
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+
+
+        .item-bg{
+            background-color: #5E5B6A;
+        }
+        .list-title{
+            font-size: 17px;
+            font-weight: 600;
+        }
+
+        .playlist-list, .schedule-list {
+            max-height: 200px;
+            overflow-y: auto;
+            //margin-right: -6px;
+
+            .wrap-playlist-item, .wrap-schedule-item {
+                //background-color: #5E5B6A;
+                color: rgb(189, 189, 189);
+                cursor: pointer;
+
+                &:hover {
+                    background-color: #716e80;
+                    color: #fff;
+                }
+
+                &:last-child {
+                    padding-bottom: 10px;
+                //    border-bottom: none;
+                //    border-bottom-left-radius: 7px;
+                //    border-bottom-right-radius: 7px;
+                //
+                    .playlist-item, .schedule-item {
+                //        border-bottom: none !important;
+
+                    }
+                }
+
+                .playlist-item, .schedule-item {
+                    display: flex;
+                    justify-content: space-between;
+                    //border-bottom: 1px dashed #fff;
+                    font-size: 14px;
+                    margin: 0 10px;
+                    padding: 5px;
+                }
+                .playlist-item-line, .schedule-item-line {
+                    border-bottom: 1px dashed #fff;
+                }
+            }
+        }
+    }
+
+    .calender-loading {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+    }
+}

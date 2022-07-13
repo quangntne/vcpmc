@@ -1,0 +1,117 @@
+.dashboard {
+
+    width: 100%;
+
+    .device-schedule {
+        width: 100%;
+        border-radius: 10px;
+
+        .header-filter-data {
+            width: 100%;
+            display: flex;
+
+            .device-filter {
+                background-color: #2C2C4B;
+                width: 20%;
+                max-width: 20%;
+                min-width: 20%;
+                color: #fff;
+                padding: 10px 0 0px 10px;
+
+                .header {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 20px;
+                }
+
+                .ant-checkbox+span {
+                    color: #fff !important;
+                }
+            }
+
+            .wrap-calendar {
+                width: 80%;
+                height: 100%;
+
+                .list-day-in-monh {
+                    display: flex;
+                    background-color: #FF7506;
+                    color: #fff;
+                    padding: 6px 0;
+
+                    .day {
+                        width: 100%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        padding: 9px 0;
+                        border-right: 1px solid #ffbd86;
+
+                        &:last-child {
+                            border-right: none;
+                        }
+                    }
+                }
+            }
+        }
+
+        .list-device-by-calendar {
+            display: flex;
+            max-height: 600px;
+            overflow-y: scroll;
+            overflow-x: hidden;
+            position: relative;
+            margin-right: -6px;
+            min-height: 300px;
+
+            .nodata {
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+            }
+
+            .calendar-loading {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+
+            .list-device {
+                background-color: #2C2C4B;
+                width: 20%;
+                max-width: 20%;
+                min-width: 20%;
+                height: 100%;
+                color: #fff;
+                padding: 0 0 0 10px;
+
+                .header {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 20px;
+                }
+
+                .ant-checkbox+span {
+                    color: #fff !important;
+                }
+            }
+        }
+
+        // .list-device-by-calendar::-webkit-scrollbar-track {
+
+        //     position: absolute;
+        // }
+
+        // .list-device-by-calendar::-webkit-scrollbar {
+
+        //     position: absolute;
+        // }
+
+        // .list-device-by-calendar::-webkit-scrollbar-thumb {
+        //     position: absolute;
+        // }
+    }
+
+}

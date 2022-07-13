@@ -1,0 +1,12 @@
+@import "./../../../../styles/variable";
+
+.content {
+  color: rgba($color: $color--main-text, $alpha: 0.8);
+  font-size: 1rem;
+  *{
+    color: rgba($color: $color--main-text, $alpha: 0.8);
+  }
+  
+
+  //@include text-wrap();
+}

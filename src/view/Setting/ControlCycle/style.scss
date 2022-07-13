@@ -1,0 +1,23 @@
+.label-div-setting {
+    height: 65vh;
+    padding-top: 40px;
+    padding-left: 40px;
+    background: rgba(47, 47, 65, 0.7);
+    border-radius: 16px;
+}
+.label-date {
+    margin-top: 1vh;
+    margin-left: 1vw;
+}
+.label-datepicker-setting {
+    width: 15vw;
+    background-color: #33334d;
+    input {
+        background-color: #33334d;
+    }
+}
+.label-disable-button {
+    button {
+        background-color: #878890 !important;
+    }
+}

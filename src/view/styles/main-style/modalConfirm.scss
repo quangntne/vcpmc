@@ -1,0 +1,52 @@
+@use "variable";
+.ant-modal-content {
+  background-color: $color--card;
+  border-radius: 16px;
+}
+.ant-modal-confirm .ant-modal-body {
+  padding: 0;
+  span.anticon.anticon-exclamation-circle {
+    display: none;
+  }
+  .anticon.ant-notification-notice-icon-error {
+    display: none;
+  }
+}
+
+
+span.ant-modal-confirm-title {
+  padding: 14px 46px;
+  background-color: $color__yellow;
+  border-radius: 10px 10px 0 0;
+  font-size: 1.6rem;
+}
+.ant-notification .anticon-close-circle {
+  display: none;
+}
+.ant-modal-confirm-body {
+  &-wrapper{
+    padding: 32px 33px 56px 33px;
+
+  }
+  .ant-modal-confirm-title {
+    font-weight: bold;
+    color: white;
+  }
+  .ant-modal-confirm-title {
+    font-size: 1.6rem;
+    text-transform: capitalize;
+    //padding: 16px 40px;
+
+  }
+  .ant-modal-confirm-content {
+    //font-weight: 700;
+    font-size: 1.2rem;
+    margin-bottom: 35px;
+    color: white;
+  }
+
+  & > .anticon + .ant-modal-confirm-title + .ant-modal-confirm-content {
+    margin-left: 0 !important;
+    //margin-top: 38px;
+  }
+}

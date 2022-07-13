@@ -1,0 +1,19 @@
+div#root {
+  border: 1px solid black;
+  height: 100%;
+  overflow: hidden;
+}
+
+.all-page-component {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+}
+
+.main-component {
+  padding: 30px 7vw 0 50px;
+  min-height: 99vh;
+}
+
+/*# sourceMappingURL=styles.css.map */

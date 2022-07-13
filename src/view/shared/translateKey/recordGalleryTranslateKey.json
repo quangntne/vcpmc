@@ -1,0 +1,157 @@
+{
+  "RECORD_GALLERY": {
+    "USA": "Record gallery",
+    "VNM": "Kho bản ghi"
+  },
+  "REASON_REJECT":{
+    "USA": "Reason to reject Record",
+    "VNM": "Lý do từ chối bản ghi"
+  },
+  "NO_RECORD":{
+    "USA": "No record in Record gallery",
+    "VNM": "Không có bản ghi mới trong Kho bản ghi"
+  },
+  "RECORD_NAME": {
+    "USA": "Record name",
+    "VNM": "Tên bản ghi"
+  },
+  "RECORD": {
+    "USA": "record",
+    "VNM": "bản ghi"
+  },
+  "TYPE": {
+    "USA": "Type",
+    "VNM": "Thể loại"
+  },
+  "FORMAT": {
+    "USA": "Format",
+    "VNM": "Định dạng"
+  },
+  "EX_DATE": {
+    "USA": "Expired date",
+    "VNM": "Thời hạn sử dụng"
+  },
+
+
+  "STATUS": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "APPROVE_BY_USER": {
+    "USA": "Approve by user",
+    "VNM": "Duyệt bởi người dùng"
+  },
+  "APPROVE_AUTO": {
+    "USA": "Approve automatic",
+    "VNM": "Duyệt tự động"
+  },
+  "SINGER": {
+    "USA": "Singer",
+    "VNM": "Ca sĩ"
+  },
+  "DURATION": {
+    "USA": "Duration",
+    "VNM": "Thời lượng"
+  },
+  "ISRC": {
+    "USA": "ISRC code",
+    "VNM": "Mã ISRC"
+  },
+  "DOWNLOAD_DATE": {
+    "USA": "Download date",
+    "VNM": "Ngày tải"
+  },
+  "CONTRACT_ID": {
+    "USA": "Contract ID",
+    "VNM": "Số hợp đồng"
+  },
+  "WRITERS": {
+    "USA": "Writers",
+    "VNM": "Tác giả"
+  },
+  "APPROVAL_MANAGERMENT": {
+    "USA": "Approval managerment",
+    "VNM": "Quản lý phê duyệt"
+  },
+  "EXPIRATION_DATE": {
+    "USA": "Expiration date",
+    "VNM": "Ngày hết hạn"
+  },
+  "UPDATE": {
+    "USA": "Update",
+    "VNM": "Cập nhật"
+  },
+  "LISTEN": {
+    "USA": "Listen",
+    "VNM": "Nghe"
+  },
+  "APPROVAL": {
+    "USA": "Approval",
+    "VNM": "Phê duyệt"
+  },
+  "DENIED": {
+    "USA": "Denied",
+    "VNM": "Từ chối"
+  },
+  "SELECT_ALL": {
+    "USA": "Select all",
+    "VNM": "Chọn tất cả"
+  },
+  "INFO": {
+    "USA": "Info",
+    "VNM": "Thông Tin"
+  },
+  "AUTHORITY_INFO": {
+    "USA": "Authority Info",
+    "VNM": "Thông Tin Ủy Quyền"
+  },
+  "EDIT_INFO": {
+    "USA": "Edit info",
+    "VNM": "Chỉnh sửa thông tin"
+  },
+  "ADD_DAY": {
+    "VNM": "Ngày thêm",
+    "USA": "Day added"
+  },
+  "UPLOADER": {
+    "USA": "Uploader",
+    "VNM": "Người tải lên"
+  },
+  "APPROVE_BY": {
+    "USA": "Approve by",
+    "VNM": "Người duyệt"
+  },
+  "DATE_APP": {
+    "USA": "Date approval",
+    "VNM": "Ngày phê duyệt"
+  },
+  "AU_DATE": {
+    "USA": "Authorization date",
+    "VNM": "Ngày nhận ủy quyền"
+  },
+  "PRODUCER": {
+    "USA": "Producer",
+    "VNM": "Nhà sản xuất"
+  },
+  "SAVE": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy"
+  },
+  "REMOVE": {
+    "USA": "Remove",
+    "VNM": "Gỡ"
+  },
+  
+  "ADD_NODATA": {
+    "USA": "No record in record Gallery",
+    "VNM": "Không có bản ghi nào trong danh sách"
+  },
+  "PLAYLIST_NAME": {
+    "USA": "Playlist",
+    "VNM": "Tên"
+  }
+}

@@ -1,0 +1,62 @@
+.label-modal-changepassword {
+    .ant-modal-close-x{
+        display: none;
+    }
+    .ant-modal-header {
+        border-bottom: none;
+        border-radius: 10px 10px 0 0;
+        background-color: #3B3E55;
+        .ant-modal-title{
+            margin-top: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 24px;
+            color: #F5F5FF;
+        }
+    }
+    .ant-modal-footer{
+        border-top: none;
+        text-align: center;
+        padding: 0px 16px;
+        button {
+            width: 8vw;
+            height: 4.5vh;
+            margin-bottom: 28px;
+        }
+        button:nth-child(1) {
+            background-color: #3b3e55;
+            color: #FF7506;
+            border: solid 1px #FF7506;
+            border-radius: 8px;
+            margin-right: 2vw;
+        }
+        button:nth-child(2) {
+            background-color: #FF7506;
+            border: none;
+            border-radius: 8px;
+        }
+    }
+}
+.label-item-changepassword {
+    label {
+        text-align: left;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #F5F5FF;
+    }
+    input {
+        background-color: #2B2B3F;
+        color: #F5F5FF;
+    }
+    .ant-input-password {
+        height: 4vh;
+        border: none;
+        background-color: #2b2b3f;
+        padding: 0px 16px;
+    }
+    .ant-form-item {
+        margin-bottom: 19px;
+    }
+}

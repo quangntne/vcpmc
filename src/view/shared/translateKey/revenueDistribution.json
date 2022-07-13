@@ -1,0 +1,142 @@
+{
+  "REVENUE_DISTRIBUTION": {
+    "USA": "Revenue distribution",
+    "VNM": "Quản lý phân phối doanh thu"
+  },
+  "CONTRACT_LIST": {
+    "USA": "CONTRACT LIST",
+    "VNM": "DANH SÁCH HỢP ĐồnG"
+  },
+  "contract_authorization": {
+    "USA": "Authorization Contract",
+    "VNM": "Hợp đồng ủy quyền"
+  },
+  "authorityUserName": {
+    "USA": "Authority UserName",
+    "VNM": "Người ủy quyền"
+  },
+  "countMedia": {
+    "USA": "Count Media",
+    "VNM": "Số bài hát ủy quyền"
+  },
+  "Revenue": {
+    "USA": "Revenue",
+    "VNM": "Doanh thu"
+  },
+  "vcpmc": {
+    "USA": "VCPMC",
+    "VNM": "Hành chính phí"
+  },
+  "Author": {
+    "USA": "Author",
+    "VNM": "Tác giả"
+  },
+  "dateLatchData": {
+    "USA": "Date latch data",
+    "VNM": "Ngày chốt đối soát"
+  },
+  "Detail": {
+    "USA": "Detail",
+    "VNM": "Xem chi tiết"
+  },
+  "Find_Contract": {
+    "USA": "Find with contract",
+    "VNM": "Tìm theo hợp đồng"
+  },
+  "mediaName": {
+    "USA": "Media Name",
+    "VNM": "Bài hát"
+  },
+  "CountPlays": {
+    "USA": "Count plays",
+    "VNM": "Số lượt phát"
+  },
+  "Author_Music": {
+    "USA": "Author",
+    "VNM": "Nhuận bút"
+  },
+  "REVENUE_DISTRIBUTION_DETAIL": {
+    "USA": "Detail Revenue distribution",
+    "VNM": "Chi tiết phân phối doanh thu"
+  },
+  "BusinessCustomersName": {
+    "USA": "Customers Name",
+    "VNM": "Đơn vị khai thác"
+  },
+  "countPlaysMedia": {
+    "USA": "Count Plays",
+    "VNM": "Số lượt phát"
+  },
+  "LIST_MUSIC": {
+    "USA": "LIST MUSICS",
+    "VNM": "DANH SÁCH BÀI HÁT"
+  },
+  "Detail_Revenue": {
+    "USA": "DETAIL REVENUE",
+    "VNM": "Chi tiết doanh thu"
+  },
+  "EXPORT": {
+    "USA": "Export",
+    "VNM": "Xuất file"
+  },
+  "PLAMUSICS": {
+    "USA": "Find with music name",
+    "VNM": "Tìm theo tên bài hát"
+  },
+  "PLAMEDIA": {
+    "USA": "Find with customer name",
+    "VNM": "Tìm theo đơn vị khai thác"
+  },
+  "Quarter": {
+    "USA": "Quarter",
+    "VNM": "Quý"
+  },
+  "Month": {
+    "USA": "Month",
+    "VNM": "Tháng"
+  },
+  "DateFrom": {
+    "USA": "Date From",
+    "VNM": "Ngày bắt đầu"
+  },
+  "DateTo": {
+    "USA": "Date To",
+    "VNM": "Ngày kết thúc"
+  },
+  "EXPORT_DATA": {
+    "USA": "Export data",
+    "VNM": "Xuất dữ liệu"
+  },
+  "NO": {
+    "USA": "No",
+    "VNM": "STT"
+  },
+  "ROYAL": {
+    "USA": "Royalties",
+    "VNM": "Mức nhuận bút"
+  },
+  "MONTHLY": {
+    "USA": "Monthly",
+    "VNM": "Theo tháng"
+  },
+  "LIST_CONTRACT": {
+    "USA": "List of authorized contracts",
+    "VNM": "Danh sách hợp đồng ủy quyền"
+  },
+  "SUM": {
+    "USA": "Sum",
+    "VNM": "Tổng"
+  },
+  "LIST_RECORDS": {
+    "USA": "List of records",
+    "VNM": "Danh sách bản ghi"
+  },
+  "REVENU_RECORDS": {
+    "USA": "Revenu records",
+    "VNM": "Doanh thu bản ghi"
+  },
+  "PRESS_SONG": {
+    "USA": "Enter song",
+    "VNM": "Nhập tên bài hát"
+  }
+}

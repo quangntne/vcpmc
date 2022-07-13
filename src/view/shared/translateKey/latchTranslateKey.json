@@ -1,0 +1,22 @@
+{
+  "CONTRACT_NAME_LATCH": {
+    "USA": "Contract Name",
+    "VNM": "Tên Hợp Đồng"
+  },
+  "TYPE_LATCH": {
+    "USA": "Contract Type",
+    "VNM": "Loại Hợp Đồng"
+  },
+  "DATE_LATCH": {
+    "USA": "Date Of Latch",
+    "VNM": "Ngày Đối Soát"
+  },
+  "DATE_CONFIRM_LATCH": {
+    "USA": "Date Of Action",
+    "VNM": "Ngày Thực Hiện"
+  },
+  "LATCH_DATA": {
+    "USA": "Latch data",
+    "VNM": "Chốt dữ liệu"
+  }
+}

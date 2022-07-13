@@ -1,0 +1,25 @@
+.ant-descriptions{
+    background: #3B3E554F;
+    color: #fff;
+    
+    .ant-descriptions-header{
+        background: #FF7506;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        .ant-descriptions-title{
+            color: #fff;
+            padding: 0.5rem 1rem;
+        }
+    }
+    .ant-descriptions-view{
+        padding: 1rem;
+    }
+    .ant-descriptions-item-container{
+        .ant-descriptions-item-label{
+            color: #F1EEEE96;
+        }
+        .ant-descriptions-item-content{
+            color: #ffffff
+        }
+    }
+}

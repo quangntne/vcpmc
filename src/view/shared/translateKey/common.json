@@ -1,0 +1,344 @@
+{
+ 
+	"ACTION": {
+		"USA": "Action",
+		"VNM": "Hành động"
+	},
+	"ADD": {
+		"USA": "Add",
+		"VNM": "Thêm"
+	},
+	"EDIT": {
+		"VNM": "Chỉnh sửa",
+		"USA": "Edit"
+	},
+	"STT": {
+		"USA": "No",
+		"VNM": "STT"
+	},
+	"NO": {
+		"USA": "No",
+		"VNM": "Không"
+	},
+	"UPLOAD_IMG": {
+		"USA": "Upload avatar",
+		"VNM": "Tải ảnh đại diện"
+	},
+	"ASSIGN": {
+		"USA": "Assign",
+		"VNM": "Chỉ định"
+	},
+	"SIGN_IN": {
+		"USA": "Sign in",
+		"VNM": "Đăng nhập"
+	},
+	"SIGN_OUT": {
+		"USA": "Sign out",
+		"VNM": "Đăng xuất"
+	},
+	"SUBMIT": {
+		"USA": "Submit",
+		"VNM": "Gửi"
+	},
+	"HOME": {
+		"USA": "Home",
+		"VNM": "Trang chủ"
+	},
+	"COUNTRY": {
+		"USA": "Country",
+		"VNM": "Quốc gia"
+	},
+	"HELLO": {
+		"USA": "Hello",
+		"VNM": "Xin chào"
+	},
+	"TITLE": {
+		"USA": "Title",
+		"VNM": "Tiêu đề"
+	},
+	"CREATE": {
+		"USA": "Create",
+		"VNM": "Tạo mới"
+	},
+	
+	"UPDATE": {
+		"USA": "Update",
+		"VNM": "Cập nhật"
+	},
+	"UPDATE_PASS": {
+		"USA": "Save Password",
+		"VNM": "Lưu mật khẩu"
+	},
+	"SAVE": {
+		"USA": "Save",
+		"VNM": "Lưu"
+	},
+	"CANCEL": {
+		"USA": "Cancel",
+		"VNM": "Hủy"
+	},
+	"YES": {
+		"USA": "Yes",
+		"VNM": "Đồng ý"
+	},
+	"SELECT": {
+		"USA": "Select",
+		"VNM": "Chọn"
+	},
+	"DETAIL": {
+		"USA": "Detail",
+		"VNM": "Chi tiết"
+	},
+	"TOTAL": {
+		"USA": "Total",
+		"VNM": "Tổng"
+	},
+	"TYPE": {
+		"USA": "Type",
+		"VNM": "Loại"
+	},
+	"SURE_DELETE": {
+		"USA": "Are you sure to delete",
+		"VNM": "Bạn có chắc chắn xóa"
+	},
+	"PLACEHOLDER": {
+		"USA": "Type here...",
+		"VNM": "Nhập vào đây..."
+	},
+	"SEARCH": {
+		"USA": "Search",
+		"VNM": "Tìm kiếm"
+	},
+	"LANGUAGE": {
+		"USA": "Language",
+		"VNM": "Ngôn ngữ"
+	},
+	"IMPORT": {
+		"USA": "Import",
+		"VNM": "Nhập"
+	},
+	"EXPORT": {
+		"USA": "Export",
+		"VNM": "Xuất"
+	},
+	"SIGN_UP": {
+		"USA": "Sign Up",
+		"VNM": "Đăng ký"
+	},
+	"CONFIRM_DELETE": {
+		"USA": "Confirm Before Delete",
+		"VNM": "Xác Nhận Trước Khi Xóa"
+	},
+	"DELETE": {
+		"USA": "Delete",
+		"VNM": "Xóa"
+	},
+	"Upload_IMG": {
+		"USA": "Click to upload it.",
+		"VNM": "Nhấp vào đây để tải ảnh lên."
+	},
+	"VALIDATE_REQUIRE": {
+		"USA": "Please enter",
+		"VNM": "Vui lòng nhập"
+	},
+	"WHITE_SPACE": {
+		"USA": "Please don't type whitespace",
+		"VNM": "Vui lòng không nhập khoảng trắng"
+	},
+	"LIST_UNITS_USED": {
+		"USA": "List of units used",
+		"VNM": "Danh sách đơn vị sử dụng"
+	},
+	"LIST_USER": {
+		"USA": "Unit User",
+		"VNM": "Đơn vị sử dung"
+	},
+	"PASSWORD": {
+		"USA": "PASSWORD",
+		"VNM": "Mật khẩu"
+	},
+	"DISPLAY": {
+		"USA": "Display",
+		"VNM": "Hiển thị"
+	},
+	"OF": {
+		"USA": "of",
+		"VNM": "của"
+	},
+	"ENTRIES": {
+		"USA": "entries per page",
+		"VNM": "hàng trên mỗi trang"
+	},
+	"PAGE": {
+		"USA": "page",
+		"VNM": "trang"
+	},
+	"CHANGE_PASSWORD": {
+		"USA": "Change Password",
+		"VNM": "Đổi mật khẩu"
+	},
+	"CONFIRM_PASS": {
+		"USA": "CONFIRM PASSWORD",
+		"VNM": "Nhập lại mật khẩu mới:"
+	},
+	"FORGOT_PASS": {
+		"USA": "Forgot your password ?",
+		"VNM": "Quên mật khẩu ?"
+	},
+	"FORGOT_PASS_TITLE": {
+		"USA": "FORGOT PASS",
+		"VNM": "Khôi phục mật khẩu"
+	},
+	"REMEMBER_ACC": {
+		"USA": "Your remember account",
+		"VNM": "Ghi nhớ đăng nhập"
+	},
+	"REMEMBER": {
+		"USA": "Remember me ?",
+		"VNM": "Ghi nhớ mật khẩu ?"
+	},
+	"SEND": {
+		"USA": "Send",
+		"VNM": "Xác nhận"
+	},
+	"EXPIRED": {
+		"USA": "Expired",
+		"VNM": "Hết hạn"
+	},
+	"CREATE_AT": {
+		"USA": "Create At",
+		"VNM": "Ngày Tạo"
+	},
+	"CREATOR": {
+		"USA": "Creator",
+		"VNM": "Ngày Tạo"
+	},
+	"UPLOADER": {
+		"USA": "Uploader",
+		"VNM": "Người tải lên"
+	},
+	"DROP": {
+		"USA": "Drop",
+		"VNM": "Cắt"
+	},
+	"ALL": {
+		"USA": "All",
+		"VNM": "Tất cả"
+	},
+	"CLICK": {
+		"USA": "Click to Change",
+		"VNM": "Bấm để thay đổi"
+	},
+	"TRACKING_VIEW": {
+		"USA": "Tracking view",
+		"VNM": "Theo dõi lượt phát"
+	},
+	"GO_BACK": {
+		"USA": "Go back",
+		"VNM": "Quay lại"
+	},
+	"PLACEHOLDER_SELECT": {
+		"USA": "Select here...",
+		"VNM": "Chọn vào đây..."
+	},
+	"EXPORT_CSV": {
+		"USA": "Export data (CSV)",
+		"VNM": "Xuất dữ liệu (CSV)"
+	},
+	"REPORT_BY_DATE": {
+		"USA": "Report by date",
+		"VNM": "Báo cáo theo ngày"
+	},
+	"USER_NAME": {
+		"USA": "USER NAME",
+		"VNM": "Tên đăng nhập"
+	},
+	"ERROR_LACK_VALUE": {
+		"USA": "Please enter the account and password",
+		"VNM": "Hãy nhập tài khoản và mật khẩu"
+	},
+	"ERROR_ACONT": {
+		"USA": "Wrong login name or password",
+		"VNM": "Sai tên đăng nhập hoặc mật khẩu"
+	},
+	"ERROR_EMAIL": {
+		"USA": "Email is not correct",
+		"VNM": "Email không đúng"
+	},
+	"IS_UNVALID_EMAIL": {
+		"USA": "is not valid email",
+		"VNM": "là email không hợp lệ"
+	},
+	"BACK_SIGNIN": {
+		"USA": "Back login",
+		"VNM": "Quay lại đăng nhập"
+	},
+	"RESETPASS": {
+		"USA": "RESET PASS",
+		"VNM": "Đặt lại mật khẩu"
+	},
+	"NEWPASS": {
+		"USA": "New Pass",
+		"VNM": "Mật khẩu mới"
+	},
+	"ENTER_EMAIL": {
+		"USA": "Please enter your registered email address to request a password reset",
+		"VNM": "Vui lòng nhập địa chỉ email đã đăng ký để yêu cầu khôi phục mật khẩu"
+	},
+	"PASS_RECOVER": {
+		"USA": "Password recovery link has been sent to your email. Please check your mail.",
+		"VNM": "Link khôi phục mật khẩu đã được gửi vào mail của bạn. Vui lòng kiểm tra mail."
+	},
+	"CLICK_LINK": {
+		"USA": "Click on the link attached in the email to go to the password reset page.",
+		"VNM": "Click vào đường link được đính kèm trong mail để chuyển đến trang đặt lại mật khẩu."
+	},
+	"UNABLE_CONNECT": {
+		"USA": "Unable to connect !!",
+		"VNM": "Không thể kết nối !!"
+	},
+	"THERE_SEEMS": {
+		"USA": "There seems to be a problem or the link has expired. Please try again",
+		"VNM": "Dường như đã có chút trục trặc hoặc link này đã hết hạn. Vui lòng thử lại"
+	},
+	"REQUEST": {
+		"USA": "or request a resend link to reset your password.",
+		"VNM": "hoặc yêu cầu gửi lại link để đặt lại mật khẩu của bạn."
+	},
+	"REQUEST_LINK": {
+		"USA": "Request to resend link",
+		"VNM": "Yêu cầu gửi lại link"
+	},
+	"TODAY": {
+		"USA": "Today",
+		"VNM": "Hôm nay"
+	},
+	"T2": {
+		"USA": "Monday",
+		"VNM": "Thứ hai"
+	},
+	"T3": {
+		"USA": "Tuesday",
+		"VNM": "Thứ ba"
+	},
+	"T4": {
+		"USA": "Wednesday",
+		"VNM": "Thứ tư"
+	},
+	"T5": {
+		"USA": "Thursday",
+		"VNM": "Thứ năm"
+	},
+	"T6": {
+		"USA": "Friday",
+		"VNM": "Thứ sáu"
+	},
+	"T7": {
+		"USA": "Saturday",
+		"VNM": "Thứ bảy"
+	},
+	"CN": {
+		"USA": "Sunday",
+		"VNM": "Chủ nhật"
+	}
+}

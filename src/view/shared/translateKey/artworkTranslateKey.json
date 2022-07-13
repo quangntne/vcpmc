@@ -1,0 +1,250 @@
+{
+  "TITLE": {
+    "USA": "ArtWorks",
+    "VNM": "Danh sách tác phẩm"
+  },
+  "Action": {
+    "USA": "Action",
+    "VNM": "Hành động"
+  },
+  "APPROVED_SELECTED": {
+    "USA": "Approved selected",
+    "VNM": "Xác nhận các mục đã chọn"
+  },
+  "DELETE": {
+    "USA": "Delete",
+    "VNM": "Xóa"
+  },
+  "ADD_NEW_ARTWORK": {
+    "USA": "Add new artwork",
+    "VNM": "Thêm mới tác phẩm"
+  },
+  "CANCEL_SELECTED": {
+    "USA": "Cancel selected",
+    "VNM": "Hủy mục đã chọn"
+  },
+  "IMAGE": {
+    "USA": "Image",
+    "VNM": "Ảnh"
+  },
+  "VIDEO": {
+    "USA": "Video",
+    "VNM": "Video"
+  },
+  "AUDIO": {
+    "USA": "Audio",
+    "VNM": "Âm thanh"
+  },
+  "SELECTED_ALL": {
+    "USA": "Selected all",
+    "VNM": "Chọn tất cả"
+  },
+  "SEARCH_BY_NAME": {
+    "USA": "Search by name",
+    "VNM": "Tìm kiếm theo tên"
+  },
+  "LIBRARY": {
+    "USA": "Library",
+    "VNM": "Thư viện"
+  },
+  "GROUPS": {
+    "USA": "Groups",
+    "VNM": "Nhóm"
+  },
+  "ARTWORK_NAME": {
+    "USA": "Artwok name",
+    "VNM": "Tên tác phẩm"
+  },
+  "SAVE": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy"
+  },
+  "FIED_IS_NOT_EMPTY": {
+    "USA": "Fied is not empty",
+    "VNM": "Trường này không dược để trống"
+  },
+  "OR_YOU_CAN": {
+    "USA": "or you can",
+    "VNM": "hoặc bạn có thể"
+  },
+  "DESCRIPTION_UPLOAD": {
+    "USA": "Drop your Media file here or click to upload it.",
+    "VNM": "Thả tệp media của bạn tại đây hoặc nhấp vào để tải tệp lên."
+  },
+  "CONDITION_UPLOAD": {
+    "USA": "File is image, video or audio and size is less than 1GB",
+    "VNM": "Tệp là hình ảnh, video hoặc âm thanh và kích thước thấp hơn 1GB"
+  },
+  "URL": {
+    "USA": "URL",
+    "VNM": "Đường dẫn"
+  },
+  "CONFIRMED": {
+    "USA": "Confirmed",
+    "VNM": "Đã cấp quyền"
+  },
+  "UNCONFIMRED": {
+    "USA": "UnConfirmed",
+    "VNM": "Chưa cấp quyền"
+  },
+  "ARTWORKS": {
+    "USA": "ArtWorks",
+    "VNM": "Kho bản ghi"
+  },
+  "ARTWORK": {
+    "USA": "Artwork",
+    "VNM": "Tác Phẩm"
+  },
+  "DESCRIPTION_UPLOAD_DOC": {
+    "USA": "Drop your file here or click to upload it.",
+    "VNM": "Thả tệp media của bạn tại đây hoặc nhấp vào để tải tệp lên."
+  },
+  "CONDINATION_DOC": {
+    "USA": "Upload the file as doc,...",
+    "VNM": "Tải lên tệp dưới dạng doc,..."
+  },
+  "DETAIL_ARTWORK": {
+    "USA": "Detail artwork",
+    "VNM": "Chi tiết tác phẩm"
+  },
+  "UPLOAD_FILE": {
+    "USA": "Upload File",
+    "VNM": "Tải lên tệp"
+  },
+  "CONDINATION_MP3": {
+    "USA": "Upload the file as mp3,mp4,...",
+    "VNM": "Tải lên tệp dưới dạng mp3,mp4..."
+  },
+  "MIXES_REMIXES": {
+    "USA": "Mixes, Remixes",
+    "VNM": "Hòa âm, phối khí"
+  },
+  "ARTIST": {
+    "USA": "Artist",
+    "VNM": "Ca sĩ trình bày"
+  },
+  "WRITERS": {
+    "USA": "Writers",
+    "VNM": "Tác giả"
+  },
+  "DATE_RELEASE": {
+    "USA": "Date Release",
+    "VNM": "Ngày phát hành bài hát"
+  },
+  "DATE_PUBLISH": {
+    "USA": "Date Publish",
+    "VNM": "Ngày công bố bài hát"
+  },
+  "RECORDERS": {
+    "USA": "Recorders",
+    "VNM": "Thu âm"
+  },
+  "LYRIC": {
+    "USA": "Lyric",
+    "VNM": "Viết lời/ Ý thơ"
+  },
+  "EDIT_ARTWORK": {
+    "USA": "Edit",
+    "VNM": "Chỉnh sửa"
+  },
+  "ARTWORK_DESCRIPTION": {
+    "USA": "Artwork Description ",
+    "VNM": "Mô Tả Tác Phẩm"
+  },
+  "AUTHORITY_INFO": {
+    "USA": "Authority Info",
+    "VNM": "Thông Tin Ủy Quyền"
+  },
+  "ARTWORK_ACCEPT": {
+    "USA": "Artwork was authorization",
+    "VNM": "Tác phẩm đã được ủy quyền"
+  },
+  "ARTWORK_HAS_YET": {
+    "USA": "Artwork has yet authorization",
+    "VNM": "Tác phẩm chưa được ủy quyền"
+  },
+  "ARTWORK_REJECT": {
+    "USA": "Artwork is rejected authorization",
+    "VNM": "Tác phẩm đã bị từ chối ủy quyền"
+  },
+  "ARTWORK_DETAIL": {
+    "USA": "Artwork detail",
+    "VNM": "Thông tin tác phẩm"
+  },
+  "EXPIRED": {
+    "USA": "expired",
+    "VNM": "Đã hết hạn"
+  },
+  "UNEXPIRED": {
+    "USA": "unexpired",
+    "VNM": "Còn hạn"
+  },
+  "EXPIRING": {
+    "USA": "Expiring",
+    "VNM": "Sắp hết hạn"
+  },
+  "CONTRACT_CODE": {
+    "USA": "Contract code",
+    "VNM": "Mã số hợp đồng"
+  },
+  "DATE_AUTHORIZATION": {
+    "USA": "Date of authorization",
+    "VNM": "Ngày nhận ủy quyền"
+  },
+  "AUTHORIZATION_PERIOD": {
+    "USA": "Authorization period",
+    "VNM": "Thời hạn ủy quyền"
+  },
+  "STATUS": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "DAYS": {
+    "USA": "Day",
+    "VNM": "Ngày"
+  },
+  "MONTH": {
+    "USA": "Month",
+    "VNM": "Tháng"
+  },
+  "YEAR": {
+    "USA": "Year",
+    "VNM": "Năm"
+  },
+  "DOCUMENT": {
+    "USA": "Document",
+    "VNM": "Tài liệu"
+  },
+  "MESSAGE_REQUIRE_ARTWORK": {
+    "USA": "Please upload artwork!",
+    "VNM": "Vui lòng tải lên tác phẩm"
+  },
+  "APPROVED": {
+    "USA": "Approved",
+    "VNM": "Xác nhận"
+  },
+  "UNAPPROVED": {
+    "USA": "Unapproved",
+    "VNM": "Chưa xác nhận"
+  },
+  "WAITING": {
+    "USA": "Waiting",
+    "VNM": "Đang chờ"
+  },
+  "REJECT": {
+    "USA": "Reject",
+    "VNM": "Từ chối"
+  },
+  "CONFIRM_DELETE_SINGLE_ARTWORK": {
+    "USA": "Do you want to delete this artwork ?",
+    "VNM": "Bạn có muốn xóa các tác phẩm này không ?"
+  },
+  "TYPE_MEDIA": {
+    "USA": "Type",
+    "VNM": "Thể loái"
+  }
+}

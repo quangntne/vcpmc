@@ -1,0 +1,28 @@
+@use "variable";
+.circle-label {
+  color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
+  .circle-status {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 7px;
+  }
+  .circle-new {
+    background-color: #18e306;
+  }
+  .circle-time-left {
+    background-color: #347aff;
+  }
+  .circle-expired {
+    background-color: #878890;
+  }
+  .circle-cancel {
+    background-color: #ff4747;
+  }
+  .action-audition {
+    text-decoration: underline;
+    color: $color__yellow;
+  }
+}

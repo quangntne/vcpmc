@@ -1,0 +1,382 @@
+{
+  "data": [
+    {
+      "FE_KEY": "USER_CREATE_FE",
+      "BE_KEY": ["USER_CREATE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "USER_DELETE_FE",
+      "BE_KEY": ["USER_DELETE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "USER_UPDATE_FE",
+      "BE_KEY": ["USER_UPDATE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "USER_SHOW_FE",
+      "BE_KEY": ["USER_SHOW"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "MANAGER_USER",
+      "BE_KEY": ["USER_SHOW", "USER_UPDATE", "USER_DELETE", "USER_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "USER_MANAGER_FE",
+      "BE_KEY": ["USER_SHOW", "USER_UPDATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "PLAYLIST_CREATE_FE",
+      "BE_KEY": ["PLAYLIST_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "PLAYLIST_UPDATE_FE",
+      "BE_KEY": ["PLAYLIST_UPDATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "PLAYLIST_DELETE_FE",
+      "BE_KEY": ["PLAYLIST_DELETE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "PLAYLIST_RIGHT_MENU_FE",
+      "BE_KEY": ["PLAYLIST_DELETE", "PLAYLIST_UPDATE", "PLAYLIST_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "TEMPLATE_CREATE",
+      "BE_KEY": ["TEMPLATE_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "VIEW_TABLE_ROLE",
+      "BE_KEY": ["ROLE_SHOW", "SP_ROLE_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "TEMPLATE_DELETE",
+      "BE_KEY": ["TEMPLATE_DELETE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "TEMPLATE_UPDATE",
+      "BE_KEY": ["TEMPLATE_UPDATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "TEMPLATE_SHARE",
+      "BE_KEY": ["TEMPLATE_SHARE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "TEMPLATE_SHOW_FE",
+      "BE_KEY": ["TEMPLATE_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "TEMPLATE_RMN",
+      "BE_KEY": [
+        "TEMPLATE_DELETE",
+        "TEMPLATE_UPDATE",
+        "TEMPLATE_CREATE",
+        "TEMPLATE_SHARE"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "VIEW_TABLE_ROLE",
+      "BE_KEY": [],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SP_GROUP_SHOW_FE",
+      "BE_KEY": ["SP_GROUP_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "VIEW_LIST_MEDIA",
+      "BE_KEY": [""],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SB_ROLE",
+      "BE_KEY": [
+        "ROLE_CREATE",
+        "SP_ROLE_CREATE",
+        "ROLE_UPDATE",
+        "SP_ROLE_UPDATE",
+        "ROLE_DELETE",
+        "SP_ROLE_DELETE"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "ROLE_CREATE",
+      "BE_KEY": ["ROLE_CREATE", "SP_ROLE_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "ROLE_UPDATE",
+      "BE_KEY": ["ROLE_UPDATE", "SP_ROLE_UPDATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "ROLE_DELETE",
+      "BE_KEY": ["ROLE_DELETE", "SP_ROLE_DELETE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "ARR_MEDIA",
+      "BE_KEY": [
+        "MEDIA_APPROVE",
+        "SP_MEDIA_APPROVE",
+        "MEDIA_DELETE",
+        "SP_MEDIA_DELETE",
+        "MEDIA_CREATE",
+        "SP_MEDIA_CREATE"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "MEDIA_SHARE",
+      "BE_KEY": ["MEDIA_UPDATE", "MEDIA_SHARE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "MEDIA_APPROVE",
+      "BE_KEY": ["MEDIA_APPROVE", "SP_MEDIA_APPROVE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "MEDIA_DELETE",
+      "BE_KEY": ["MEDIA_DELETE", "SP_MEDIA_DELETE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "MEDIA_UPDATE",
+      "BE_KEY": ["MEDIA_UPDATE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "MEDIA_CREATE",
+      "BE_KEY": ["MEDIA_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "VIEW_DEVICE",
+      "BE_KEY": ["SP_DEVICE_SHOW", "DEVICE_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "CREAT_DEVICE",
+      "BE_KEY": ["SP_DEVICE_CREATE", "DEVICE_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "DELETE_DEVICE",
+      "BE_KEY": ["SP_DEVICE_DELETE", "DEVICE_DELETE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "EDIT_DEVICE",
+      "BE_KEY": ["SP_DEVICE_UPDATE", "DEVICE_UPDATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SCH_CREATE",
+      "BE_KEY": ["SCH_CREATE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "SCH_DELETE",
+      "BE_KEY": ["SCH_DELETE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "SCH_UPDATE",
+      "BE_KEY": ["SCH_UPDATE"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "SCH_SHOW",
+      "BE_KEY": ["SCH_SHOW"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "DASHBOARD_KEY",
+      "BE_KEY": ["DEVICE_SHOW"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "PLAYLIST_MENU",
+      "BE_KEY": ["PLAYLIST_CREATE", "PLAYLIST_DELETE", "PLAYLIST_UPDATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "MEDIA_MENU",
+      "BE_KEY": [
+        "MEDIA_APPROVE",
+        "MEDIA_CREATE",
+        "MEDIA_DELETE",
+        "MEDIA_UPDATE"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "GROUP_MENU",
+
+      "BE_KEY": [
+        "SP_GROUP_CREATE",
+        "SP_GROUP_DELETE",
+        "SP_GROUP_SHOW",
+        "SP_GROUP_UPDATE"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SP_USER_MENU",
+      "BE_KEY": [
+        "SP_USER_UPDATE",
+        "SP_USER_DELETE",
+        "SP_USER_SHOW",
+        "SP_USER_CREATE"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "BE_KEY": [],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "ARTWORK_APPROVED",
+      "BE_KEY": [],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "ARTWORK_CREATE",
+      "BE_KEY": [],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "ARTWORK_UPDATE",
+      "BE_KEY": [],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "ARTWORK_DELETE",
+      "BE_KEY": [],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "ARTWORK_RMN",
+      "BE_KEY": [],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "USER_CREATE_FE",
+      "BE_KEY": [],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "AU_CONTRACT",
+      "BE_KEY": [
+        "SP_AUTHORIZATION_CONTRACT_EXTENSION",
+        "SP_AUTHORIZED_CONTRACT_CREATE",
+        "SP_AUTHORIZED_CONTRACT_SHOW"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SP_AUTHORIZATION_CONTRACT_EXTENSION",
+      "BE_KEY": ["SP_AUTHORIZATION_CONTRACT_EXTENSION"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SP_AUTHORIZED_CONTRACT_CREATE",
+      "BE_KEY": ["SP_AUTHORIZED_CONTRACT_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "AU_CONTRACT_SHOW",
+      "BE_KEY": ["SP_AUTHORIZED_CONTRACT_SHOW"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "CONTRACT_TAB",
+      "BE_KEY": [
+        "SP_AUTHORIZED_CONTRACT_SHOW",
+        "SP_EXPLOITATION_CONTRACT_SHOW",
+        "EXPLOITATION_CONTRACT_SHOW,"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SP_EXPLOITATION_CONTRACT_SHOW",
+      "BE_KEY": ["SP_EXPLOITATION_CONTRACT_SHOW", "EXPLOITATION_CONTRACT_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "BN_CONTRACT",
+      "BE_KEY": [
+        "SP_EXPLOITATION_CONTRACT_CREATE",
+        "SP_EXPLOITATION_CONTRACT_SHOW"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SP_EXPLOITATION_CONTRACT_CREATE",
+      "BE_KEY": ["SP_EXPLOITATION_CONTRACT_CREATE"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SHOW_CONTRACT",
+      "BE_KEY": [
+        "SP_EXPLOITATION_CONTRACT_SHOW",
+        "SP_EXPLOITATION_CONTRACT_REVENUE_REPORT_SHOW"
+      ],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SEEN_DETAIL",
+      "BE_KEY": ["SP_EXPLOITATION_CONTRACT_REVENUE_REPORT_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "SHOW_DETAIL_CONTRACT",
+      "BE_KEY": ["SP_EXPLOITATION_CONTRACT_REVENUE_REPORT_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "RP_REVENU_EXP_CONTRACT",
+      "BE_KEY": ["SP_EXPLOITATION_CONTRACT_REVENUE_REPORT_SHOW", "EXPLOITATION_CONTRACT_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "LATCH_DATA",
+      "BE_KEY": ["SP_EXPLOITATION_CONTRACT_CONTROL"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "NAV_CONTRACTS",
+      "BE_KEY": ["SP_AUTHORIZED_CONTRACT_SHOW","SP_EXPLOITATION_CONTRACT_SHOW"],
+      "TYPE": "OR"
+    },
+    {
+      "FE_KEY": "NAV_SETTING",
+      "BE_KEY": ["SP_SYSTEM_SETTING"],
+      "TYPE": "AND"
+    },
+    {
+      "FE_KEY": "NAV_GROUP",
+      "BE_KEY": ["SP_GROUP_SHOW"],
+      "TYPE": "AND"
+    }
+  ]
+}

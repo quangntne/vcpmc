@@ -1,0 +1,26 @@
+.info-contract-detail{
+  .detail-business-contract{
+    .circle-status{
+      width: 10px;
+      height: 10px;
+      //background-color: green;
+      border-radius: 50%;
+      margin-right: 7px;
+    }
+    .circle-new{
+      background-color: #18E306;
+    }
+    .circle-time-left{
+      background-color: #347AFF;
+    }
+    .circle-expired{
+      background-color: #878890;
+    }
+    .circle-cancel{
+      background-color: #FF4747;
+    }
+  }
+  .info-contract-author{
+    margin-top: 8rem;
+  }
+}

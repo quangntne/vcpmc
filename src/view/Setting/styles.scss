@@ -1,0 +1,48 @@
+@import "./styles/variable";
+.setting{
+    .main-form{
+        background: #3b3e55;
+        padding: 2rem 3rem;
+        border-radius: 10px;
+        
+    }
+    .ant-form-item{
+        color: #fff;
+    }
+    .value{
+        color:$color__yellow;
+        font-weight: bold;
+        
+    }
+    // &.ant-tabs-card{
+    //     & > .ant-tabs-nav .ant-tabs-tab{
+    //         padding: 16px 32px;
+    //         background: #3b3e55;
+    //         border: 1px solid #3b3e55;
+    //         border-radius: 10px;
+    //         color: #fff;
+    //         &.ant-tabs-tab-active{
+    //             border-right-color: #ff7506;
+    //             border: 1px solid #ff7506;
+    //             background: #ff7506;
+    //             color: #fff;
+    //              .ant-tabs-tab-btn{
+    //                 color: #fff;
+    //             }
+    //         }
+    //     }
+    // }
+    // &.ant-tabs-left.ant-tabs-card{
+    //     & > .ant-tabs-nav .ant-tabs-tab + .ant-tabs-tab{
+    //         margin: 16px 0 0 0;
+    //     }
+    // }
+    // .ant-tabs-content-holder {
+    //     margin-left: 2rem;
+    //     background: #3b3e55;
+    //     border-radius: 10px;
+    //     color: #fff;
+    //     font-size: 16px;
+    //     border-left:1px solid #3b3e55;
+    // }
+}

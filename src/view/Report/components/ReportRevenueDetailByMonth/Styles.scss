@@ -1,0 +1,17 @@
+.filter-calender{
+    display: flex;
+    
+}
+.report-by-month{
+    .main-table .ant-table{
+        background-color:#3b3e5500;
+    }
+    .ant-table-row.ant-table-row-level-0{
+        background-color:#3b3e5500;
+
+    }
+    .main-table .ant-table-thead > tr > th{
+        background-color:#3b3e5500;
+        color:#ff7506;
+    }
+}

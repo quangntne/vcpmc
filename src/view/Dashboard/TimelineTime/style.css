@@ -1,0 +1,181 @@
+.dashboard {
+  width: 100%;
+}
+
+.dashboard .device-schedule {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.dashboard .device-schedule .header-filter-data {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.dashboard .device-schedule .header-filter-data .device-header {
+  width: 20%;
+  max-width: 20%;
+  min-width: 20%;
+  color: #fff;
+  padding: 10px 0 0px 10px;
+  background-color: #2C2C4B;
+  border-bottom: 1px solid #5c5c5c;
+}
+
+.dashboard .device-schedule .header-filter-data .device-header .router-back {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+}
+
+.dashboard .device-schedule .header-filter-data .device-header .device {
+  padding-right: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+  padding: 5px 0;
+  border-bottom: 1px solid #5c5c5c;
+}
+
+.dashboard .device-schedule .header-filter-data .device-header .device img {
+  width: 60px;
+  height: 60px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.dashboard .device-schedule .header-filter-data .device-header .device .device-info {
+  font-size: 13px;
+}
+
+.dashboard .device-schedule .header-filter-data .device-header .device .device-info .id {
+  color: rgba(255, 255, 255, 0.637);
+}
+
+.dashboard .device-schedule .header-filter-data .device-header .device .device-info .status i {
+  font-size: 12px;
+}
+
+.dashboard .device-schedule .header-filter-data .device-header .device:last-child {
+  border-bottom: none;
+}
+
+.dashboard .device-schedule .header-filter-data .wrap-calendar {
+  width: 80%;
+  height: 100%;
+}
+
+.dashboard .device-schedule .header-filter-data .wrap-calendar .list-day-in-monh {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #FF7506;
+  color: #fff;
+  padding: 6px 0;
+}
+
+.dashboard .device-schedule .header-filter-data .wrap-calendar .list-day-in-monh .day {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 9px 0;
+  border-right: 1px solid #ffbd86;
+}
+
+.dashboard .device-schedule .header-filter-data .wrap-calendar .list-day-in-monh .day:last-child {
+  border-right: none;
+}
+
+.dashboard .device-schedule .list-device-by-calendar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-height: 600px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  margin-right: -7px;
+  position: relative;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .calendar-loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device {
+  background-color: #2C2C4B;
+  width: 20%;
+  max-width: 20%;
+  min-width: 20%;
+  height: 100%;
+  color: #fff;
+  padding: 0 0 0 10px;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .ant-checkbox + span {
+  color: #fff !important;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .device {
+  padding-right: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+  padding: 5px 0;
+  border-bottom: 1px solid #5c5c5c;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .device img {
+  width: 60px;
+  height: 60px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .device .device-info {
+  font-size: 13px;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .device .device-info .id {
+  color: rgba(255, 255, 255, 0.637);
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .device .device-info .status i {
+  font-size: 12px;
+}
+
+.dashboard .device-schedule .list-device-by-calendar .list-device .device:last-child {
+  border-bottom: none;
+}
+/*# sourceMappingURL=style.css.map */

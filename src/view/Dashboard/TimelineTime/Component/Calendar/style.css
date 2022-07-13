@@ -1,0 +1,38 @@
+.calendar {
+  width: 80%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #3b3e55;
+}
+
+.calendar .day-col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.calendar .day-col .time-in-day {
+  height: 71px;
+}
+
+.calendar .day-col .active-time {
+  width: 100%;
+  height: 100%;
+}
+
+.calendar .calender-loading {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+/*# sourceMappingURL=style.css.map */

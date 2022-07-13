@@ -1,0 +1,64 @@
+.edit-schedule .label-header {
+  font-weight: bold;
+  letter-spacing: 0.45px;
+  color: #ff7506;
+  margin: 30px 0;
+}
+
+.edit-schedule .label-header-choose-date {
+  font-weight: bold;
+  letter-spacing: 0.45px;
+  color: #ff7506;
+  margin: 20px 0;
+}
+
+.edit-schedule .ant-form .ant-form-item-has-error .ant-picker {
+  background: transparent !important;
+}
+
+.edit-schedule .ant-form .ant-form-item-label label {
+  color: white;
+}
+
+.edit-schedule .ant-form-item .ant-checkbox-group {
+  color: white !important;
+}
+
+.edit-schedule .ant-form .name-day-of-week {
+  color: #f6f6f6;
+}
+
+.edit-schedule .ant-form .ant-select-multiple .ant-select-selector .ant-select-selection-overflow .ant-select-selection-item {
+  color: #5E5B6A;
+}
+
+.edit-schedule .picker-date .ant-picker {
+  background: transparent !important;
+  border-bottom: 2px solid #d9d9d9 !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.edit-schedule .picker-date .ant-picker .ant-picker-suffix {
+  color: #FF7506;
+}
+
+.edit-schedule .picker-time .ant-picker {
+  background: transparent !important;
+  border-radius: 7px !important;
+}
+
+.edit-schedule .picker-time .ant-picker .ant-picker-suffix {
+  display: none;
+}
+
+.edit-schedule .picker-time .ant-picker .ant-picker-input input {
+  color: #d9d9d9 !important;
+}
+
+.edit-schedule .picker-time .ant-picker .ant-picker-input .ant-picker-clear {
+  background: transparent !important;
+  color: #d9d9d9 !important;
+}
+/*# sourceMappingURL=style.css.map */

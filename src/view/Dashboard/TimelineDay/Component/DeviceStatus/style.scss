@@ -1,0 +1,60 @@
+.device-status {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3b3e55;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    border-radius: 20px;
+
+    .status {
+        width: 100%;
+        display: flex;
+        align-items: center;
+
+        .label {
+            white-space: nowrap;
+        }
+
+        .full-status-bar {
+            width: 100%;
+            background-color: #46485d;
+            border-radius: 15px;
+            height: 70%;
+            overflow: hidden;
+            margin-right: 50px;
+            margin-left: 15px;
+        }
+
+        .status-bar {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+
+    .bg-active {
+        background-color: #7FB800;
+    }
+
+    .color-active {
+        color: #7FB800;
+    }
+
+    .bg-inactive {
+        background-color: #E15554;
+    }
+
+    .color-inactive {
+        color: #E15554;
+    }
+
+    .bg-warranty {
+        background-color: #FFC81E;
+    }
+
+    .color-warranty {
+        color: #FFC81E;
+    }
+
+}

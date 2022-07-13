@@ -1,0 +1,218 @@
+{
+  "GROUP_NAME": {
+    "USA": "Account Management Name",
+    "VNM": "Tên tài khoản quản trị"
+  },
+  "ROLES":{
+    "USA":"Role",
+    "VNM":"Vai Trò"
+  },
+  "GROUP_CODE": {
+    "USA": "Group Code",
+    "VNM": "Mã Nhóm"
+  },
+  "GROUP_ADMIN": {
+    "USA": "Group Admin",
+    "VNM": "Quản trị nhóm"
+  },
+  "GROUP_IMAGE": {
+    "USA": "Group Image",
+    "VNM": "Hình ảnh"
+  },
+  "NO_USER": {
+    "USA": "No.User",
+    "VNM": "Người dùng"
+  },
+  "ASSIGNED_DEVICES": {
+    "USA": "No.Devices",
+    "VNM": "Thiết bị"
+  },
+  "STATUS": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "UPDATE_EX": {
+    "USA": "Update expired",
+    "VNM": "Gia hạn"
+  },
+  "UPDATE_STATUS": {
+    "USA": "Update Status",
+    "VNM": "Chỉnh sửa trạng thái"
+  },
+  "NAME": {
+    "USA": "Name",
+    "VNM": "Tên"
+  },
+  "EMAIL": {
+    "USA": "Email",
+    "VNM": "Email"
+  },
+  "ACTIVE": {
+    "USA": "Active",
+    "VNM": "Hoạt động"
+  },
+  "INACTIVE": {
+    "USA": "Inactive",
+    "VNM": " Không hoạt động"
+  },
+  "Last_Update": {
+    "USA": "Last Update",
+    "VNM": "Cập nhật lần cuối"
+  },
+  "Expered_Date": {
+    "USA": "Expired Date",
+    "VNM": "Hạn sử dụng"
+  },
+  "USER_NAME": {
+    "USA": "User Name",
+    "VNM": "Tên người dùng"
+  },
+  "NAME_USER": {
+    "USA": "User Name",
+    "VNM": "Tên đăng nhập"
+  },
+  "USER_EMAIL": {
+    "USA": "User Email",
+    "VNM": "Email người dùng"
+  },
+  "PASSWORD": {
+    "USA": "Password",
+    "VNM": "Mật khẩu"
+  },
+  "CONFIRM_PASSWORD": {
+    "USA": "Confirm Password",
+    "VNM": "Xác nhận mật khẩu"
+  },
+  "USER_PHONE": {
+    "USA": "User Phone",
+    "VNM": "Số điện thoại"
+  },
+  "EXPIRED": {
+    "USA": "Expired",
+    "VNM": "Hạn dùng"
+  },
+  "ADD_USER": {
+    "USA": "Add User",
+    "VNM": "Thêm người dùng"
+  },
+  "EDIT_USER": {
+    "USA": "Edit User",
+    "VNM": "Chỉnh sửa thông tin"
+  },
+  "EDIT": {
+    "USA": "Edit",
+    "VNM": "Chỉnh sửa"
+  },
+  "ADD_GROUP": {
+    "USA": "Add Group",
+    "VNM": "Thêm nhóm"
+  },
+  "EDIT_GROUP": {
+    "USA": "Edit Group",
+    "VNM": "Chỉnh sửa nhóm"
+  },
+  "UPDATE_EXPIRED": {
+    "USA": "Update Expired",
+    "VNM": "Chỉnh sửa hạn dùng"
+  },
+  "ADMIN": {
+    "USA": "Admin",
+    "VNM": "Người quản trị"
+  },
+  "SELECT_AD": {
+    "USA": "Select Admin",
+    "VNM": " Bấm để chọn quản trị viên"
+  },
+  "SELECT_ROLE": {
+    "USA": "Select Role",
+    "VNM": " Bấm để chọn vai trò"
+  },
+  "SELECT_DATE": {
+    "USA": "Select Date",
+    "VNM": "Bấm để chọn Ngày"
+  },
+  "DELETE_MUL_TIL": {
+    "USA": "Delete Multiple Group Users",
+    "VNM": "Xóa nhóm người dùng"
+  },
+  "DELETE_TIL": {
+    "USA": "Delete Group Users",
+    "VNM": "Xóa nhóm người dùng"
+  },
+  "DELETE_USER": {
+    "USA": "Delete Users",
+    "VNM": "Xóa người dùng"
+  },
+  "DELETE_MUL_USER": {
+    "USA": "Delete Multiple Users",
+    "VNM": "Xóa nhiều người dùng"
+  },
+  "PLAHOLDER_SEARCH_GROUP": {
+    "USA": "Input for search list group",
+    "VNM": "Nhập để tìm kiếm nhóm người dùng"
+  },
+  "PLAHOLDER_SEARCH_USER": {
+    "USA": "Input for search user",
+    "VNM": "Nhập để tìm kiếm người dùng"
+  },
+  "PERMISSION": {
+    "USA": "Permission",
+    "VNM": "Quyền hạn"
+  },
+  "LIST_USER_MANAGER": {
+    "USA": "List User Manager",
+    "VNM": "Danh sách quản lý người dùng"
+  },
+  "USER_MANAGER": {
+    "USA": "User Manager",
+    "VNM": "Quản lý người dùng"
+  },
+  "VIEW_USER": {
+    "USA": "View Detail User",
+    "VNM": "Thông tin người dùng"
+  },
+  "EXPIR_DATE": {
+    "USA": "Expiration date",
+    "VNM": "Ngày Hết Hạn"
+  },
+  "CONTRACT": {
+    "USA": "Contract ID",
+    "VNM": "Số Hợp Đồng"
+  },
+  "VIEW_DETAIL": {
+    "USA": "View Detail",
+    "VNM": "Xem chi tiết"
+  },
+  "NOTE_RED_POINT": {
+    "USA": "Are required fields",
+    "VNM": "là những trường thông tin bắt buộc"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy"
+  },
+  "SAVE": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "STATUS_DEVICE": {
+    "USA": "Status device",
+    "VNM": "Trạng thái thiết bị"
+  },
+  "STATUS_USER": {
+    "USA": "Status user",
+    "VNM": "Trạng thái người dùng"
+  },
+  "ACTIVE_USER": {
+    "USA": "Status user",
+    "VNM": "Đã kích hoạt"
+  },
+  "DEACTIVE": {
+    "USA": "Deactivate",
+    "VNM": "Ngưng kích hoạt"
+  },
+  "PHONE": {
+    "USA": "Phone",
+    "VNM": "Số điện thoại"
+  }
+}

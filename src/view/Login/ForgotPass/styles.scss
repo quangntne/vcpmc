@@ -1,0 +1,79 @@
+@import "./../styles/variable";
+
+.label-sign {
+    margin: 30px 0px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 700;
+}
+.label-des-forgotpass {
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #ffffff;
+}
+.err-email {
+    border: 1px solid red !important;
+}
+.text-err {
+    text-align: left;
+    font: normal normal bold 18px/24px Open Sans;
+    letter-spacing: 0.27px;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #ff4747;
+    opacity: 1;
+}
+.forgot-password {
+    .ant-card {
+        border: none;
+        background: none;
+    }
+    .Authen_content {
+        text-align: center;
+        .authen_button {
+            margin-top: 40px;
+        }
+    }
+    .form-group {
+        input{
+            width: 100%;
+        }
+        margin-bottom: 1rem;
+        width: 550px;
+        margin: 0 auto;
+        .label {
+            font-weight: 600;
+            opacity: 1;
+        }
+    }
+}
+.forgot {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.label-langue-forgot-pass {
+    width: 9vw;
+    min-width: 160px;
+    position: fixed;
+    top: 20px;
+    right: 100px;
+    z-index: 1;
+}
+
+.label-logo {
+    margin: 6.5vh 0 4vh 0;
+    text-align: center;
+}
+
+.label-logo-forgot {
+    max-width: 12vw;
+    max-height: 20vh;
+}

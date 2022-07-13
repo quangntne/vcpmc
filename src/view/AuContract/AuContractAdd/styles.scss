@@ -1,0 +1,220 @@
+@import "../../styles/variable";
+
+body {
+  height: 100%;
+}
+
+.contract-add {
+  .form-contract {
+    margin-top: 4rem;
+  }
+  .modal-extension {
+    .ant-form-item {
+      margin-bottom: 10px !important;
+    }
+    &-note {
+      color: #ffd0ab;
+      opacity: 0.5;
+    }
+  }
+  #div-main-form {
+    .ant-input,
+    .ant-input-number,
+    .ant-picker {
+      background-color: #2b2b3f;
+      border-radius: 5px;
+      min-height: 40px;
+      width: 100%;
+      color: white;
+      padding: 4px 10px;
+      border-color: $color__bor_input;
+      @include no-outline($color__yellow__second);
+    }
+    .ant-input-number {
+      .ant-input-number-handler-wrap {
+        background: transparent;
+      }
+      .ant-input-number-input {
+        padding: 0;
+      }
+    }
+    .ant-checkbox-checked {
+      .ant-checkbox-inner {
+        background-color: #347aff;
+        &::after {
+          border: 2px solid #fff;
+          border-top: 0;
+          border-left: 0;
+          transform: rotate(45deg) scale(1.2) translate(-19%, -50%);
+          left: 16%;
+        }
+      }
+    }
+    .ant-checkbox-inner {
+      background-color: transparent;
+      width: 24px;
+      height: 24px;
+      border-color: #347aff;
+      margin-bottom: -2px;
+      border-radius: 5px;
+    }
+
+    .ant-select-arrow,
+    .ant-form-item-label > label,
+    .ant-select,
+    .ant-select-clear {
+      color: white;
+    }
+
+    .ant-form-item-label > label {
+      font-weight: bold;
+      font-size: 15.5px;
+      position: relative;
+      margin-right: 10px;
+    }
+
+    .ant-form-item-label > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before {
+      position: absolute;
+      right: -6px;
+    }
+
+    .title-author {
+      color: #ffac69;
+    }
+
+    .ant-form-item {
+      margin-bottom: 12px;
+      &-control {
+        .ant-form-item-explain,
+        .ant-form-item-extra {
+          font-size: 13.5px;
+          margin-bottom: -5px;
+        }
+        &-input {
+          &-content {
+            .ant-input-number-disabled {
+              .ant-input-number-input {
+                color: $color__bor_input;
+              }
+            }
+            .ant-input-password {
+              background-color: #2b2b3f;
+              border-color: $color__bor_input;
+              &:hover {
+                border-color: $color__yellow;
+              }
+              input[type="password"] {
+                font: caption;
+                font-size: 27px;
+              }
+              .ant-input {
+                &:hover,
+                &:focus {
+                  border: none;
+                  background-color: transparent;
+                }
+              }
+            }
+            .ant-select-auto-complete {
+              .ant-select-selection-search {
+                .ant-select-selection-search-input {
+                  margin: 5px 9px;
+                }
+              }
+            }
+            .ant-select,
+            .ant-select:not(.ant-select-customize-input) {
+              .ant-select-selector {
+                background-color: #2b2b3f;
+                min-height: 40px;
+                border-radius: 5px;
+                border-color: #727288;
+                .ant-select-selection-item {
+                  padding: 4px 0 0 9px;
+                }
+              }
+            }
+
+            .anticon {
+              color: #ff7506;
+            }
+            .ant-input-disabled {
+              color: $color__bor_input;
+            }
+          }
+        }
+      }
+      .ant-radio-wrapper {
+        color: white;
+      }
+    }
+
+    .div-btn-save {
+      margin-top: 4.5rem;
+      margin-bottom: 4rem;
+    }
+
+    .royal-label {
+      color: $color-breadcumb-icon;
+      font-weight: bold;
+      font-size: 16px;
+    }
+  }
+
+  .label-autocomplete {
+    .ant-select-clear {
+      background: none;
+    }
+  }
+
+  .ant-select-selector{
+    background-color: #1e1f2f !important;
+    .ant-select-selection-search{
+      input{
+        margin: 0px !important;
+      }
+    }
+  }
+
+  .ant-picker-input{
+    input{
+      font-size: 14px;
+    }
+  }
+
+  .ant-form-item-control-input-content{
+    .ant-input-affix-wrapper{
+      padding-left: 0px;
+    }
+  }
+
+//fix css when input disable
+  .ant-input-disabled{
+    color: white !important;
+  }
+  .ant-picker-input > input[disabled] {
+    color: white !important;
+  }
+  .ant-radio-disabled + span {
+    color: white !important;
+  }  
+  .ant-radio-disabled {
+    .ant-radio-inner {
+      background-color: transparent !important;
+      border-color: #1890ff !important;
+    }
+  }
+  .ant-radio-checked{
+    .ant-radio-inner {
+      background-color: white !important;
+      border-color: #1890ff !important;
+    }
+  }
+  .ant-radio-disabled .ant-radio-inner::after {
+    background-color: #1890ff !important;
+  }
+}
+
+.label-hidden-dropdown{
+  display: none;
+}

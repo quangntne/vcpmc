@@ -1,0 +1,209 @@
+.header-component {
+  margin-right: 170px;
+  margin-top: 27px;
+  float: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header-component__language {
+  margin-right: 20px;
+}
+
+.header-component__identify {
+  text-align: right;
+  color: #B2B2B2;
+}
+
+.header-component__identify .identify__hi {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.header-component__identify .identify__admin {
+  font-size: 0.95rem;
+  font-weight: bold;
+}
+
+.header-component__dropdown-avatar {
+  border: 1px solid #f6f6f6;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  position: relative;
+  margin-left: 20px;
+}
+
+.header-component p {
+  margin-bottom: 0;
+}
+
+.icon__language {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  position: relative;
+  font-size: 1.5rem;
+}
+
+.icon__language i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.icon__avatar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+a:hover {
+  opacity: 1;
+}
+
+.logo {
+  margin-top: 30px;
+  margin-bottom: 24px;
+}
+
+.logo--content {
+  font-family: "Segoe UI";
+  font-size: 40px;
+  margin-left: 10px;
+  line-height: normal;
+}
+
+.menu {
+  width: 110px;
+  background-color: #3B3E55;
+  border-radius: 0 10px 10px 0;
+}
+
+.menu--component {
+  border-radius: 0 0 10px 0;
+}
+
+.menu--component--item .item-label {
+  height: 70px;
+  display: block;
+  position: relative;
+}
+
+.menu--component--item .item__icon {
+  position: absolute;
+  top: 50%;
+  color: #939393;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 0;
+}
+
+.menu--component--item .item__icon img {
+  -webkit-filter: contrast(0.1);
+          filter: contrast(0.1);
+}
+
+.menu .menu-active {
+  background-color: #4C4E63;
+}
+
+.menu .item-label .item-hover, .menu .menu-active .item-label .item-hover {
+  opacity: 0;
+  background-color: #3B3E55;
+  height: 50px;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 160px;
+  border: 1px solid #ff7506;
+  border-radius: 100px;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+.menu .item-label .item-hover img, .menu .menu-active .item-label .item-hover img {
+  padding: 5px;
+  background: red;
+  border-radius: 50%;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: #ff7506;
+  font-size: 1.5rem;
+  left: 4px;
+  opacity: 1;
+  border-radius: 40px;
+  -webkit-filter: contrast(1);
+          filter: contrast(1);
+  -o-object-fit: scale-down;
+     object-fit: scale-down;
+}
+
+.menu .item-label .item-hover__icon, .menu .menu-active .item-label .item-hover__icon {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  line-height: 0;
+}
+
+.menu .item-label .item-hover__icon .anticon, .menu .menu-active .item-label .item-hover__icon .anticon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: #ff7506;
+  font-size: 1.5rem;
+  left: 4px;
+  opacity: 1;
+  border-radius: 40px;
+}
+
+.menu .item-label .item-hover__icon .anticon svg, .menu .menu-active .item-label .item-hover__icon .anticon svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.menu .item-label .item-hover .item__nav, .menu .menu-active .item-label .item-hover .item__nav {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  left: 54px;
+  font-size: 0.9em;
+}
+
+.menu .menu-active .item-label .item-hover {
+  opacity: 1;
+}
+
+.menu .item-label:hover .item-hover {
+  opacity: 1;
+}
+
+.menu .menu--decoration--top {
+  height: 10px;
+  border-radius: 0 10px 0 0;
+  background-color: #ff7506;
+}
+
+.menu .menu--decoration--bottom {
+  height: 10px;
+  border-radius: 0 0 10px 0;
+}
+/*# sourceMappingURL=styles.css.map */

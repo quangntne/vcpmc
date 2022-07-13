@@ -1,0 +1,66 @@
+.device-log{
+  //color: white;
+
+  .list-device-log-container{
+    margin-top: 5%;
+    height: 40vh;
+    padding: 8px 24px;
+    overflow: auto;
+    border-radius: 4px;
+    .title-list{
+      background: #ff7506;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      padding: 20px 0;
+      span{
+        font-size: 25px;
+        font-weight: 700;
+      }
+    }
+    .list-device-log{
+      //height: 60vh;
+      //padding: 8px 24px;
+      //overflow: auto;
+      //border-radius: 4px;
+      color: white;
+      .title-date{
+        background: #3B3E55;
+        padding: 10px 0;
+        //color: white;
+        font-size: 17px;
+        font-weight: 700;
+      }
+      .title-item{
+        padding: 10px 0;
+        background: #2C2C4B;
+        border-bottom: 2px solid white;
+        .div-time-log{
+          border-right: 3px solid white;
+          height: 55px;
+          .time-log{
+            font-size: 28px;
+            font-weight: 700;
+          }
+        }
+        .div-img-device{
+          //border-radius: 50%;
+
+          img{
+            border-radius: 50%;
+            height: 4rem;
+            width: 4rem;
+          }
+        }
+        .info-log{
+          //margin-left: 4rem;
+          .user-log{
+            font-size: 19px;
+          }
+          .type-log, .name-log{
+            font-size: 16px;
+          }
+        }
+      }
+    }
+  }
+}

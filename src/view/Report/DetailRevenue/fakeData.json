@@ -1,0 +1,48 @@
+[
+    {
+        "no":1,
+        "nameSong": "Bài hát 1",
+        "totalPlays": "365",
+        "totalRevenue": "365.000.000",
+        "preformanceRight": 36.266,
+        "productRight": 36.266, 
+        "VCPMC": 36.200
+    }, 
+    {
+        "no":2,
+        "nameSong": "Bài hát 2",
+        "totalPlays": "365",
+        "totalRevenue": "365.000.000",
+        "preformanceRight": 36.266,
+        "productRight": 36.266, 
+        "VCPMC": 36.200
+    }, 
+    {
+        "no":3,
+        "nameSong": "Bài hát 3",
+        "totalPlays": "365",
+        "totalRevenue": "365.000.000",
+        "preformanceRight": 36.266,
+        "productRight": 36.266, 
+        "VCPMC": 36.200
+    }, 
+    {
+        "no":4,
+        "nameSong": "Bài hát 4",
+        "totalPlays": "365",
+        "totalRevenue": "365.000.000",
+        "preformanceRight": 36.266,
+        "productRight": 36.266, 
+        "VCPMC": 36.200
+    }, 
+    {
+        "no":5,
+        "nameSong": "Bài hát 5",
+        "totalPlays": "365",
+        "totalRevenue": "365.000.000",
+        "preformanceRight": 36.266,
+        "productRight": 36.266, 
+        "VCPMC": 36.200
+    }
+]
+    

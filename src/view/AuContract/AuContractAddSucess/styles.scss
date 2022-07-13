@@ -1,0 +1,86 @@
+@import "../../styles/variable";
+
+.AuContract-success{
+
+  &-wrapper{
+    height: calc(100vh - 110px - 77px);
+    width: 100%;
+  }
+  .wrap-au-success{
+    background-color: #2B2B3F;
+    border-radius: 16px;
+    height: 67%;
+    width: 40%;
+    padding: 1.5rem;
+    &-title{
+      text-align: center;
+      //margin-top: 1.5rem;
+      span{
+        //margin-top: 2.5rem;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+      }
+
+    }
+    &-label{
+      font-size: 16px;
+      font-weight: 700;
+    }
+    &-note{
+      color: #FF4747;
+      font-size: 15px;
+      margin-left: 1.5rem;
+    }
+    .way-title{
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .way-title-color{
+      color: $color__yellow;
+      margin-left: 1.5rem;
+    }
+    .way-descriptions{
+      font-size: 14px;
+      color: white;
+      opacity: 0.8;
+      margin: 15px 0 15px 5rem;
+    }
+    .way-one{
+      .normal-button{
+        margin-left: 3.5rem;
+      }
+      margin-bottom: 3rem;
+    }
+    .way-two{
+      margin-bottom: 1.6rem;
+      .button-tool{
+        margin-left: 3.5rem;
+        height: 40px;
+        min-width: 220px;
+        border-radius: 8px;
+        padding-right: 17px;
+        padding-left: 17px;
+        background-color: transparent;
+        color: $color__yellow;
+        border-color: $color__yellow;
+        font-size: 1rem;
+        //font-weight: bold;
+        transition: 0.2s;
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+    }
+    .fa-check-circle{
+      color: #0FBF00;
+      font-size: 28px;
+      //background-color: white;
+      //border-radius: 50%;
+    }
+    hr{
+      border-color: $color-sidebar-text;
+      opacity: 0.3;
+    }
+  }
+}

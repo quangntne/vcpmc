@@ -1,0 +1,41 @@
+@import "../../../styles/variable";
+
+
+.language-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+  margin-bottom: 4px;
+}
+.select-custom{
+
+   .ant-select, .ant-select-single, .ant-select:not(.ant-select-customize-input){
+    .ant-select-selector {
+      background-color: transparent;
+      min-height: 40px;
+      border-radius: 5px;
+      border-color: white;
+      &:hover{
+        border-color: $color__yellow;
+      }
+      .ant-select-selection-item{
+        padding: 4px 10px;
+        color: white;
+        margin-right: 10px;
+      }
+
+    }
+    .ant-select-arrow{
+      margin-right: 10px;
+    }
+  }
+}
+.ant-select:not(.ant-select-disabled):hover, .ant-select-focused:not(.ant-select-disabled).ant-select:not(.ant-select-customize-input) {
+  .ant-select-selector{
+    border-color: $color__yellow;
+    box-shadow: none;
+  }
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector{
+  background-color: transparent;
+}

@@ -1,0 +1,43 @@
+@import "./../../../styles/variable";
+.device {
+  padding-right: 10px;
+  display: flex;
+  color: #fff;
+  padding: 5px 0;
+  border-bottom: 1px solid rgb(92, 92, 92);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  img {
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+    border-radius: 5px;
+  }
+
+  .device-info {
+    line-height: 20px;
+    font-size: 13px !important;
+    width: calc(100% - 65px);
+    font-size: 12px;
+
+    .name {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .id {
+      font-size: 13px !important;
+      color: rgba(255, 255, 255, 0.637);
+      width: 90%;
+      @include text-wrap;
+    }
+
+    .status i {
+      font-size: 12px;
+    }
+  }
+}

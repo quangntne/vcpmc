@@ -1,0 +1,172 @@
+@import "../../styles/variable";
+
+.device-add {
+  margin-top: 3rem;
+  .cancel-button {
+    margin-right: 2rem;
+  }
+  .list-setting {
+    width: 100%;
+  }
+  .list-btn {
+    margin: 5rem 0 2rem;
+  }
+  &-form {
+    .label-add-setting {
+      color: white;
+      font-weight: bold;
+      font-size: 0.8rem;
+    }
+    .ant-input,
+    .ant-input-number,
+    .ant-picker {
+      background-color: #2b2b3f;
+      border-radius: 5px;
+      min-height: 40px;
+      width: 100%;
+      color: white;
+      padding: 4px 10px;
+      border-color: $color__bor_input;
+      @include no-outline($color__yellow__second);
+      &:hover {
+        background-color: transparent;
+      }
+    }
+    .ant-input-number {
+      &-handler-wrap {
+        background: transparent;
+      }
+      .ant-input-number-input {
+        padding: 0;
+      }
+    }
+    //.ant-checkbox-checked{
+    //  .ant-checkbox-inner{
+    //  background-color: #347AFF;
+    //  &::after{
+    //    border: 2px solid #fff;
+    //    border-top: 0;
+    //    border-left: 0;
+    //    transform: rotate(45deg) scale(1.2) translate(-19%, -50%);
+    //    left: 16%;
+    //  }
+    //}}
+    //.ant-checkbox-inner{
+    //  background-color: transparent;
+    //  width: 24px;
+    //  height: 24px;
+    //  border-color: #347AFF;
+    //  margin-bottom: -2px;
+    //  border-radius: 5px;
+    //}
+
+    .ant-select-arrow,
+    .ant-form-item-label > label,
+    .ant-select,
+    .ant-select-clear {
+      color: white;
+    }
+
+    .ant-form-item-label > label {
+      font-weight: bold;
+      font-size: 15.5px;
+      position: relative;
+      margin-right: 10px;
+    }
+
+    .ant-form-item-label
+      > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before {
+      position: absolute;
+      right: -6px;
+    }
+
+    .title-author {
+      color: #ffac69;
+    }
+
+    .ant-form-item {
+      //margin-bottom: 12px;
+      &-control {
+        .ant-form-item-explain,
+        .ant-form-item-extra {
+          font-size: 13.5px;
+          margin-bottom: -5px;
+        }
+        &-input {
+          &-content {
+            .ant-input-number-disabled {
+              .ant-input-number-input {
+                color: $color__bor_input;
+              }
+            }
+            .ant-input-password {
+              background-color: #2b2b3f;
+              border-color: $color__bor_input;
+              &:hover {
+                border-color: $color__yellow;
+              }
+              input[type="password"] {
+                font: caption;
+                font-size: 27px;
+              }
+              .ant-input {
+                &:hover {
+                  border: none;
+                  background-color: transparent;
+                }
+              }
+            }
+            .ant-select-auto-complete {
+              .ant-select-selection-search {
+                .ant-select-selection-search-input {
+                  margin: 5px 9px;
+                }
+              }
+            }
+            .ant-select,
+            .ant-select:not(.ant-select-customize-input) {
+              .ant-select-selector {
+                background-color: #2b2b3f;
+                min-height: 40px;
+                border-radius: 5px;
+                border-color: transparent;
+                .ant-select-selection-item {
+                  padding: 4px 0 0 9px;
+                }
+              }
+            }
+
+            .anticon {
+              color: #ff7506;
+            }
+            .ant-input-disabled {
+              //background-color: #3E3E50 !important;
+              color: $color__bor_input;
+            }
+          }
+        }
+      }
+      .ant-radio-wrapper {
+        color: white;
+      }
+    }
+
+    .div-btn-save {
+      margin-top: 4.5rem;
+      margin-bottom: 4rem;
+    }
+
+    .royal-label {
+      color: $color-breadcumb-icon;
+      font-weight: bold;
+      font-size: 16px;
+    }
+  }
+}
+.list-setting {
+  display: flex;
+  align-items: baseline;
+}
+.list-setting > div {
+  margin-right: 7px;
+}

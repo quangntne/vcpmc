@@ -1,0 +1,62 @@
+
+
+.detail-revenue-district{
+    .active-row {
+        background-color: #3e3e5b;
+    }
+    
+    .label-history-device {
+        .search-bar {
+            width: 28vw;
+        }
+        .label-title {
+            label {
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 24px;
+                color: #fff9f4;
+            }
+        }
+        .div-content {
+            .label-content-divice {
+                width: 15.5vw;
+            }
+            .label-content-play {
+                width: 20vw;
+            }
+        }
+    }
+    .label-list-record{
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 24px;
+        color: #E5E5E5;
+    }
+    .label-name-record{
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 42px;
+        color: #FFAC69;
+    }
+    .search-bar{
+        width: 19vw;
+    }
+    .label-table-right {
+        .main-table {
+            background-color: #2b2b3f !important;
+        }
+        .table-function {
+            width: 65%;
+        }
+    }
+    .main-table{
+        .ant-table-thead{
+            tr:nth-child(2){
+                th{
+                    border-bottom: 1px solid #72728886;
+                    color: #FFFFFF;
+                }
+            }
+        }
+    }
+}

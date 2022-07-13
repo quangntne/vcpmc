@@ -1,0 +1,132 @@
+[
+    {
+        "no": 1,
+        "noContract": "HD123",
+        "minningUnit": "Cty TNHH TM DV ABCEDEF",
+        "contractTerm": "10/07/2020 - 10/07/2021",
+        "typeContract": "Trọn gói",
+        "sumPlay": "365",
+        "sumRevenue": "365.000.000",
+        "closingDate": "10/07/2021",
+        "implementDateControl": "10/07/2021",
+        "controlValidDate": "01/01/2020",
+        "expirationDate": "01/01/2022",
+        "valueContract": "730.000.000 VNĐ",
+        "valueDeliDay": "365.000.000 VNĐ",
+        "dayControlMoney": "01/01/2020",
+        "sumSong": "13 bài",
+        "statusControl": 0,
+        "detailSong": [
+            {
+                "noSong": 1,
+                "songName": "Let Us Be",
+                "sumPlay": "365",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 2,
+                "songName": "Be Alone",
+                "sumPlay": "250",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 3,
+                "songName": "Gene",
+                "sumPlay": "400",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 4,
+                "songName": "Let Us Be",
+                "sumPlay": "365",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 5,
+                "songName": "Remeber Us This Way",
+                "sumPlay": "123",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            }
+        ]
+    },
+    {
+        "no": 2,
+        "noContract": "HDABC",
+        "minningUnit": "Cty TNHH TM DV 12456",
+        "contractTerm": "10/07/2020 - 10/07/2021",
+        "typeContract": "Theo lượt phát",
+        "sumPlay": "789",
+        "sumRevenue": "235.000.000",
+        "closingDate": "10/07/2021",
+        "implementDateControl": "10/07/2021",
+        "controlValidDate": "01/01/2020",
+        "expirationDate": "01/01/2022",
+        "priceTurn": "1.000.000 VNĐ",
+        "dayControlMoney": "01/01/2020",
+        "sumSong": "13 bài",
+        "statusControl": 1,
+        "implementDate": "22/04/2021",
+        "detailSong": [
+            {
+                "noSong": 1,
+                "songName": "Con Chim Non Trên Cành",
+                "sumPlay": "365",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 2,
+                "songName": "Đoá Hoa Hồng",
+                "sumPlay": "250",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 3,
+                "songName": "I’m A Loner",
+                "sumPlay": "400",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 4,
+                "songName": "Boss Boy",
+                "sumPlay": "365",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            },
+            {
+                "noSong": 5,
+                "songName": "Nhà Em Bán Sữa Đậu",
+                "sumPlay": "123",
+                "sumRevenue": "365.000.000",
+                "rightPerfomance": "36.266",
+                "rightProduct": "36.266",
+                "VCPMC": "36.200"
+            }
+        ]
+    }
+]

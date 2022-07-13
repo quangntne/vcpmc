@@ -1,0 +1,29 @@
+@import "./../../../styles/variable";
+
+div#root {
+  //border: 1px solid black;
+  height: 100%;
+  overflow: hidden;
+}
+
+.all-page-component {
+  display: flex;
+  height: 100%;
+  
+}
+.sider-component {
+  width: 8.85%;
+}
+.right-page-component {
+  width: 100%;
+  overflow-y: auto;
+  z-index: 0;
+}
+
+.main-component {
+  padding: 30px 7vw 0 50px;
+  .ant-badge-status-text{
+    color: rgba($color: #fff, $alpha: 0.8);
+  }
+}
+

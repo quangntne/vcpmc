@@ -1,0 +1,150 @@
+@use "variable";
+
+.search-bar {
+  position: relative;
+  width: 30vw;
+  .icon-search {
+    position: absolute;
+    top: 50%;
+    right: 26px;
+    transform: translateY(-50%);
+  }
+}
+@media screen and (max-width: 1500px) {
+  input.form-search.ant-form-search{
+    padding-right: 64px;
+    width: 30vw;
+    @include text-wrap();
+  }
+}
+.to-right {
+  float: right;
+}
+.form-search {
+  border: none;
+  height: 48px;
+  //min-width: 280px;
+  width: 100%;
+  border-radius: 40px;
+  padding: 0 20px;
+  //margin-bottom: 24px;
+  //padding-right: 45px;
+  color: white;
+
+  &:focus {
+    //box-shadow: 1px 1px 1px rgb(0, 0, 1);
+    outline: none;
+    //border-radius: 40px;
+  }
+
+  input.ant-input::placeholder {
+    color: #767676;
+  }
+}
+
+.ant-input-search.ant-form-search .ant-input:hover,
+.ant-input-search.ant-form-search .ant-input:focus {
+  border-color: $color__yellow !important;
+}
+
+.ant-input-search.ant-form-search
+  .ant-input:hover
+  + .ant-input-group-addon
+  .ant-input-search-button:not(.ant-btn-primary),
+.ant-input-search
+  .ant-input:focus
+  + .ant-input-group-addon
+  .ant-input-search-button:not(.ant-btn-primary),
+.ant-input-search.ant-form-search
+  .ant-input:hover
+  + .ant-input-group-addon
+  .ant-input-search-button:not(.ant-btn-primary),
+.ant-input-search
+  .ant-input:focus
+  + .ant-input-group-addon
+  .ant-input-search-button:not(.ant-btn-primary) {
+  border-color: transparent;
+  border-left-color: transparent;
+}
+
+.ant-input-search
+  > .ant-input-group
+  > .ant-input-group-addon:last-child
+  .ant-input-search-button:not(.ant-btn-primary) {
+  z-index: 10;
+}
+
+.ant-form-search.ant-input-group-wrapper {
+  min-width: 280px;
+  max-width: 517px;
+}
+
+.ant-form-search {
+  background-color: #2b2b3f;
+  border-radius: 8px;
+
+  .ant-input-search-button {
+    border: none;
+  }
+
+  input.ant-input::placeholder {
+    color: #767676;
+  }
+
+  .ant-input:hover {
+    border-color: $color__yellow;
+  }
+
+  .ant-input-group > .ant-input:first-child,
+  .ant-input-group-addon:first-child {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-radius: 20px;
+  }
+
+  input.ant-input {
+    background: transparent;
+    border: none;
+    padding: 0 20px;
+    height: 40px;
+    color: white;
+    margin-bottom: 10px;
+    @include no-boxshadow();
+  }
+
+  span.ant-input-group-addon {
+    background: transparent;
+  }
+
+  button.ant-btn,
+  button.ant-btn.ant-btn-primary.ant-input-search-button {
+    background-color: transparent;
+    color: $color__yellow;
+    margin-left: -55px;
+  }
+
+  .ant-input-search
+    > .ant-input-group
+    > .ant-input-group-addon:last-child
+    .ant-input-search-button:not(.ant-btn-primary) {
+    color: $color__yellow;
+  }
+
+  .ant-input-search
+    > .ant-input-group
+    > .ant-input-group-addon:last-child
+    .ant-input-search-button,
+  .ant-input-search .ant-input:hover,
+  .ant-input-search .ant-input:focus {
+    @include no-outline($color__yellow);
+  }
+
+  span.anticon.anticon-search {
+    font-size: 1.4rem;
+    color: #f5f5ff;
+  }
+
+  input.ant-input {
+    padding-right: 45px;
+  }
+}

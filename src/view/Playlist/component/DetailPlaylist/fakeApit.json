@@ -1,0 +1,91 @@
+{
+    "imagePlaylist": "https://2sao.vietnamnetjsc.vn/images/2021/04/26/05/05/321bigbang.jpg",
+    "tilePlaylist": "Top ca khúc 2021",
+    "authorPlaylist": "Super Admin",
+    "sumPlaylist": 5,
+    "sumTimePlaylist": "01:31:16",
+    "desPlaylist": "Lorem ipsum dolor sit amet,consectetur adipiscing elit.",
+    "tagPlaylist": [
+        {
+            "id": 1,
+            "label": "Chủ đề 1"
+        },
+        {
+            "id": 2,
+            "label": "Chủ đề 2"
+        },
+        {
+            "id": 3,
+            "label": "Chủ đề 3"
+        },
+        {
+            "id": 4,
+            "label": "Chủ đề 4"
+        },
+        {
+            "id": 5,
+            "label": "Chủ đề 5"
+        },
+        {
+            "id": 6,
+            "label": "Chủ đề 6"
+        }
+    ],
+    "arrPlaylist": [
+        {
+            "stt": 1,
+            "recordName": {
+                "name": "Gorgeous Wooden Bike",
+                "music": "Balad",
+                "type": "Audio",
+                "time": "3:12"
+            },
+            "single" : "Tăng Phúc ft Mỹ Lệ",
+            "author" : "Origin"
+        },
+        {
+            "stt": 2,
+            "recordName": {
+                "name": "Small Concrete Fish",
+                "music": "Balad",
+                "type": "Audio",
+                "time": "3:12"
+            },
+            "single" : "Nguyên Hà",
+            "author" : "Akilier"
+        },
+        {
+            "stt": 3,
+            "recordName": {
+                "name": "Kings & Queens",
+                "music": "Balad",
+                "type": "Audio",
+                "time": "3:12"
+            },
+            "single" : "Minh Khôi",
+            "author" : "Nastom"
+        },
+        {
+            "stt": 4,
+            "recordName": {
+                "name": "Clap",
+                "music": "Balad",
+                "type": "Audio",
+                "time": "3:12"
+            },
+            "single" : "Hoàng Thùy Linh",
+            "author" : "Izus"
+        },
+        {
+            "stt": 5,
+            "recordName": {
+                "name": "Beautiful Girls",
+                "music": "Balad",
+                "type": "Audio",
+                "time": "3:12"
+            },
+            "single" : "Justin Đặng",
+            "author" : "BallyFier"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+  "MEDIA": {
+    "USA": "Media",
+    "VNM": "Media"
+  },
+  "ARTWORKS": {
+    "USA": "Artwork",
+    "VNM": "Kho bản ghi"
+  },
+  "GROUP_USER": {
+    "USA": "Group user",
+    "VNM": "Nhóm người dùng"
+  },
+  "PLAYLIST": {
+    "USA": "Playlist",
+    "VNM": "Danh sách phát"
+  },
+  "DASHBOARD": {
+    "USA": "Dashboard",
+    "VNM": "Bảng điều khiển"
+  },
+  "SCHEDULE": {
+    "USA": "Schedule",
+    "VNM": "Lập lịch phát"
+  },
+  "DEVICE": {
+    "USA": "Device",
+    "VNM": "thiết bị"
+  },
+  "TEMPLATES": {
+    "USA": "Templates",
+    "VNM": "Bản mẫu"
+  },
+  "AuCONTRACT": {
+    "USA": "Manager",
+    "VNM": "Quản lý"
+  },
+  "PRODUCT_INFO": {
+    "USA": "Manager",
+    "VNM": "Quản lý"
+  },
+  "CONTROL_CYCLE": {
+    "USA": "Control Cycle",
+    "VNM": "Chu kì đối soát"
+  },
+  "MANAGER_CONTRACT": {
+    "USA": "Manager contract",
+    "VNM": "Quản lý hợp đồng"
+  },
+  "MANAGER_CONTRACT_TYPE": {
+    "USA": "Manager contract type",
+    "VNM": "Quản lý loại hợp đồng"
+  },
+  "MANAGER_DEVICE": {
+    "USA": "Manager device",
+    "VNM": "Quản lý Thiết bị"
+  },
+  "USED_UNIT": {
+    "USA": "Used units",
+    "VNM": "Đơn vị sử dụng"
+  },
+  "AUTHORIZATION_UNIT": {
+    "USA": "Authorization unit",
+    "VNM": "Đơn vị ủy quyền"
+  },
+  "USER": {
+    "USA": "Users",
+    "VNM": "Người dùng"
+  },
+  "USER_MANAGER": {
+    "USA": "Users manager",
+    "VNM": "Quản lý Người dùng"
+  },
+  "AU_USER" : {
+    "USA" : "User authorization",
+   "VNM": "Phân quyền người dùng"
+   },
+  "ROLE": {
+    "USA": "Roles",
+    "VNM": "Vai trò"
+  },
+  "SETTING": {
+    "USA": "Setting",
+    "VNM": "Cài Đặt"
+  },
+  "REVENUE": {
+    "USA": "Revenue",
+    "VNM": "Doanh thu"
+  },
+  "REPORT_REVENUE": {
+    "USA": "Report Revenue",
+    "VNM": "Báo cáo doanh thu"
+  },
+  "REVENUE_DISTRIBUTE": {
+    "USA": "Revenue Distribution",
+    "VNM": "Phân phối doanh thu"
+  },
+  "HISTORY_COMPARISON": {
+    "USA": "History Comparisons",
+    "VNM": "Lịch sử đối soát"
+  },
+  "REPORT_BY_CONTRACT": {
+    "USA": "Revenue",
+    "VNM": "Doanh thu"
+  },
+  "INFO_WORK": {
+    "USA": "Work information",
+    "VNM": "thông tin tác phẩm"
+  }
+}

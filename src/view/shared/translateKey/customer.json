@@ -1,0 +1,46 @@
+{
+  "STT": {
+    "USA": "Stt",
+    "VNM": "Stt"
+  },
+  "DEVICE_NAME": {
+    "USA": "Device name",
+    "VNM": "Tên thiết bị"
+  },
+  "ACCOUNT": {
+    "USA": "Account",
+    "VNM": "Tài khoản"
+  },
+  "STATUS": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "TOTAL_DISPENSATION": {
+    "USA": "Total dispansation",
+    "VNM": "Tổng số lượt phát"
+  },
+  "NUMBER_OF_PLAYS": {
+    "USA": "Number of plays",
+    "VNM": "Số lượt phát"
+  },
+  "MUSIC": {
+    "USA": "Music",
+    "VNM": "Bài hát"
+  },
+  "TOTAL_REVENUE": {
+    "USA": "Total revenue",
+    "VNM": "Tổng doanh thu"
+  },
+  "COPYRIGHT": {
+    "USA": "Copyright",
+    "VNM": "Quyền tác giả"
+  },
+  "RIGHT_TO_PERFORM": {
+    "USA": "Right to peform",
+    "VNM": "Quyền biểu diễn"
+  },
+  "REALATED_RIGHTS": {
+    "USA": "Related rights",
+    "VNM": "Quyền liên quan"
+  }
+}

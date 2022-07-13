@@ -1,0 +1,271 @@
+{
+  "Device_Name": {
+    "USA": "Device Name",
+    "VNM": "Tên thiết bị"
+  },
+  "MAC_Address": {
+    "USA": "MAC Address",
+    "VNM": "Địa chỉ Mac"
+  },
+  "LOCATION":{
+    "USA": "Location",
+    "VNM": "Vị trí"
+  },
+  "OLD_VERSION":{
+    "USA": "Oldest version",
+    "VNM": "Phiên bản cũ nhất"
+  },
+  "VERSION":{
+    "USA": "Version",
+    "VNM": "Phiên bản"
+  },
+  "EMPTY":{
+    "USA": "Empty",
+    "VNM": "Còn trống"
+  },
+    "Memory": {
+    "USA": "Memory",
+    "VNM": "Bộ nhớ"
+  },
+  "MEMORY_STORAGE":{
+    "USA": "Memory storage",
+    "VNM": "Dung lượng bộ nhớ"
+    
+  },
+  "SKU_ID": {
+    "USA": "SKU/ID",
+    "VNM": "SKU/ID"
+  },
+  "Warranty_Expired": {
+    "USA": "Warranty Expired",
+    "VNM": "Thời hạn bảo hành"
+  },
+  "License_Date": {
+    "USA": "License Date",
+    "VNM": "Ngày cấp phép"
+  },
+  "Power_Screen": {
+    "USA": "Power/Screen",
+    "VNM": "Nguồn/Màn hình"
+  },
+  "Off": {
+    "USA": "Off",
+    "VNM": "Tắt"
+  },
+  "On": {
+    "USA": "On",
+    "VNM": "Mở"
+  },
+  "Group": {
+    "USA": "Group",
+    "VNM": "Nhóm"
+  },
+  "Status": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "Location": {
+    "USA": "Location",
+    "VNM": "Địa điểm"
+  },
+  "Add_Device": {
+    "USA": "Add Device",
+    "VNM": "Thêm thiết bị"
+  },
+  "Update": {
+    "USA": "Update",
+    "VNM": "Cập nhật"
+  },
+  "Deactivate": {
+    "USA": "Deactivate",
+    "VNM": "Huỷ kích hoạt"
+  },
+  "Deactivation": {
+    "USA": "Deactivation",
+    "VNM": "Ngừng kích hoạt"
+  },
+  "Activate": {
+    "USA": "Activate",
+    "VNM": "Kích hoạt"
+  },
+  "Activation": {
+    "USA": "activate",
+    "VNM": "Đang kích hoạt"
+  },
+  "Delete_Selected": {
+    "USA": "Delete Selected",
+    "VNM": "Xoá đã chọn"
+  },
+  "Restart": {
+    "USA": "Restart",
+    "VNM": "Khởi động lại"
+  },
+  "Placeholder": {
+    "USA": "device by Name, SKU, Location, Mac Address",
+    "VNM": "theo Tên, SKU, Địa điểm, địa chỉ MAC"
+  },
+  "Are_U_Sure": {
+    "USA": "Are you sure",
+    "VNM": "Bạn có chắc chắn"
+  },
+  "Delete": {
+    "USA": "Delete",
+    "VNM": "Xoá"
+  },
+  "Lock_Trans": {
+    "USA": "lock",
+    "VNM": "khoá"
+  },
+  "Unlock": {
+    "USA": "unlock",
+    "VNM": "mở khoá"
+  },
+  "Device": {
+    "USA": "Device",
+    "VNM": "Thiết bị"
+  },
+  "Setting": {
+    "USA": "Setting",
+    "VNM": "Thiết lập"
+  },
+  "RESET_MEMORY": {
+    "USA": "Reset memory",
+    "VNM": "Khôi phục bộ nhớ"
+  },
+  "Note": {
+    "USA": "Note",
+    "VNM": "Ghi chú"
+  },
+  "Login_Name": {
+    "USA": "Login Name",
+    "VNM": "Tên đăng nhập"
+  },
+  "Password": {
+    "USA": "Password",
+    "VNM": "Mật khẩu"
+  },
+  "Re_Password": {
+    "USA": "Re-Password",
+    "VNM": "Nhập lại mật khẩu"
+  },
+  "Upload_Photo": {
+    "USA": "Upload Photo",
+    "VNM": "Tải ảnh"
+  },
+  "Device_Status": {
+    "USA": "Device Status",
+    "VNM": "Trạng thái thiết bị"
+  },
+  "Add_Setting": {
+    "USA": "Add setting",
+    "VNM": "Thêm thiết lập"
+  },
+  "Placeholder_Date": {
+    "USA": "Select date",
+    "VNM": "Chọn ngày"
+  },
+  "Save": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "Cancel": {
+    "USA": "Cancel",
+    "VNM": "Huỷ bỏ"
+  },
+  "Please_Input": {
+    "USA": "This field is required!",
+    "VNM": "Vui lòng không để trống trường này!"
+  },
+  "Length_Pass": {
+    "USA": "Password cannot be less than 8 characters",
+    "VNM": "Mật khẩu không thể ít hơn 8 ký tự"
+  },
+  "Mess_RePass": {
+    "USA": "The two passwords that you entered do not match!",
+    "VNM": "Mật khẩu không khớp"
+  },
+  "Miss_Key": {
+    "USA": "Missing key",
+    "VNM": "Không để trống trường này!"
+  },
+  "Miss_Value": {
+    "USA": "Missing value",
+    "VNM": "Không để trống trường này!"
+  },
+  "Whitespace": {
+    "USA": "This field is cannot be empty!",
+    "VNM": "Không để trống trường này!"
+  },
+  "Device_List": {
+    "USA": "Device List",
+    "VNM": "Danh sách thiết bị"
+  },
+  "Device_Detail": {
+    "USA": "Device detail",
+    "VNM": "Chi tiết thiết bị"
+  },
+  "Device_Info": {
+    "USA": "Device info",
+    "VNM": "Thông tin thiết bị"
+  },
+  "Label_Modal_Edit": {
+    "USA": "Edit Device Information",
+    "VNM": "Chỉnh sửa thông tin thiết bị"
+  },
+  "CREATE": {
+    "USA": "CREATE",
+    "VNM": "TẠO MỚI"
+  },
+  "UPDATE": {
+    "USA": "UPDATE",
+    "VNM": "CẬP NHẬT"
+  },
+  "DELETE": {
+    "USA": "DELETE",
+    "VNM": "XOÁ"
+  },
+  "New": {
+    "USA": "New Value",
+    "VNM": "Giá trị mới"
+  },
+  "Old": {
+    "USA": "Old Value",
+    "VNM": "Giá trị cũ"
+  },
+  "Device_Log": {
+    "USA": "DEVICE LOG",
+    "VNM": "NHẬT KÝ thiết bị"
+  },
+  "Detail_Log": {
+    "USA": "Detail Device Log",
+    "VNM": "Chi tiết nhật ký thiết bị"
+  },
+  "Field": {
+    "USA": "Field Name",
+    "VNM": "Tên trường"
+  },
+  "Group_user": {
+    "USA": "Group User",
+    "VNM": "Nhóm người dùng"
+  },
+  "Select_group_user": {
+    "USA": "Select a group",
+    "VNM": "Chọn nhóm người dùng"
+  },
+  "Ok_Text": {
+    "USA": "Delete",
+    "VNM": "Xoá"
+  },
+  "Cancel_Text": {
+    "USA": "Cancel",
+    "VNM": "Huỷ"
+  },
+  "Required_field": {
+    "USA": " field required",
+    "VNM": "trường thông tin bắt buộc"
+  },
+  "Show_Hide_Column": {
+    "USA": "Show/hide columns",
+    "VNM": "Ẩn hiện cột"
+  }
+}

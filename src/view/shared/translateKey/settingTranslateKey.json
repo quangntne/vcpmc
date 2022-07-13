@@ -1,0 +1,118 @@
+{
+    "SETTING": {
+        "USA": "Setting",
+        "VNM": "Cài đặt hệ thống"
+    },
+    "CONFIGURATION": {
+        "USA": "Configuration",
+        "VNM": "Cấu hình"
+    },
+    "CONTRACT_MANAGEMENT": {
+        "USA": "Contract management ",
+        "VNM": "Quản lý hợp đồng"
+    },
+    "SYSTEM_USER": {
+        "USA": "System user",
+        "VNM": "Người dùng hệ thống"
+    },
+    "ARTWORK_INFO": {
+        "USA": "Artwork info",
+        "VNM": "Thông tin tác phẩm"
+    },
+    "SYSTEMUSER_MANAGER": {
+        "USA": "System user manager",
+        "VNM": "Quản lý người dùng hệ thống"
+    },
+    "MANAGE_CONTRACT": {
+        "USA": "Manager Contract",
+        "VNM": "Quản lý loại hợp đồng"
+    },
+    "TYPE_CONTRACT": {
+        "USA": "Type contract",
+        "VNM": "Loại hợp đồng"
+    },
+    "NO": {
+        "USA": "STT",
+        "VNM": "No"
+    },
+    "REVENU_VCPMC": {
+        "USA": "VCPCM revenue/contract (Unit: %)",
+        "VNM": "Doanh thu VCPCM/hợp đồng (Đơn vị: %) "
+    },
+    "WARNING_EXPIR": {
+        "USA": "Warn of expiration of exploitation of works",
+        "VNM": "Cảnh báo hết hạn khai thác tác phẩm"
+    },
+    "CONTRACT_WARNING": {
+        "USA": "Contracts are warned before the expiration time:",
+        "VNM": "Hợp đồng được cảnh báo trước thời gian hết hạn:"
+    },
+    "DAY": {
+        "USA": "day",
+        "VNM": "ngày"
+    },
+    "EDIT_CONTRACT": {
+        "USA": "Edit contract type",
+        "VNM": "Chỉnh sửa loại hợp đồng"
+    },
+    "EDIT_DAY_EXPIR": {
+        "USA": "Edit expiration warning",
+        "VNM": "Chỉnh sửa cảnh báo hết hạn"
+    },
+    "ADD_NEW": {
+        "USA": "Add new",
+        "VNM": "Thêm mới"
+    },
+    "DELETE": {
+        "USA": "Delete",
+        "VNM": "Xóa"
+    },
+    "CANCEL": {
+        "USA": "Cancel",
+        "VNM": "Hủy"
+    },
+    "SAVE": {
+        "USA": "Save",
+        "VNM": "Lưu"
+    },
+    "GENRE_WORKS": {
+        "USA": "Genre of works",
+        "VNM": "Thể loại tác phẩm"
+    },
+    "EDIT": {
+        "USA": "Edit",
+        "VNM": "Chỉnh sửa"
+    },
+    "CATEGORY": {
+        "USA": "Category",
+        "VNM": "Tên thể loại"
+    },
+    "DES": {
+        "USA": "Description",
+        "VNM": "Mô tả"
+    },
+    "SET_CONTROL": {
+        "USA": "Set the control period",
+        "VNM": "Cài đặt chu kì đối soát"
+    },
+    "QUATERLY_CONTROL": {
+        "USA": "Quarterly reconciliation",
+        "VNM": "Đối soát theo quý"
+    },
+    "MONTH_CONTROL": {
+        "USA": "Month reconciliation",
+        "VNM": "Đối soát theo tháng"
+    },
+    "QUARTER": {
+        "USA": "Quarter",
+        "VNM": "Quý"
+    },
+    "START_DAY": {
+        "USA": "Start day",
+        "VNM": "Ngày bắt đầu"
+    },
+    "END_DAY": {
+        "USA": "End day",
+        "VNM": "Ngày kết thúc"
+    }
+}

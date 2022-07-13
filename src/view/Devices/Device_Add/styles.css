@@ -1,0 +1,50 @@
+.device-add .normal-button {
+  margin-right: 5%;
+}
+
+.device-add .list-setting {
+  overflow-y: scroll;
+  max-height: 140px;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.device-add .list-btn {
+  margin-top: 5rem;
+}
+
+.device-add .ant-form-item-label label {
+  color: white;
+}
+
+.device-add .ant-form-item-control-input-content {
+  color: white;
+}
+
+.device-add .ant-form-item-control-input-content .ant-input-affix-wrapper {
+  background: transparent !important;
+}
+
+.device-add .ant-form-item-control-input-content textarea {
+  background: transparent;
+  color: white;
+  height: 120px;
+  border: 3px dashed #F6F6F6;
+  border-radius: 10px;
+}
+
+.device-add .ant-form-item-control-input-content input {
+  background: transparent;
+  color: white;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.device-add .ant-form-item-control-input-content input:hover {
+  background: transparent !important;
+}
+
+.device-add .ant-form-item-control-input-content input:-webkit-autofill {
+  background: transparent !important;
+}
+/*# sourceMappingURL=styles.css.map */

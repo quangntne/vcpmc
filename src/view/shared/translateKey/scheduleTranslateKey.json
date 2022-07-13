@@ -1,0 +1,210 @@
+{
+  "LOOP_ON_WEEK":{
+    "USA": "Loop on day",
+    "VNM": "Lặp lại trong tuần"
+  },
+  "Name": {
+    "USA": "Name",
+    "VNM": "Tên lịch biểu"
+  },
+  "Start_Date": {
+    "USA": "Start Date",
+    "VNM": "Ngày bắt đầu"
+  },
+  "End_Date": {
+    "USA": "End Date",
+    "VNM": "Ngày kết thúc"
+  },
+  "RANGE_TIME": {
+    "USA": "Range time",
+    "VNM": "Thời gian hoạt động"
+  },
+  "Start_Time": {
+    "USA": "Start Time",
+    "VNM": "Thời gian bắt đầu"
+  },
+  "End_Time": {
+    "USA": "End Time",
+    "VNM": "Thời gian kết thúc"
+  },
+  "Add_Schedule": {
+    "USA": "Add Schedule",
+    "VNM": "Thêm lịch biểu"
+  },
+  "Edit_Schedule": {
+    "USA": "Edit Schedule",
+    "VNM": "Sửa lịch biểu"
+  },
+  "Schedule": {
+    "USA": "Schedule",
+    "VNM": "Lịch biểu"
+  },
+  "Schedule_List": {
+    "USA": "Schedule List",
+    "VNM": "Danh sách lịch biểu"
+  },
+  "Delete_Selected": {
+    "USA": "Delete Selected",
+    "VNM": "Xoá đã chọn"
+  },
+  "Setting": {
+    "USA": "Setting",
+    "VNM": "Thiết lập"
+  },
+  "Play_list": {
+    "USA": "Play list",
+    "VNM": "Danh sách phát"
+  },
+  "Loop": {
+    "USA": "Loop",
+    "VNM": "Vòng lặp"
+  },
+  "Type_loop": {
+    "USA": "Type loop",
+    "VNM": "Kiểu lặp"
+  },
+  "No_loop": {
+    "USA": "No loop",
+    "VNM": "Không lặp"
+  },
+  "Daily": {
+    "USA": "Daily",
+    "VNM": "Hằng ngày"
+  },
+  "Weekly": {
+    "USA": "Weekly",
+    "VNM": "Hằng tuần"
+  },
+  "Monthly": {
+    "USA": "Monthly",
+    "VNM": "Hằng tháng"
+  },
+  "Yearly": {
+    "USA": "Yearly",
+    "VNM": "Hằng năm"
+  },
+  "Save": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "Continue": {
+    "USA": "Continue",
+    "VNM": "Tiếp tục"
+  },
+  "Cancel": {
+    "USA": "Cancel",
+    "VNM": "Huỷ bỏ"
+  },
+  "Mon": {
+    "USA": "Monday",
+    "VNM": "Thứ 2"
+  },
+  "Tue": {
+    "USA": "Tuesday",
+    "VNM": "Thứ 3"
+  },
+  "Wed": {
+    "USA": "Wednesday",
+    "VNM": "Thứ 4"
+  },
+  "Thu": {
+    "USA": "Thursday",
+    "VNM": "Thứ 5"
+  },
+  "Fri": {
+    "USA": "Friday",
+    "VNM": "Thứ 6"
+  },
+  "Sat": {
+    "USA": "Saturday",
+    "VNM": "Thứ 7"
+  },
+  "Sun": {
+    "USA": "Sunday",
+    "VNM": "Chủ nhật"
+  },
+  "Choose_day": {
+    "USA": "Choose day",
+    "VNM": "Chọn ngày"
+  },
+  "Choose_day_place_holder": {
+    "USA": "Please choose day",
+    "VNM": "Xin chọn ngày"
+  },
+  "Add_device": {
+    "USA": "Add device",
+    "VNM": "Thêm thiết bị"
+  },
+  "Memory": {
+    "USA": "Memory",
+    "VNM": "Dung lượng"
+  },
+  "Status": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "Location": {
+    "USA": "Location",
+    "VNM": "Địa điểm"
+  },
+  "Are_U_Sure": {
+    "USA": "Are you sure",
+    "VNM": "Bạn có chắc"
+  },
+  "Delete": {
+    "USA": "delete",
+    "VNM": "Xoá"
+  },
+  "Delete_Schedule": {
+    "USA": "Delete Schedule",
+    "VNM": "Xoá lịch biểu"
+  },
+  "Please_Input": {
+    "USA": "This field is required!",
+    "VNM": "Vui lòng không để trống trường này"
+  },
+  "Mess_Time": {
+    "USA": "The end time must be larger than the start time!",
+    "VNM": "Thời gian kết thúc phải lớn hơn thời gian bắt đầu!"
+  },
+  "Mess_Time_Start": {
+    "USA": "The start time must be smaller than the end time!",
+    "VNM": "Thời gian kết thúc phải lớn hơn thời gian bắt đầu!"
+  },
+  "Mess_Date": {
+    "USA": "The end date must be larger than the start date!",
+    "VNM": "Ngày kết thúc phải lớn hơn ngày bắt đầu"
+  },
+  "Label_Device": {
+    "USA": "Delete Device",
+    "VNM": "Xoá thiết bị"
+  },
+  "SURE_DELETE": {
+    "USA": "Are you sure to delete",
+    "VNM": "Bạn có chắc chắn muốn xoá?"
+  },
+  "Sequentially": {
+    "USA": "Sequentially",
+    "VNM": "Tuần tự"
+  },
+  "Not_Sequentially": {
+    "USA": "Not sequentially",
+    "VNM": "Không tuần tự"
+  },
+  "Login_name": {
+    "USA": "Login Name",
+    "VNM": "Tên đăng nhập"
+  },
+  "EVENT_OVERLAP_ERROR":{
+    "USA": "Overlap schedule create time error",
+    "VNM": "Lỗi thời gian tạo lịch bị trùng"
+  },
+  "DELETE_SCHEDULE_DESC":{
+    "USA":"do you want schedule?",
+    "VNM": "Bạn có muốn xóa lịch phát trong ngày"
+  },
+  "DELETE_SCHEDULE_TITLE":{
+    "USA":"Delete schedule",
+    "VNM": "Xoá lich phát"
+  }
+}

@@ -1,0 +1,68 @@
+.header-component {
+  margin-right: 170px;
+  margin-top: 27px;
+  float: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header-component__language {
+  margin-right: 20px;
+}
+
+.header-component__identify {
+  text-align: right;
+  color: #B2B2B2;
+}
+
+.header-component__identify .identify__hi {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.header-component__identify .identify__admin {
+  font-size: 0.95rem;
+  font-weight: bold;
+}
+
+.header-component__dropdown-avatar {
+  border: 1px solid #f6f6f6;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  position: relative;
+  margin-left: 20px;
+}
+
+.header-component p {
+  margin-bottom: 0;
+}
+
+.icon__language {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  position: relative;
+  font-size: 1.5rem;
+}
+
+.icon__language i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.icon__avatar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+/*# sourceMappingURL=styles.css.map */

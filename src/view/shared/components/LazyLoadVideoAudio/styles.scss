@@ -1,0 +1,11 @@
+.react-player {
+  position: relative;
+  border-radius: 15px;
+  background:rgba(0,0,0,.1);
+
+  .ant-skeleton.skeleton.ant-skeleton-element.ant-skeleton-active.skeleton {
+    width: 100%;
+    height: 100%;
+  }  
+  z-index: 1;
+}

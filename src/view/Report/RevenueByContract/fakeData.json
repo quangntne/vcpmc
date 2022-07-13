@@ -1,0 +1,68 @@
+[
+    {
+        "no":1,
+        "noContract": "HD123",
+        "miningUnit": "CTY TNHH MTV XYZ",
+        "contractTerm": "01/04/2021 - 09/02/2025",
+        "typeContract": 0,
+        "syncDevices": {
+            "syncDevicesBefore": 10,
+            "syncDevicesAfter": 9
+        },
+        "totalPlay":"321.000",
+        "closingDate":"22/04/2021"
+    }, 
+    {
+        "no":2,
+        "noContract": "HD234",
+        "miningUnit": "CTY TNHH MTV XYZ",
+        "contractTerm": "01/04/2021 - 09/02/2025",
+        "typeContract": 1,
+        "syncDevices": {
+            "syncDevicesBefore": 8,
+            "syncDevicesAfter": 8
+        },
+        "totalPlay":"124.000",
+        "closingDate":"22/04/2021"
+    }, 
+    {
+        "no":3,
+        "noContract": "HD989",
+        "miningUnit": "CTY TNHH MTV XYZ",
+        "contractTerm": "01/04/2021 - 09/02/2025",
+        "typeContract": 0,
+        "syncDevices": {
+            "syncDevicesBefore": 7,
+            "syncDevicesAfter": 7
+        },
+        "totalPlay":"124.000",
+        "closingDate":"22/04/2021"
+    }, 
+    {
+        "no":4,
+        "noContract": "HD989",
+        "miningUnit": "CTY TNHH MTV XYZ",
+        "contractTerm": "01/04/2021 - 09/02/2025",
+        "typeContract": 1,
+        "syncDevices": {
+            "syncDevicesBefore": 4,
+            "syncDevicesAfter": 4
+        },
+        "totalPlay":"124.000",
+        "closingDate":"22/04/2021"
+    },
+    {
+        "no":4,
+        "noContract": "HD989",
+        "miningUnit": "CTY TNHH MTV XYZ",
+        "contractTerm": "01/04/2021 - 09/02/2025",
+        "typeContract": 0,
+        "syncDevices": {
+            "syncDevicesBefore": 3,
+            "syncDevicesAfter": 2
+        },
+        "totalPlay":"124.000",
+        "closingDate":"22/04/2021"
+    }
+]
+    

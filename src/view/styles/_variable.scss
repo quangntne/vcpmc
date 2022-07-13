@@ -1,0 +1,94 @@
+//MTC COLOR
+$color--background: #1E1E2E;
+$color--main-text: #f6f6f6;
+$color--main-title: #E5E5E5;
+
+// MAIN COLOR 
+$color__yellow: #ff7506;
+$color__bor_input: #727288;
+
+$color__yellow__second: #FF9911;
+$color--card: #3E3E5B;
+$color--card-menu: #040407;
+$color--menu-icon: #939393;
+$color--menu-hover: #4C4E63;
+$color--header-text: #F5F5FF;
+$color-breadcumb-text: #F5F5FF;
+$color-breadcumb-icon: #FFAC69;
+$color-border-search: #FB8425;
+$color-background-cancel: #AFAEAE;
+$color-placehoder: #707070;
+$color-select: #5E5B6A;
+$color-select-active: #8f8d97;
+$color-right-menu: rgba(206, 206, 206, 0.133);
+$color-rightmenu-icon: #212121;
+$color-sidebar: #020220;
+$color-sidebar-text: #C8C8DB;
+$color-dropdown: #30303F;
+$color-orange: #B65100;
+
+// VCPMC MAIN COLOR  
+$color-table: #2f2f41;
+$color-checkbox: #5D5FEF;
+
+//MTC FONT FAMILY
+$main-font: "Montserrat";
+$logo-font: "Segoe UI";
+$font-weight-semi-bold: 600;
+$font-weight-medium: 500;
+
+//MTC MAIN STYLE
+$border-radius: 10px;
+
+@mixin no-outline($color) {
+  outline: none;
+  box-shadow: none;
+  &:focus {
+    outline: none;
+    border: 1px solid $color;
+    box-shadow: none;
+  }
+  &:hover {
+    border: 1px solid $color;
+    outline: none;
+    box-shadow: none;
+
+  }
+}
+@mixin no-boxshadow() {
+  outline: none;
+  box-shadow: none;
+  &:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  &:hover {
+    outline: none;
+    box-shadow: none;
+  }
+}
+@mixin center-absolute {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin text-wrap {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@mixin line-clamp($number) {
+  display: -webkit-box;
+  -webkit-line-clamp: $number;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

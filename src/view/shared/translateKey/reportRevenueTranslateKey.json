@@ -1,0 +1,414 @@
+{
+    "REVENUE_REPORT": {
+        "USA": "Revenue report",
+        "VNM": "Báo cáo doanh thu"
+    },
+    "MONTHLY": {
+        "USA": "Monthly",
+        "VNM": "Theo tháng"
+    },
+    "MONTH": {
+        "USA": "Month",
+        "VNM": "Tháng"
+    },
+    "PRECIOUS": {
+        "USA": "Precious",
+        "VNM": "Theo quý"
+    },
+    "PRECIOUSTER": {
+        "USA": "Precious",
+        "VNM": "Quý"
+    },
+    "TOTAL_SONGS": {
+        "USA": "Total number of songs",
+        "VNM": "Tổng số bài hát"
+    },
+    "TOTAL_PLAYS": {
+        "USA": "Total Plays",
+        "VNM": "Tổng số lượt phát"
+    },
+    "TOTAL_REVENUE": {
+        "USA": "Total revenue",
+        "VNM": "Tổng doanh thu"
+    },
+    "VCPMC": {
+        "USA": "VCPMC",
+        "VNM": "Hành chính phí"
+    },
+    "CHART_TRACK": {
+        "USA": "Play tracking chart",
+        "VNM": "Biểu đồ theo dõi lượt phát"
+    },
+    "MILION": {
+        "USA": "Million",
+        "VNM": "Triệu"
+    },
+    "Detail": {
+        "USA": "Detail",
+        "VNM": "Xem chi tiết"
+    },
+    "Find_Contract": {
+        "USA": "Find with contract",
+        "VNM": "Tìm theo hợp đồng"
+    },
+    "LISTENS": {
+        "USA": "Listens",
+        "VNM": "Lượt nghe"
+    },
+    "REPORT_DETAIL": {
+        "USA": "Report detail",
+        "VNM": "Báo cáo chi tiết"
+    },
+    "REVENUE_CONTRACT": {
+        "USA": "Revenue under mining contract",
+        "VNM": "Doanh thu theo hợp đồng khai thác"
+    },
+    "REVENUE_CONTRACT_2": {
+        "USA": "Revenue under contract",
+        "VNM": "Doanh thu theo hợp đồng"
+    },
+    "ENTER_USERNAME": {
+        "USA": "Enter username",
+        "VNM": "Nhập tên người dùng"
+    },
+    "NO": {
+        "USA": "No",
+        "VNM": "STT"
+    },
+    "NO_CONTRACT": {
+        "USA": "No Contract",
+        "VNM": "Số hợp đồng"
+    },
+    "MINING_UNIT": {
+        "USA": "Mining unit",
+        "VNM": "Đơn vị khai thác"
+    },
+    "CONTRACT_TERM": {
+        "USA": "Contract term",
+        "VNM": "Thời hạn hợp đồng"
+    },
+    "TYPE_CONTRACT": {
+        "USA": "Type contract",
+        "VNM": "Loại hợp đồng"
+    },
+    "DEVICE_SYNCED": {
+        "USA": "Number synced devices",
+        "VNM": "Số thiết bị đã đồng bộ"
+    },
+    "TOTAL_PLAYS_2": {
+        "USA": "Total Plays",
+        "VNM": "Tổng số lượt phát"
+    },
+    "DATE_CLOSE": {
+        "USA": "Closing date for control",
+        "VNM": "Ngày chốt đối soát"
+    },
+    "DATE_IMPLEMENT": {
+        "USA": "Date implementation check",
+        "VNM": "Ngày thực hiện đối soát"
+    },
+    "REVENUE_DETAIL": {
+        "USA": "Revenue details",
+        "VNM": "Chi tiết doanh thu"
+    },
+    "HISTORY_DEVICE": {
+        "USA": "Sync history on device",
+        "VNM": "Lịch sử đồng bộ trên thiết bị"
+    },
+    "CLOSE_REVENUE": {
+        "USA": "Closing revenue",
+        "VNM": "Chốt doanh thu"
+    },
+    "EXPORT_DATA": {
+        "USA": "Export data",
+        "VNM": "Xuất dữ liệu"
+    },
+    "REVENUE_WILL": {
+        "USA": "Revenue will be closed from",
+        "VNM": "Doanh thu sẽ được chốt từ ngày"
+    },
+    "TO": {
+        "USA": "to",
+        "VNM": "đến ngày"
+    },
+    "ON": {
+        "USA": "on",
+        "VNM": "Chốt doanh thu"
+    },
+    "ALL_CONTRACT": {
+        "USA": "all user contracts.",
+        "VNM": "trên tất cả các hợp đồng sử dụng."
+    },
+    "PRESS_CONTINUE": {
+        "USA": "Press <Continue> to close the revenue.",
+        "VNM": "Nhấn <Tiếp tục> để chốt doanh thu."
+    },
+    "PRESS_CANCEL": {
+        "USA": "Press <Cancel> to cancel and not close the revenue",
+        "VNM": "Nhấn <Hủy> để hủy bỏ và không chốt doanh thu"
+    },
+    "CANCEL": {
+        "USA": "Cancel",
+        "VNM": "Hủy"
+    },
+    "CONTINUE": {
+        "USA": "Continue",
+        "VNM": "Tiếp tục"
+    },
+    "CONTRACT": {
+        "USA": "Contract",
+        "VNM": "Hợp đồng"
+    },
+    "MONTH_CONTRACT": {
+        "USA": "Monthly",
+        "VNM": "Kỳ tháng"
+    },
+    "PRECIOUS_CONTRACT": {
+        "USA": "Precious",
+        "VNM": "Kỳ quý"
+    },
+    "CONTRACT_INFOR": {
+        "USA": "Contract information",
+        "VNM": "Thông tin hợp đồng"
+    },
+    "EFFECT_FROM": {
+        "USA": "Effect from",
+        "VNM": "Hiệu lực từ"
+    },
+    "EXPIR_DATE": {
+        "USA": "Expiration date",
+        "VNM": "Ngày hết hạn"
+    },
+    "CONTRACT_VALUE": {
+        "USA": "Contract value",
+        "VNM": "Giá trị hợp đồng"
+    },
+    "DELIVERY_VALUE": {
+        "USA": "Delivery value by day",
+        "VNM": "Giá trị phân phối theo ngày"
+    },
+    "CONTROL_INFOR": {
+        "USA": "Control information",
+        "VNM": "Thông tin đối soát"
+    },
+    "SIGN_CHECK": {
+        "USA": "Sign check",
+        "VNM": "Ký đối soát"
+    },
+    "SONGS": {
+        "USA": "Songs",
+        "VNM": "Số bài hát"
+    },
+    "CONTRACT_STATUS": {
+        "USA": "Contrast status",
+        "VNM": "Trạng thái đối soát"
+    },
+    "UNCHECK": {
+        "USA": "Uncheck",
+        "VNM": "Chưa đối soát"
+    },
+    "CHECK": {
+        "USA": "Check",
+        "VNM": "Đối soát"
+    },
+    "ALL_ONE": {
+        "USA": "All in one",
+        "VNM": "Trọn gói"
+    },
+    "BY_PLAYS": {
+        "USA": "By Plays",
+        "VNM": "Theo lượt phát"
+    },
+    "ENTER_SONGNAME ": {
+        "USA": "Enter song name",
+        "VNM": "Nhập tên bài hát"
+    },
+    "LIST_RECORDS": {
+        "USA": "List of records",
+        "VNM": "Danh sách bản ghi"
+    },
+    "VIEW_BY_DAY": {
+        "USA": "View by day/week",
+        "VNM": "Xem theo ngày/tuần"
+    },
+    "NAME_SONG": {
+        "USA": "Name song",
+        "VNM": "Tên bài hát"
+    },
+    "TOTAL_PLAYS_3": {
+        "USA": "Total plays",
+        "VNM": "Tổng lượt phát"
+    },
+    "PERFORMANCE": {
+        "USA": "Performance rights",
+        "VNM": "Quyền biểu diễn"
+    },
+    "PRODUCT": {
+        "USA": "Production rights",
+        "VNM": "Quyền sản xuất"
+    },
+    "VCPMC_2": {
+        "USA": "VCPMC",
+        "VNM": "VCPMC"
+    },
+    "PRICE": {
+        "USA": "Unit price/ turn",
+        "VNM": "Đơn giá/ lượt"
+    },
+    "IMPLEMENT_DATE": {
+        "USA": "Implementation date",
+        "VNM": "Ngày thực hiện"
+    },
+    "DEVICE_HISTORY": {
+        "USA": "Device sync history",
+        "VNM": "Lịch sử đồng bộ thiết bị"
+    },
+    "NAME_DEVICE": {
+        "USA": "Name device",
+        "VNM": "Tên thiết bị"
+    },
+    "STATUS": {
+        "USA": "Status",
+        "VNM": "Trạng thái"
+    },
+    "WORKING": {
+        "USA": "Working",
+        "VNM": "Đang hoạt động"
+    },
+    "NOT_WORKING": {
+        "USA": "Not working",
+        "VNM": "Không hoạt dộng"
+    },
+    "LIST_DEVICES": {
+        "USA": "List of devices",
+        "VNM": "Danh sách thiết bị"
+    },
+    "TOTAL_EQUIPMENT": {
+        "USA": "Total equipment",
+        "VNM": "Tổng thiết bị"
+    },
+    "DEVICE": {
+        "USA": "Device",
+        "VNM": "Thiết bị"
+    },
+    "DATA_TIME_DEVICE": {
+        "USA": "Data sync time",
+        "VNM": "Thời gian đồng bộ dữ liệu"
+    },
+    "LIST_SONGS": {
+        "USA": "List of song",
+        "VNM": "Danh sách bài hát"
+    },
+    "PLAY_COUNT": {
+        "USA": "Play count",
+        "VNM": "Số lượt phát"
+    },
+    "January": {
+        "USA": "January",
+        "VNM": "Tháng 1"
+    },
+    "February": {
+        "USA": "February",
+        "VNM": "Tháng 2"
+    },
+    "March": {
+        "USA": "March",
+        "VNM": "Tháng 3"
+    },
+    "April": {
+        "USA": "April",
+        "VNM": "Tháng 4"
+    },
+    "May": {
+        "USA": "May",
+        "VNM": "Tháng 5"
+    },
+    "June": {
+        "USA": "June",
+        "VNM": "Tháng 6"
+    },
+    "July": {
+        "USA": "July",
+        "VNM": "Tháng 7"
+    },
+    "August": {
+        "USA": "August",
+        "VNM": "Tháng 8"
+    },
+    "September": {
+        "USA": "September",
+        "VNM": "Tháng 9"
+    },
+    "October": {
+        "USA": "October",
+        "VNM": "Tháng 10"
+    },
+    "November": {
+        "USA": "November",
+        "VNM": "Tháng 11"
+    },
+    "December": {
+        "USA": "December",
+        "VNM": "Tháng 12"
+    },
+    "Quarter1": {
+        "USA": "Quarter 1",
+        "VNM": "Quý 1"
+    },
+    "Quarter2": {
+        "USA": "Quarter 2",
+        "VNM": "Quý 2"
+    },
+    "Quarter3": {
+        "USA": "Quarter 3",
+        "VNM": "Quý 3"
+    },
+    "Quarter4": {
+        "USA": "Quarter 4",
+        "VNM": "Quý 4"
+    },
+    "HISTORY_COMPARISON": {
+        "USA": "History comparison",
+        "VNM": "Lịch sử đối soát"
+    },
+    "HISTORY_COMPARISON_REVENUE": {
+        "USA": "History comparison revenue",
+        "VNM": "Lịch sử đối soát doanh thu"
+    },
+    "TIME_PERFORM": {
+        "USA": "Time Perform",
+        "VNM": "Thời gian thực hiện"
+    },
+    "LIST_CONTRACT": {
+        "USA": "Checked Mining Contract List",
+        "VNM": "Danh sách hợp đồng khai thác đã đối soát"
+    },
+    "DETAIL": {
+        "USA": "Detail",
+        "VNM": "Chi tiết"
+    },
+    "CHECKED": {
+        "USA": "Checked",
+        "VNM": "Đã đối soát"
+    },
+    "NO_CHECKED": {
+        "USA": "No checked",
+        "VNM": "Chưa đối soát"
+    },
+    "PRESS_USER": {
+        "USA": "Enter username",
+        "VNM": "Nhập tên người dùng"
+    },
+    "PRESS_SONG": {
+        "USA": "Enter song",
+        "VNM": "Nhập tên bài hát"
+    },
+    "PRESS_NAME_DEVICE": {
+        "USA": "Enter name device",
+        "VNM": "Nhập tên thiết bị"
+    },
+    "PRESS_ADMIN_NAME": {
+        "USA": "Enter the admin account name",
+        "VNM": "Nhập tên tài khoản quản trị"
+    }
+}

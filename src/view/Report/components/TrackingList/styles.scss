@@ -1,0 +1,30 @@
+.filter-time {
+    display: flex;
+    .big-icon {
+        font-size: 20px;
+        color: #ff7506;
+    }
+}
+.w-100.button-download {
+    position: relative;
+    .normal-button {
+        position: absolute;
+        right: 0;
+    }
+}
+// .left-table {
+//     position: relative;
+//     .polygon:after {
+//         content: "";
+//         border: 12px solid orange;
+//         border-color: transparent transparent transparent white;
+//         position: absolute;
+//         top: 0;
+//         right: 0;
+//     }
+// }
+.ant-pagination-item.ant-pagination-item-1.ant-pagination-item-active,.ant-pagination-item.ant-pagination-item-2.ant-pagination-item-active,.ant-pagination-item.ant-pagination-item-3.ant-pagination-item-active,.ant-pagination-item.ant-pagination-item-4.ant-pagination-item-active,.ant-pagination-item.ant-pagination-item-5.ant-pagination-item-active{
+    background-color: white;
+    color: black;
+    font-size: 1rem;
+}

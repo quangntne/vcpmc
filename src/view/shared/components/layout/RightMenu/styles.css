@@ -1,0 +1,95 @@
+.right {
+  position: fixed;
+  z-index: 10;
+  right: 10px;
+  top: 105px;
+  width: 134px;
+  -webkit-box-shadow: 0px 3px 6px #00000029;
+          box-shadow: 0px 3px 6px #00000029;
+  border-radius: 10px 0 0 10px;
+  background-color: rgba(206, 206, 206, 0.133);
+}
+
+.right__menu .drag {
+  cursor: -webkit-grab;
+  cursor: grab;
+  width: 72px;
+  height: 4px;
+  background: #ff7506;
+  border-radius: 4px;
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
+.right__menu__content {
+  margin: 20px auto;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.right__menu__content .item {
+  display: block;
+}
+
+.right__menu__content .item__icon {
+  color: #212121;
+  background: #939393;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  position: relative;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+  font-size: 1.2rem;
+  margin: 0 auto;
+}
+
+.right__menu__content .item__icon i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.right__menu__content .item:hover .item__icon {
+  background-color: #C4C4C4;
+}
+
+.right__menu__content .item__name {
+  color: white;
+  text-transform: capitalize;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 0.67rem;
+}
+
+.right__menu__content .item.no-click:hover .item__icon {
+  background-color: #5d5d5d;
+}
+
+.no-click {
+  pointer-events: none;
+  cursor: no-drop;
+}
+
+.no-click:hover {
+  cursor: no-drop;
+}
+
+.no-click:hover .item__icon {
+  background-color: #5d5d5d;
+}
+
+.no-click .item__icon {
+  background-color: #5d5d5d;
+}
+
+.no-click .item__name {
+  color: #939393;
+  pointer-events: none;
+}
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,28 @@
+@import "./../styles/variable";
+.form-edit-user{
+    label {
+        width: 100%;
+    }
+    .label-input-edit{
+        width: 70%;
+    }
+}
+.point-red {
+    &:before{
+        display: inline-block;
+        margin-right: 4px;
+        color: #ff4d4f;
+        font-size: 14px;
+        font-family: SimSun, sans-serif;
+        line-height: 1;
+        content: '*';
+        opacity: 1;
+    }
+}
+.radio-eidt {
+    width: 100%;
+    display: flex;
+    label {
+        width: auto !important;
+    }
+}

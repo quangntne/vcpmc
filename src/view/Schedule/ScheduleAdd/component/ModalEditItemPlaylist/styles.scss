@@ -1,0 +1,64 @@
+@import "../../../../styles/variable";
+.bold{
+    font-weight: 600 !important;
+    font-family: 'Montserrat';
+}
+.modal-edit-item-playlist{
+  .content-item-playlist{
+    color: white;
+    padding-top: 2rem;
+    &-name{
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #F5F5FF;
+    }
+    .ant-checkbox-group{
+      .ant-checkbox-wrapper{
+        margin-bottom: 1rem;
+        color: white;
+        align-items: center;
+        vertical-align: middle;
+        align-content: center;
+        .ant-checkbox{
+          top:0;
+          .ant-checkbox-inner{
+            color: #347AFF;
+            border-color: #347AFF;
+            background-color: transparent;
+            &::after{
+              border-color: white;
+            }
+          }
+        }
+        .ant-checkbox-checked{
+          background-color: #347AFF;
+          border-radius: 9px;
+        }
+      }
+    }
+    .hr-playlist {
+      border-color: #C8C8DB;
+    }
+    .input-class{
+      background-color: #2B2B3F;
+      border-radius: 8px;
+      min-height: 40px;
+      width: 50px;
+      color: #F5F5FF;
+      padding: 4px 10px;
+      border-color: $color__bor_input;
+      text-align: center;
+      @include no-outline($color__yellow__second);
+      .ant-input-number-handler-wrap{
+        //background: transparent;
+        //border-left: unset;
+        display: none;
+      }
+      .ant-input-number-input-wrap{
+        .ant-input-number-input{
+          padding: 0;
+        }
+      }
+    }
+  }
+}

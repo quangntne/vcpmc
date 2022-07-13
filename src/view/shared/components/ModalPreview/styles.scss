@@ -1,0 +1,43 @@
+@import "./styles/variable.scss";
+
+$border-img: 8px;
+.modal-preview{
+    :focus {
+        outline:none;
+    }
+    // height: 300px;
+    position: relative;
+    // margin-top: 1rem ;
+    border-radius: $border-img;
+    border:none;
+    padding-bottom: calc(100% / (var(--aspect-ratio)));
+    [style*="--aspect-ratio"]  {  
+        height: auto;
+      } 
+    .bg-audio{
+        width: 100%;
+        border-radius: 0.67rem;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .react-player , video , img , .react-player.skeleton{
+      
+        // border: 1px solid $color__yellow;
+     
+        border-radius: $border-img;
+    }
+    video:focus{
+       outline: none;
+    }
+    .react-player div  iframe , .react-player__preview{
+        border-radius:28px;
+    }
+    img {
+    }
+}
+

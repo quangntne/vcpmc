@@ -1,0 +1,67 @@
+@import "./../../../styles/variable";
+
+.padding-68 {
+  margin-bottom: 68px;
+}
+.w-382{
+  width: 382px;
+}
+.record-card {
+  background-color: $color-table;
+  border-radius: 16px;
+  height: 100%;
+
+  &:first-child {
+    // margin-right: 24px;
+  }
+  .record-card-all-title {
+    padding: 24px 16px;
+    height: 97px;
+  }
+  .title-record {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: initial;
+  }
+  .title-info-record {
+    align-content: space-between;
+    margin-top: 16px;
+    width: 30vw;
+    .label-content {
+      font-size: 16px;
+      .label {
+        font-weight: bold;
+        margin-right: 37px;
+      }
+      .content {
+        color: rgba(255, 255, 255, 0.71);
+      }
+    }
+  }
+}
+.record__table {
+  height: 550px;
+  background-color: #2f2f41;
+  .record__th {
+  }
+}
+.link-table.disable {
+  color: grey !important;
+  cursor: not-allowed;
+}
+.edit-table th,
+.edit-table td,
+.edit-table th,
+.edit-table td {
+  padding: 16px;
+}
+
+.w-30vw{
+  width: 30vw;
+}
+.label-opacity .label-select {
+  color: #AEAEAE;
+}
+.none-scroll .ant-table-cell-scrollbar {
+  box-shadow: none;
+}

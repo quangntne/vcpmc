@@ -1,0 +1,26 @@
+.ant-message {
+    .ant-message-notice {
+        .ant-message-notice-content {
+            text-align: start;
+            background: #727288;
+            width: fit-content;
+            max-width: 30vw;
+            height: 7vh;
+            min-height: 45px;
+            font-size: 18px;
+            line-height: 24px;
+            color: #ffff;
+            padding: 1.5vh 3vh;
+            border-radius: 12px;
+            font-weight: normal;
+            .ant-message-custom-content {
+                span:first-child {
+                    margin-right: 16px;
+                }
+            }
+        }
+        .anticon {
+            font-size: 33px !important;
+        }
+    }
+}

@@ -1,0 +1,56 @@
+@import "./styles/variable.scss";
+
+
+.ant-form-item .ant-upload.ant-upload-drag ,  .ant-upload.ant-upload-drag{
+    background: transparent;
+    border-radius: 7px;
+    border: 1px double $color-breadcumb-icon;
+    height: 40px;
+    width: 150px;
+    span.ant-upload-hint{
+        color: $color-breadcumb-icon;
+    }
+    &:hover{
+        border-color: $color__yellow;
+    }
+    .ant-upload-btn{
+        padding: 0;
+       display: block;
+    }
+    .ant-upload-drag-container{
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .content{
+        display: flex;
+        align-self: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 100%;
+    }
+}
+.preview{
+    i {
+        color: #fff;
+    }
+    .anticon.anticon-loading.anticon-spin{
+        color: $color__yellow !important;
+        font-size: 48px;
+     }
+    .img-loading{
+        @include center-absolute();
+        background: #F6F6F6;
+        opacity:0.5
+    }
+    .text-white{
+        color: #fff;
+    }
+    .font-icon-fa{
+        font-size: 1.4rem;
+    }
+   
+}
+ 
+

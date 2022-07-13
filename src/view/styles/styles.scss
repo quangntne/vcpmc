@@ -1,0 +1,145 @@
+//THIS FILE USE TO IMPORT SCSS, DO NOT CODE HERE
+
+@import "../shared/assets/plugins/fontawesome-5.10.2/css/all.css";
+@import "../shared/assets/css/bootstrap.min.css";
+@import "./variable";
+//IMPORT YOUR STYLE HERE
+@import "./main-style/style_index.scss";
+@import "./scrollbar.scss";
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  // border: 1px solid white;
+  -webkit-text-fill-color: white;
+  // -webkit-box-shadow: 0 0 0px 1000px #000 inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+//css status
+.circle-status {
+  width: 10px;
+  height: 10px;
+  //background-color: green;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.circle-new {
+  background-color: #18E306;
+}
+
+.circle-time-left {
+  background-color: #347AFF;
+}
+
+.circle-expired {
+  background-color: #878890;
+}
+
+.circle-cancel {
+  background-color: #FF4747;
+}
+
+.ant-picker-dropdown {
+  .ant-picker-panel{
+    .ant-picker-header{
+      padding: 0 70px;
+      .ant-picker-header-super-next-btn, .ant-picker-header-super-prev-btn{
+        display: none;
+      }
+      .ant-picker-prev-icon, .ant-picker-next-icon{
+        color: $color__yellow;
+      }
+    }
+    .ant-picker-body {
+      .ant-picker-content {
+        .ant-picker-cell {
+          &:before{
+            height: 30px;
+          }
+          .ant-picker-cell-inner {
+            min-width: 30px;
+            height: 30px;
+            line-height: 30px;
+            font-size: 12px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 400;
+            &:before {
+              border-radius: 50%;
+            }
+          }
+        }
+        .ant-picker-cell-today{
+          .ant-picker-cell-inner{
+            &:before{
+              border: none;
+            }
+          }
+        }
+        .ant-picker-cell-disabled{
+          &:before{
+            background: transparent;
+          }
+          .ant-picker-cell-inner{
+            color: #7A7585;
+          }
+        }
+
+        .ant-picker-cell-in-view.ant-picker-cell-selected,
+        .ant-picker-cell-in-view.ant-picker-cell-range-start,
+        .ant-picker-cell-in-view.ant-picker-cell-range-end
+        {
+          .ant-picker-cell-inner{
+            background-color: #2B2B3F;
+            border-radius: 50%;
+            border: 1px solid white;
+          }
+        }
+      }
+    }
+    .ant-picker-footer{
+      display: none;
+    }
+  }
+
+}
+
+.btn-detail{
+  text-decoration: underline;
+  color: $color__yellow;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+
+.ant-radio{
+  &-inner{
+    height: 20px;
+    width: 20px;
+    background-color: transparent;
+    border-color: #1890ff;
+    &:after{
+      width: 12px;
+      height: 12px;
+    }
+  }
+}
+.ant-radio-checked{
+  .ant-radio-inner{
+    background-color: white;
+  }
+}
+

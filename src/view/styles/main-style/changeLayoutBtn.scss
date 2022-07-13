@@ -1,0 +1,9 @@
+@use "variable";
+.change-layout-gallery {
+  display: flex;
+  justify-content: space-between;
+  width: 70px;
+  .active{
+    color: $color__yellow !important;
+  }
+}

@@ -1,0 +1,131 @@
+.device-calendar {
+  width: 80%;
+  position: relative;
+}
+
+.device-calendar .device-row:last-child {
+  border-bottom: none !important;
+}
+
+.device-calendar .device-row {
+  border-bottom: 1px solid #5c5c5c;
+  height: 71px;
+}
+
+.device-calendar .device-row:last-child {
+  border-bottom: none !important;
+}
+
+.device-calendar .device-row .day {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  border-right: 1px solid #5c5c5c;
+  background-color: #3B3E55;
+}
+
+.device-calendar .device-row .day:last-child {
+  border-right: none;
+}
+
+.device-calendar .device-row .active-day {
+  width: 100%;
+  height: 100%;
+  background-color: #00B2CA;
+  cursor: pointer;
+}
+
+.device-calendar .device-row .active-day:hover {
+  opacity: .8;
+}
+
+.device-calendar .device-row .start-day {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.device-calendar .device-row .end-day {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.device-calendar .device-row .border-00B2CA {
+  border-color: #00B2CA !important;
+}
+
+.device-calendar .playlists-in-device {
+  border-radius: 7px;
+  width: 260px;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.device-calendar .playlists-in-device .device-title {
+  font-weight: bold;
+  color: #fff;
+  background-color: #FF7506;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 5px 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+.device-calendar .playlists-in-device .playlist-list {
+  max-height: 200px;
+  overflow-y: auto;
+  margin-right: -6px;
+}
+
+.device-calendar .playlists-in-device .playlist-list .wrap-playlist-item {
+  background-color: #5E5B6A;
+  color: #bdbdbd;
+  cursor: pointer;
+}
+
+.device-calendar .playlists-in-device .playlist-list .wrap-playlist-item:hover {
+  background-color: #716e80;
+  color: #fff;
+}
+
+.device-calendar .playlists-in-device .playlist-list .wrap-playlist-item:last-child {
+  border-bottom: none;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.device-calendar .playlists-in-device .playlist-list .wrap-playlist-item:last-child .playlist-item {
+  border-bottom: none !important;
+}
+
+.device-calendar .playlists-in-device .playlist-list .wrap-playlist-item .playlist-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border-bottom: 1px dashed #fff;
+  font-size: 14px;
+  margin: 0 10px;
+  padding: 5px;
+}
+
+.device-calendar .calender-loading {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+/*# sourceMappingURL=style.css.map */

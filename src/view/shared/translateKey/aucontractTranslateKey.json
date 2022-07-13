@@ -1,0 +1,482 @@
+{
+  "STT": {
+    "USA": "No.",
+    "VNM": "Stt"
+  },
+  "ALL": {
+    "USA": "All",
+    "VNM": "Tất cả"
+  },
+  "Contract_Info": {
+    "USA": "Contract info",
+    "VNM": "Thông tin hợp đồng"
+  },
+  "View_Contract_Info": {
+    "USA": "View authorization contract details",
+    "VNM": "Chi tiết hợp đồng uỷ quyền bài hát"
+  },
+  "Proxy_Info": {
+    "USA": "Information of authorized legal person",
+    "VNM": "Thông tin pháp nhân uỷ quyền"
+  },
+  "Proxy_Add": {
+    "USA": "Add work authorization",
+    "VNM": "Thêm tác phẩm uỷ quyền"
+  },
+  "Finish": {
+    "USA": "Finish",
+    "VNM": "Kết thúc"
+  },
+  "Author_Legal": {
+    "USA": "Authorized person",
+    "VNM": "Pháp nhân uỷ quyền"
+  },
+  "Author_Legal_Name": {
+    "USA": "Authorization name",
+    "VNM": "Tên người uỷ quyền"
+  },
+  "Personal": {
+    "USA": "Personal",
+    "VNM": "Cá nhân"
+  },
+  "Organization": {
+    "USA": "Organization",
+    "VNM": "Tổ chức"
+  },
+  "Organization_Name": {
+    "USA": "Organization name",
+    "VNM": "Tên tổ chức"
+  },
+  "Gender": {
+    "USA": "Gender",
+    "VNM": "Giới tính"
+  },
+  "Male": {
+    "USA": "Male",
+    "VNM": "Nam"
+  },
+  "Female": {
+    "USA": "Female",
+    "VNM": "Nữ"
+  },
+  "ID": {
+    "USA": "Indentify",
+    "VNM": "CMND/ CCCD"
+  },
+  "Tax_Code": {
+    "USA": "Tax code",
+    "VNM": "Mã số thuế"
+  },
+  "Create_at": {
+    "USA": "Date created",
+    "VNM": "Ngày tạo"
+  },
+  "No": {
+    "USA": "No.",
+    "VNM": "STT"
+  },
+  "Contract_name": {
+    "USA": "Contract name",
+    "VNM": "Tên hợp đồng"
+  },
+  "Contract_number": {
+    "USA": "Contract number",
+    "VNM": "Số hợp đồng"
+  },
+  "Attachments": {
+    "USA": "Attachments",
+    "VNM": "Tải lên"
+  },
+  "Date_Au": {
+    "USA": "Effective date",
+    "VNM": "Ngày hiệu lực"
+  },
+  "Date_Au_Ex": {
+    "USA": "Expiration date",
+    "VNM": "Ngày hết hạn"
+  },
+  "Copyright": {
+    "USA": "Copyright",
+    "VNM": "Quyền tác giả"
+  },
+  "Right_Per": {
+    "USA": "Performer's Rights",
+    "VNM": "Quyền của người biểu diễn"
+  },
+  "Right_Manuf": {
+    "USA": "Manufacturer's rights",
+    "VNM": "Quyền của nhà sản xuất"
+  },
+  "Right_Related": {
+    "USA": "Related rights",
+    "VNM": "Quyền liên quan"
+  },
+  "Note": {
+    "USA": "Note",
+    "VNM": "Lưu ý"
+  },
+  "Record": {
+    "USA": "Record",
+    "VNM": "Bản ghi"
+  },
+  "Authorize_name": {
+    "USA": "Authorize name",
+    "VNM": "Tên người uỷ quyền"
+  },
+  "BirthDay": {
+    "USA": "Date of birth",
+    "VNM": "Ngày sinh"
+  },
+  "Nationality": {
+    "USA": "Nationality",
+    "VNM": "Quốc tịch"
+  },
+  "Place_issuance": {
+    "USA": "Place of issuance",
+    "VNM": "Nơi cấp"
+  },
+  "Date_issued": {
+    "USA": "Date issued",
+    "VNM": "Ngày cấp"
+  },
+  "Address": {
+    "USA": "Address",
+    "VNM": "Nơi cư trú"
+  },
+  "User_name": {
+    "USA": "Username",
+    "VNM": "Tên đăng nhập"
+  },
+  "Pass_word": {
+    "USA": "Password",
+    "VNM": "Mật khẩu"
+  },
+  "Bank_name": {
+    "USA": "Bank name",
+    "VNM": "Tên ngân hàng"
+  },
+  "Account_number": {
+    "USA": "Account number",
+    "VNM": "Số tài khoản"
+  },
+  "Email": {
+    "USA": "Email",
+    "VNM": "Email"
+  },
+  "Phone": {
+    "USA": "Phone",
+    "VNM": "Số điện thoại"
+  },
+  "Save": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "ADD": {
+    "USA": "Add",
+    "VNM": "Thêm"
+  },
+  "Cancel": {
+    "USA": "Cancel",
+    "VNM": "Huỷ bỏ"
+  },
+  "Detail": {
+    "USA": "Detail",
+    "VNM": "Chi tiết"
+  },
+  "Extension": {
+    "USA": "Extension",
+    "VNM": "Gia hạn"
+  },
+  "Add_new": {
+    "USA": "Add new",
+    "VNM": "Thêm hợp đồng"
+  },
+  "List_contract": {
+    "USA": "List contract",
+    "VNM": "Danh sách hợp đồng"
+  },
+  "List_work_contract": {
+    "USA": "Authorized works",
+    "VNM": "Tác phẩm uỷ quyền"
+  },
+  "List_work": {
+    "USA": "List of works",
+    "VNM": "Danh sách tác phẩm"
+  },
+  "Work_name": {
+    "USA": "Work name",
+    "VNM": "Tên tác phẩm"
+  },
+  "Author": {
+    "USA": "Author",
+    "VNM": "Tác giả"
+  },
+  "Lyrics": {
+    "USA": "Lyrics",
+    "VNM": "Viết lời/ Ý thơ"
+  },
+  "Recording": {
+    "USA": "Recording",
+    "VNM": "Thu âm"
+  },
+  "Singer": {
+    "USA": "Singer",
+    "VNM": "Ca sĩ trình bày"
+  },
+  "Release_date": {
+    "USA": "Release date",
+    "VNM": "Ngày phát hành"
+  },
+  "Publication_date": {
+    "USA": "Date of publication",
+    "VNM": "Ngày công bố"
+  },
+  "File_mp3": {
+    "USA": "Upload file with extension: mp3,...",
+    "VNM": "Tải lên tác phẩm dưới dạng mp3,..."
+  },
+  "File_doc": {
+    "USA": "Upload file with extension: doc,docx,...",
+    "VNM": "Tải lên tác phẩm dưới dạng doc,docx,..."
+  },
+  "File_jpg": {
+    "USA": "Upload file image",
+    "VNM": "Tải lên tệp hình ảnh"
+  },
+  "Harmony": {
+    "USA": "Harmony",
+    "VNM": "Hoà âm, phối khí"
+  },
+  "Add_new_creation": {
+    "USA": "Add new creation",
+    "VNM": "Thêm mới tác phẩm"
+  },
+  "Type": {
+    "USA": "Category",
+    "VNM": "Thể loại"
+  },
+  "Royalties": {
+    "USA": "Royalties",
+    "VNM": "Mức nhuận bút"
+  },
+  "Sum_100": {
+    "USA": "Total must be equal to 100%",
+    "VNM": "Tổng nhuận bút phải bằng 100%"
+  },
+  "Btn_Media": {
+    "USA": "Choose from library",
+    "VNM": "Chọn từ thư viện"
+  },
+  "Btn_New_Media": {
+    "USA": "Add new",
+    "VNM": "Tạo mới"
+  },
+  "Placeholder": {
+    "USA": "Enter contract name, author name,",
+    "VNM": "Tìm tên hợp đồng, tác giả,"
+  },
+  "Aut_contract": {
+    "USA": "Authorization contract",
+    "VNM": "Hợp đồng uỷ quyền"
+  },
+  "Aut_mining": {
+    "USA": "Mining contract",
+    "VNM": "Hợp đồng khai thác"
+  },
+  "Add_new_contract": {
+    "USA": "Add new authorization contract",
+    "VNM": "Thêm hợp đồng uỷ quyền mới"
+  },
+  "Update_contract": {
+    "USA": "Update authorization contract",
+    "VNM": "Chỉnh sửa hợp đồng uỷ quyền"
+  },
+  "Required_field": {
+    "USA": " field required",
+    "VNM": "trường thông tin bắt buộc"
+  },
+  "Representatives": {
+    "USA": "Representatives",
+    "VNM": "Người đại diện"
+  },
+  "Position": {
+    "USA": "Position",
+    "VNM": "Chức vụ"
+  },
+  "Status": {
+    "USA": "Status",
+    "VNM": "Tình trạng"
+  },
+  "Edit_Contract": {
+    "USA": "Contract edit",
+    "VNM": "Chỉnh sửa hợp đồng"
+  },
+  "Edit_creation": {
+    "USA": "Creation edit",
+    "VNM": "Chỉnh sửa tác phẩm"
+  },
+  "Ext_Contract": {
+    "USA": "Contract extension",
+    "VNM": "Gia hạn hợp đồng"
+  },
+  "Can_Contract": {
+    "USA": "Cancel contract",
+    "VNM": "Huỷ hợp đồng"
+  },
+  "Record_name": {
+    "USA": "Record name",
+    "VNM": "Tên bản ghi"
+  },
+  "ISRC_Code": {
+    "USA": "ISRC Code",
+    "VNM": "Mã ISRC"
+  },
+  "Download_Date": {
+    "USA": "Download date",
+    "VNM": "Ngày tải"
+  },
+  "Audition": {
+    "USA": "Audition",
+    "VNM": "Nghe"
+  },
+  "Approval_Status": {
+    "USA": "Approval Status",
+    "VNM": "Tình trạng phê duyệt"
+  },
+  "All": {
+    "USA": "All",
+    "VNM": "Tất cả"
+  },
+  "New": {
+    "USA": "New",
+    "VNM": "Mới"
+  },
+  "Expired": {
+    "USA": "Expired",
+    "VNM": "Đã hết hạn"
+  },
+  "Time_Left": {
+    "USA": "Time left",
+    "VNM": "Còn thời hạn"
+  },
+  "Canceled": {
+    "USA": "Canceled",
+    "VNM": "Đã huỷ"
+  },
+  "Approved": {
+    "USA": "Approved",
+    "VNM": "Đã phê duyệt"
+  },
+  "Refuse": {
+    "USA": "Refuse",
+    "VNM": "Từ chối"
+  },
+  "Back": {
+    "USA": "Back",
+    "VNM": "Quay lại"
+  },
+  "Ownership": {
+    "USA": "Ownership",
+    "VNM": "Quyền sở hữu"
+  },
+  "Validity": {
+    "USA": "Validity of the contract",
+    "VNM": "Hiệu lực hợp đồng"
+  },
+  "Cancellation_Title": {
+    "USA": "Cancellation of the authorization contract",
+    "VNM": "HUỷ hợp đồng uỷ quyền"
+  },
+  "copyright_label": {
+    "USA": "Copyright: ",
+    "VNM": "Quyền sở hữu: "
+  },
+  "copyright_permission": {
+    "USA": "Copyright",
+    "VNM": "Quyền sở hữu"
+  },
+  "producer_permission": {
+    "USA": "Producer",
+    "VNM": "Nhà sản xuất"
+  },
+  "perform_permission": {
+    "USA": "Perform",
+    "VNM": "Người biểu diễn"
+  },
+  "View_Detail": {
+    "VNM": "Xem chi tiết",
+    "USA": "Details"
+  },
+  "Validity_label": {
+    "USA": "Validity of the contract: ",
+    "VNM": "Hiệu lực hợp đồng: "
+  },
+  "Contract_type_0": {
+    "VNM": "Cá nhân",
+    "USA": "Personal"
+  },
+  "Contract_type_1": {
+    "VNM": "Tổ chức",
+    "USA": "Organization"
+  },
+  "NAME_ORGANIZATION": {
+    "VNM": "Tên tổ chức",
+    "USA": "Organization name"
+  },
+  "TAX_CODE": {
+    "VNM": "Mã số thuế",
+    "USA": "Tax code"
+  },
+  "BANK": {
+    "USA": "Bank",
+    "VNM": "Ngân hàng"
+  },
+  "NATIONALITY": {
+    "USA": "nationality",
+    "VNM": "Quốc tịch"
+  },
+  "ADDRESS": {
+    "USA": "Address",
+    "VNM": "Địa chỉ"
+  },
+  "REPRESENTATIVE": {
+    "USA": "Representative",
+    "VNM": "Người đại diện"
+  },
+  "POSITION": {
+    "USA": "Position",
+    "VNM": "Chức vụ"
+  },
+  "DATE_OF_BIRTH": {
+    "USA": "Date of birth",
+    "VNM": "Ngày sinh"
+  },
+  "GENDER": {
+    "USA": "Gender",
+    "VNM": "Giới tính"
+  },
+  "RESIDENCE": {
+    "USA": "Residence",
+    "VNM": "Nơi cư trú"
+  },
+  "PHONE_NUMBER": {
+    "USA": "Phone number",
+    "VNM": "Số điện thoại"
+  },
+  "Cancellation_Placeholder": {
+    "USA": "Tell us why you want to cancel this authorization...",
+    "VNM": "Cho chúng tôi biết lý do bạn muốn huỷ hợp đồng uỷ quyền này..."
+  },
+  "DELETE_CONTRACT_MODAL": {
+    "USA": "Are you sure want to delete contract?",
+    "VNM": "Bạn có chắc chắn muốn xoá hợp đồng ?"
+  },
+  "DELETE": {
+    "USA": "Delete",
+    "VNM": "Xoá"
+  },
+  "DELETE_MEDIA_CATEGORIES_MODAL": {
+    "USA": "Are you sure want to delete media categories ?",
+    "VNM": "Bạn có chắc chắn muốn xoá danh mục phương tiện ?"
+  }
+}

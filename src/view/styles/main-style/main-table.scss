@@ -1,0 +1,270 @@
+@use "variable";
+
+// THE SEARCH OPTION 
+.search-in-table{
+  margin-bottom: 24px;
+  
+}
+.search-in-table.to-right{
+  margin-top: -43px;
+}
+
+
+//FIX SELECTION
+.pagesize {
+  width: fit-content;
+  margin-bottom: 16px;
+  margin-left: 24px;
+  font-size: 14px;
+
+  &--entries {
+    font-size: 14px;
+    color: white;
+  }
+  &--select {
+    width: fit-content;
+  }
+  .ant-select-focused:not(.ant-select-disabled).ant-select:not(.ant-select-customize-input)
+    .ant-select-selector {
+    border-color: white;
+  }
+  .ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    position: relative;
+    color: white;
+    background-color: transparent;
+    border-radius: 5px;
+  }
+  .ant-select-arrow {
+    color: white;
+  }
+}
+// THE OPTION CHANGE PAGE
+.table-function {
+  margin-top: -58px;
+  width: 55%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .ant-input-number-input {
+    padding: 0 8px;
+  }
+  .ant-input,
+  .ant-input-number {
+    margin: auto 8px;
+    background-color: transparent;
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+    padding: 4px 0;
+    border-color: white;
+    width: 60px;
+    @include no-outline($color__yellow__second);
+  }
+  .ant-input-number-handler-wrap {
+    background: transparent;
+    border-left: 1px solid $color__yellow__second;
+    border: 1px solid $color__bor_input;
+    .ant-input-number-handler-down,
+    .ant-input-number-handler-up {
+      background-color: transparent;
+      border-color: $color__yellow__second;
+    }
+    .anticon.anticon-down,
+    .anticon.anticon-up {
+      color: $color__yellow__second;
+    }
+  }
+}
+
+// MAIN TABLE
+.main-table {
+  background-color: #2f2f41;
+  border-radius: 16px;
+  padding: 10px 24px;
+  .link-table {
+    font-weight: 600;
+    color: #ff7606c7 !important;
+    font-size: 14px;
+    text-decoration: underline !important;
+  }
+  //FIX PAGINATION
+  .ant-table-pagination.ant-pagination {
+    margin-top: 4rem;
+    margin-bottom: 8px;
+    margin-right: 20px;
+  }
+  .ant-pagination-item,
+  .ant-pagination-item a {
+    background-color: transparent;
+    border: none;
+    color: white;
+  }
+  .ant-pagination-item a {
+    padding: 0;
+  }
+
+  .ant-pagination-item {
+    min-width: 20px;
+  }
+  .ant-pagination-jump-prev
+    .ant-pagination-item-container
+    .ant-pagination-item-ellipsis,
+  .ant-pagination-jump-next
+    .ant-pagination-item-container
+    .ant-pagination-item-ellipsis {
+    color: white;
+  }
+
+  .ant-pagination-prev .ant-pagination-item-link,
+  .ant-pagination-next .ant-pagination-item-link {
+    background-color: transparent;
+    border: none;
+    color: white;
+  }
+
+  .ant-pagination-options {
+    display: none;
+  }
+
+  .ant-pagination-jump-prev
+    .ant-pagination-item-container
+    .ant-pagination-item-link-icon,
+  .ant-pagination-jump-next
+    .ant-pagination-item-container
+    .ant-pagination-item-link-icon {
+    color: $color__yellow;
+  }
+
+  .ant-pagination-item {
+    font-family: $main-font;
+  }
+  .ant-pagination-item.ant-pagination-item-active,
+  .ant-pagination-item.ant-pagination-item-active a,
+  .ant-pagination-item.ant-pagination-item-active
+    a:not([href]):not([tabindex]):focus,
+  .ant-pagination-item.ant-pagination-item-active
+    a:not([href]):not([tabindex]):hover {
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .ant-pagination-item.ant-pagination-item-active a {
+    background: #ff76065e;
+    width: 26px;
+    height: 26px;
+    border-radius: 30px;
+    color: white;
+  }
+
+  //FIX MAIN CSS IN TABLE
+  .ant-table {
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+    border-radius: 10px;
+  }
+
+  .ant-table-tbody > tr.ant-table-row:hover > td {
+    transition: 0.2s;
+  }
+  .ant-table-tbody > tr.ant-table-row:hover > td {
+    background: rgba(255, 255, 255, 0);
+    color: rgba(255, 255, 255, 0.541);
+  }
+  .ant-table-tbody > tr:last-child > td {
+    border-bottom: none;
+  }
+  .ant-table-tbody > tr,
+  .ant-table-thead > tr {
+    .ant-table-cell-fix-left,
+    .ant-table-cell-fix-right {
+      //background-color: #2a2a3c;
+    }
+  }
+
+  .ant-table-thead > tr > th {
+    background: transparent;
+    color: #ffac69;
+    font-weight: bold;
+    border-bottom: none;
+    // padding: 20px 0 16px 0;
+  }
+  .text-isrc.ant-typography {
+    width: 130px;
+    color: inherit;
+  }
+  .ant-table-thead {
+    .ant-checkbox-wrapper:hover .ant-checkbox-inner,
+    .ant-checkbox:hover .ant-checkbox-inner,
+    .ant-checkbox-input:focus + .ant-checkbox-inner {
+      border-color: white;
+      color: white;
+    }
+    .ant-checkbox-indeterminate .ant-checkbox-inner {
+      background-color: transparent;
+    }
+    .ant-checkbox-indeterminate .ant-checkbox-inner::after {
+      background-color: white;
+    }
+  }
+  //FIX BORDER IN TABLE
+  .ant-table-tbody > tr > td {
+    border-bottom: 1px solid #72728886;
+  }
+
+  //FIX MY CSS
+  .main-column {
+    font-weight: bold;
+  }
+  th.ant-table-cell.main-column {
+    font-size: 14px;
+  }
+  .expire-text {
+    font-size: 12px;
+    opacity: 0.5;
+  }
+
+  // DATA EMPTY
+  .ant-table-tbody > tr.ant-table-placeholder:hover > td {
+    background-color: transparent;
+  }
+  .ant-empty-description {
+    color: white;
+  }
+  //CHECKBOX
+  .ant-table-tbody > tr.ant-table-row-selected > td {
+    background: transparent;
+  }
+
+  .ant-checkbox-inner {
+    border: 1px solid #347aff;
+  }
+
+  //NO DATA
+  .no-data {
+    font-family: $main-font, "Times New Roman", Times, serif;
+    text-align: center;
+    width: 100%;
+    padding: 24px 0;
+    font-size: 14px;
+    color: white;
+    font-weight: 600;
+    border-bottom: 1px solid #72728886;
+    margin-bottom: 500px;
+  }
+}
+span.ant-spin-dot.ant-spin-dot-spin {
+  color: $color__yellow;
+}
+
+.ant-spin.ant-spin-spinning {
+  color: $color__yellow;
+}
+
+i.ant-spin-dot-item {
+  color: $color__yellow;
+  background: $color__yellow;
+}
+.more-note-media{
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.5);
+}

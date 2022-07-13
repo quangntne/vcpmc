@@ -1,0 +1,122 @@
+{
+  "AUTHOR_PARTNER": {
+    "USA": "Authorized Partner",
+    "VNM": "Đối tác uỷ quyền"
+  },
+  "RECORD": {
+    "USA": "Record name, artist name, author,...",
+    "VNM": "Tên bản ghi, tên ca sĩ, tác giả,..."
+  },
+  "LIST_AUTHOR_PARTNER": {
+    "USA": "List Authorized Partner",
+    "VNM": "Danh sách đối tác ủy quyền"
+  },
+  "NO": {
+    "USA": "No",
+    "VNM": "STT"
+  },
+  "Au_Unit": {
+    "USA": "Authorized unit",
+    "VNM": "Đơn vị uỷ quyền"
+  },
+  "Type_Au_Unit": {
+    "USA": "Authorized unit type",
+    "VNM": "Loại đơn vị uỷ quyền"
+  },
+  "Personal": {
+    "USA": "Personal",
+    "VNM": "Cá nhân"
+  },
+  "Organization": {
+    "USA": "Organization",
+    "VNM": "Tổ chức"
+  },
+  "USER_NAME": {
+    "USA": "User Name",
+    "VNM": "Tên đăng nhập"
+  },
+  "EMAIL": {
+    "USA": "Email",
+    "VNM": "Email"
+  },
+  "EXPIRATION_DATE": {
+    "USA": "Expiration date",
+    "VNM": "Ngày hết hạn"
+  },
+  "PHONE": {
+    "USA": "Phone",
+    "VNM": "Số điện thoại"
+  },
+  "STATUS": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "ACTIVE": {
+    "USA": "Active",
+    "VNM": "Đang hoạt động"
+  },
+  "LOCK": {
+    "USA": "Lock",
+    "VNM": "Khóa"
+  },
+  "UPDATE": {
+    "USA": "Update",
+    "VNM": "Cập nhật"
+  },
+  "UPDATE_AGENT_INFOR": {
+    "USA": "Update agent information",
+    "VNM": "Cập nhật thông tin"
+  },
+  "NAME": {
+    "USA": "User name",
+    "VNM": "Tên người dùng"
+  },
+  "ROLE": {
+    "USA": "Role",
+    "VNM": "Vai trò"
+  },
+  "PASS": {
+    "USA": "Password",
+    "VNM": "Mật khẩu"
+  },
+  "REPASS": {
+    "USA": "Repass",
+    "VNM": "Nhập lại mật khẩu"
+  },
+  "DEVICE_STATUS": {
+    "USA": "Device Status",
+    "VNM": "Trạng thái thiết bị"
+  },
+  "ACTIVE_FORM": {
+    "USA": "Activated",
+    "VNM": "Đã kích hoạt"
+  },
+  "DEACTIVATE": {
+    "USA": "Deactivate",
+    "VNM": "Ngưng kích hoạt"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy"
+  },
+  "SAVE": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "NOTE_RED_POINT": {
+    "USA": "Are required fields",
+    "VNM": " là những trường thông tin bắt buộc"
+  },
+  "STATUS_USER": {
+    "USA": "Status user",
+    "VNM": "Trạng thái"
+  },
+  "ACTIVE_USER": {
+    "USA": "Activated",
+    "VNM": "Đã kích hoạt"
+  },
+  "DEACTIVE": {
+    "USA": "Deactivate",
+    "VNM": "Ngưng kích hoạt"
+  }
+}

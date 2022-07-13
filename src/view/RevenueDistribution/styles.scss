@@ -1,0 +1,14 @@
+.tableContract {
+  .main-form
+    .ant-form-item-label
+    > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::after {
+    content: ":";
+  }
+}
+.formDate {
+  .main-form
+    .ant-form-item-label
+    > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::after {
+    content: ":";
+  }
+}

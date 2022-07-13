@@ -1,0 +1,78 @@
+{
+  "BASIC_INFOR": {
+    "USA": "Basic Infor",
+    "VNM": "Thông tin cơ bản"
+  },
+  "FULL_NAME": {
+    "USA": "Full name",
+    "VNM": "Họ và tên"
+  },
+  "NAME": {
+    "USA": "Name",
+    "VNM": "Tên"
+  },
+  "DOB": {
+    "USA": "Date Of Birth",
+    "VNM": "Ngày sinh"
+  },
+  "PHONE": {
+    "USA": "Phone",
+    "VNM": "Số điện thoại"
+  },
+  "EMAIL": {
+    "USA": "Email",
+    "VNM": "Email"
+  },
+  "USER_NAME": {
+    "USA": "User name",
+    "VNM": "Tên đăng nhập"
+  },
+  "ROLE": {
+    "USA": "Role",
+    "VNM": "Vai trò"
+  },
+  "CHANGE_INFOR": {
+    "USA": "Change infor",
+    "VNM": "Sửa thông tin"
+  },
+  "CHANGE_PASS": {
+    "USA": "Change password",
+    "VNM": "Đổi mật khẩu"
+  },
+  "LOG_OUT": {
+    "USA": "Log out",
+    "VNM": "Đăng xuất"
+  },
+  "TITLE_CHANGE_PASS": {
+    "USA": "Change password",
+    "VNM": "Thay đổi mật khẩu"
+  },
+  "OLD_PASS": {
+    "USA": "Old password",
+    "VNM": "Mật khẩu hiện tại"
+  },
+  "NEW_PASS": {
+    "USA": "New password",
+    "VNM": "Mật khẩu mới"
+  },
+  "REPASS": {
+    "USA": "Repass",
+    "VNM": "Nhập lại mật khẩu mới:"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy"
+  },
+  "SAVE": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "NOTI_CHANGE_PASS": {
+    "USA": "Change password Success",
+    "VNM": "Đổi mật khẩu thành công!"
+  },
+  "CHECK_REPASS": {
+    "USA": "The two passwords that you entered do not match!",
+    "VNM": "Hai mật khẩu bạn đã nhập không khớp!"
+  }
+}

@@ -1,0 +1,64 @@
+@import "./../styles/variable";
+
+.forgot-password {
+    .Authen_content {
+        font-weight: bold;
+        position: fixed;
+        color: #F8F5FF;
+        bottom: 38.5%;
+        left: 50%;
+        transform: translateX(-50%);
+        .label-div-err{
+            font-size: 3vh;
+            text-shadow: 0 1.5px #ecb5ad;
+        }
+        .label-div-404{
+            font-size: 14vh;
+            text-shadow: 0 2px #ecb5ad;
+
+        }
+        .label-div-page-not-found{
+            font-size: 3vh;
+            text-shadow: 0 1.5px #ecb5ad;
+        }
+    }
+    .forgot {
+        position: fixed;
+        bottom: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+        .ant-btn{
+            width: 27vh;
+            height: 6vh;
+            background: #FF7506;
+            border-radius: 8px;
+            border: none;
+            a {
+                font-weight: 500;
+                font-size: 2vh;
+                color: #FFFFFF;
+            }
+        }
+    }
+    
+    .label-langue-forgot-pass {
+        width: 9vw;
+        min-width: 160px;
+        position: fixed;
+        top: 2.5vh;
+        right: 5.5vh;
+        z-index: 1;
+    }
+    
+    .label-logo {
+        position: fixed;
+        top: 2.5vh;
+        left: 2.5vh;
+        .label-logo-forgot {
+            max-width: 5.5vw;
+        }
+    }
+}
+
+
+

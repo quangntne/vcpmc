@@ -1,0 +1,96 @@
+@import "./../styles/variable";
+
+.list-gallery-approval-filter{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 24px 0;
+}
+
+.gallery-filter, .gallery-approval-filter {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  align-items: center;
+  &--item {
+    label {
+      margin-right: 16px;
+    }
+  }
+}
+.gallery-approval-filter{
+  width: 800px;
+  margin-bottom: 0;
+}
+
+.record-name-width {
+  width: 217px;
+}
+.singer-width {
+  width: 181px;
+}
+.action-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+// EDIT RECORD INFO
+.record-info {
+  & > .ant-col {
+    padding: 0 24px;
+    &:first-child {
+      padding-left: 0;
+    }
+  }
+  .file-record {
+    word-wrap: break-word;
+    width: 300px;
+    margin: 0 auto;
+  }
+  .record-info-card {
+    border-radius: 8px;
+    background: #2b2b3f;
+    padding: 32px 22px 16px;
+    margin-bottom: 24px;
+    .secondary-title {
+      margin-bottom: 33px;
+    }
+    .row-info {
+      margin-bottom: 16px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+    .avatar {
+      text-align: center;
+      img {
+        margin: 0 auto;
+        width: 134px;
+        height: 134px;
+        object-fit: cover;
+        border-radius: 134px;
+      }
+      .icon {
+        margin-left: 51%;
+        margin-top: -28px;
+        background-color: #347aff;
+        width: 40px;
+        height: 40px;
+        border-radius: 40px;
+        padding: 6px;
+        position: absolute;
+      }
+    }
+    .file-record {
+      .anticon svg {
+        color: #18e306;
+        font-size: 28px;
+        margin-right: 9px;
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
+.no-data-list{
+  color: white;
+}

@@ -1,0 +1,94 @@
+@import "../../styles/variable";
+
+.edit-schedule{
+  .label-header{
+    //font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 0.45px;
+    color: $color__yellow;
+    margin: 30px 0;
+    &-choose-date{
+      font-weight: bold;
+      letter-spacing: 0.45px;
+      color: $color__yellow;
+      margin: 20px 0;
+    }
+  }
+  .ant-form{
+    .ant-form-item-has-error {
+      .ant-picker{
+        background: transparent!important;
+      }
+    }
+    .ant-form-item-label {
+      label{
+        color: white;
+      }
+    }
+    &-item{
+      .ant-checkbox-group{
+        color: white !important;
+      }
+    }
+    .name-day-of-week{
+      color: $color--main-text;
+    }
+    .ant-select-multiple{
+      .ant-select-selector{
+        .ant-select-selection-overflow{
+          .ant-select-selection-item{
+            //color: $color-select;
+          }
+        }
+      }
+    }
+  }
+  .picker-date{
+    .ant-picker{
+      background: transparent !important;
+      border-bottom: 2px solid #d9d9d9 !important;
+      border-top: none !important;
+      border-left: none !important;
+      border-right: none !important;
+      .ant-picker-suffix{
+        color: #FF7506;
+      }
+    }
+  }
+  .picker-time{
+    .ant-picker{
+      background: transparent !important;
+      border-radius: 7px !important;
+      .ant-picker-suffix{
+        display: none;
+      }
+      .ant-picker-input{
+        input{
+          color: #d9d9d9 !important;
+        }
+        .ant-picker-clear{
+          background: transparent !important;
+          color: #d9d9d9 !important;
+        }
+      }
+    }
+  }
+  //.activation{
+  //  .ant-radio-wrapper, .ant-checkbox-wrapper{
+  //    color: white !important;
+  //  }
+    //.circle-checkbox{
+    //  .ant-checkbox{
+    //    .ant-checkbox-inner{
+    //      border-radius: 50%;
+    //    }
+    //  }
+    //  .ant-checkbox-checked{
+    //    &:after{
+    //      border: none!important;
+    //    }
+    //  }
+    //}
+  //}
+}
+//

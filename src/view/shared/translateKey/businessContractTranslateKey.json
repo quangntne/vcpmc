@@ -1,0 +1,263 @@
+{
+  "EDIT": {
+    "VNM": "Chỉnh sửa",
+    "USA": "Edit"
+  },
+  "CANCEL": {
+    "VNM": "Hủy bỏ",
+    "USA": "Cancel"
+  },
+  "UPLOAD_FILE":{
+    "USA": "Upload file",
+    "VNM": "Tải lên tệp"
+  },
+  "ATTACHMENT": {
+    "USA": "Attachments",
+    "VNM": "Đính kèm tệp"
+  },
+  "DELETE": {
+    "VNM": "Xóa",
+    "USA": "Delete"
+  },
+  "NEW": {
+    "VNM": "Mới",
+    "USA": "New"
+  },
+  "AVALABLE": {
+    "VNM": "Đang hiệu lực",
+    "USA": "Avaiable"
+  },
+  "EXPIRED": {
+    "VNM": "Hết hiệu lực",
+    "USA": "Expired"
+  },
+  "CONTRACT": {
+    "VNM": "Hợp đồng",
+    "USA": "Contract"
+  },
+  "AUTHORITY_NAME": {
+    "VNM": "Tên đơn vị sử dụng",
+    "USA": "Authority name"
+  },
+  "BC_NAME": {
+    "VNM": "Người đại diện",
+    "USA": "Representatives name"
+  },
+  "BC_POSITION": {
+    "VNM": "Chức vụ ",
+    "USA": "Position"
+  },
+  "BC_PHONE": {
+    "VNM": "Số điện thoại",
+    "USA": "Phone number"
+  },
+  "BC_EN_PHONE": {
+    "VNM": "Số điện thoại doanh nghiệp",
+    "USA": "Business Customer Enterprise Phone"
+  },
+  "USER_ID": {
+    "VNM": "Tên tài khoản quản trị",
+    "USA": "User Assign Name"
+  },
+  "BILL_INFO": {
+    "VNM": "Thông tin thanh toán",
+    "USA": "Billing infomation"
+  },
+  "CONTRACT_NAME": {
+    "VNM": "Tên hợp đồng",
+    "USA": "Contract name"
+  },
+  "ADD_DAY": {
+    "VNM": "Ngày thêm",
+    "USA": "Day added"
+  },
+  "EFFECT_DATE": {
+    "VNM": "Ngày hiệu lực",
+    "USA": "Effective date"
+  },
+  "ADD_DAY": {
+    "VNM": "Ngày thêm",
+    "USA": "Day added"
+  },
+  
+  "CONTRACT_CODE": {
+    "VNM": "Mã hợp đồng",
+    "USA": "Contract code"
+  },
+  "COPY_CONTRACT": {
+    "VNM": "Sao chép hợp đồng",
+    "USA": "Copy Contract"
+  },
+  "CONTRACT_MINIER": {
+    "VNM": "Hợp đồng khai thác",
+    "USA": "Contract minier"
+  },
+  "CONTRACT_INFO": {
+    "VNM": "Thông tin hợp đồng",
+    "USA": "Contract info"
+  },
+  "CUSTOMER": {
+    "VNM": "Khách hàng",
+    "USA": "Customer"
+  },
+  "CUSTOMER_INFO": {
+    "VNM": "Thông tin khách hàng",
+    "USA": "Customer info"
+  },
+  "CONTRACT_VALUE": {
+    "VNM": "Giá trị hợp đồng",
+    "USA": "Contract value"
+  },
+  "TURN_VALUE": {
+    "VNM": "Giá trị lượt phát",
+    "USA": "Turn value"
+  },
+  "START_DAY": {
+    "USA": "Start day",
+    "VNM": "Ngày bắt đầu"
+  },
+  "END_DAY": {
+    "USA": "End day",
+    "VNM": "Ngày kết thúc"
+  },
+  "BIRTHDAY": {
+    "USA": "Birthday",
+    "VNM": "Ngày sinh"
+  },
+  
+  "DAY_CREATE": {
+    "USA": "Day create",
+    "VNM": "Ngày cấp"
+  },
+  
+  "PLACE_CREATE": {
+    "USA": "Place create",
+    "VNM": "Nơi cấp"
+  },
+  
+  "RESIDENCE": {
+    "USA": "Residence",
+    "VNM": "Nơi cư trú"
+  },
+  
+  "BIRTHDAY": {
+    "USA": "Birthday",
+    "VNM": "Ngày sinh"
+  },
+  "Nationality": {
+    "USA": "Nationality",
+    "VNM": "Quốc tịch"
+  },
+  "Gender": {
+    "USA": "Gender",
+    "VNM": "Giới tính"
+  },
+  "Male": {
+    "USA": "Male",
+    "VNM": "Nam"
+  },
+  "Female": {
+    "USA": "Female",
+    "VNM": "Nữ"
+  },
+  "Date_issued": {
+    "USA": "Date issued",
+    "VNM": "Ngày cấp"
+  },
+  "Place_issuance": {
+    "USA": "Place of issuance",
+    "VNM": "Nơi cấp"
+  },
+  "Tax_Code": {
+    "USA": "Tax code",
+    "VNM": "Mã số thuế"
+  },
+  "CONTRACT_TYPE": {
+    "VNM": "Loại hợp đồng",
+    "USA": "Contract type"
+  },
+  "THIS_CONTRACT_TYPE": {
+    "VNM": "Hiệu lực hợp đồng",
+    "USA": "Contract expired"
+  },
+  "VALUE_PER_DAY": {
+    "VNM": "Giá trị phân phối",
+    "USA": "Distribution value"
+  },
+  "VALUE_TURN": {
+    "VNM": "Giá trị lượt phát",
+    "USA": "In turn value"
+  },
+  "VALUE_PER_SONG": {
+    "VNM": "Lượt phát",
+    "USA": "In turn"
+  },
+  "COLUMN_VALUE_PER_SONG": {
+    "VNM": "Theo lượt phát",
+    "USA": "On a transmitter"
+  },
+  "ALL_ONE": {
+    "VNM": "Trọn gói",
+    "USA": "All in one"
+  },
+  "INPUT_VALUE": {
+    "VNM": "Nhập giá trị",
+    "USA": "Input the value"
+  },
+  "MESS_EMAIL": {
+    "USA": "Please input email!",
+    "VNM": "Vui lòng nhập email!"
+  },
+  "MESS_MONEY": {
+    "USA": "Please input money!",
+    "VNM": "Vui lòng nhập tiền!"
+  },
+  "MESS_USERNAME": {
+    "USA": "Please input username!",
+    "VNM": "Vui lòng nhập tài khoản!"
+  },
+  "MESS_USERFULLNAME": {
+    "USA": "Please input user full name!",
+    "VNM": "Vui lòng nhập họ tên!"
+  },
+  "MESS_PASS": {
+    "USA": "Please input password!",
+    "VNM": "Vui lòng nhập mật khẩu!"
+  },
+  "MESS_FORMAT_EMAIL": {
+    "USA": "Wrong format email!",
+    "VNM": "Định dạng email không chính xác!"
+  },
+  "DAY": {
+    "USA": "day",
+    "VNM": "ngày"
+  },
+  "TURN": {
+    "USA": "turn",
+    "VNM": "lượt"
+  },
+  "STT": {
+    "USA": "No",
+    "VNM": "STT"
+  },
+  "Holder_Search": {
+    "USA": "Contract name, author name,...",
+    "VNM": "Tên hợp đồng, tác giả,..."
+  },
+  "New": {
+    "USA": "New",
+    "VNM": "Mới"
+  },
+  "Expired": {
+    "USA": "Expired",
+    "VNM": "Đã hết hạn"
+  },
+  "Time_Left": {
+    "USA": "Time left",
+    "VNM": "Còn thời hạn"
+  },
+  "Canceled": {
+    "USA": "Canceled",
+    "VNM": "Đã huỷ"
+  }
+}

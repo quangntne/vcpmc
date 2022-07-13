@@ -1,0 +1,14 @@
+.extend-contract-modal {
+  .body-media{
+    .wrapContentListMedia{
+      height: 35vh;
+      .listMediaByDate{
+        .itemMediaList{
+          .content-item{
+            pointer-events: none;
+          }
+        }
+      }
+    }
+  }
+}

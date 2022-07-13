@@ -1,0 +1,56 @@
+.setting-type-Contract {
+    .table-contract-list {
+        .label-left {
+            .table-function {
+                display: none;
+            }
+            .ant-pagination {
+                display: none;
+            }
+        }
+        .label-right {
+            .label-div {
+                background: rgba(47, 47, 65, 0.7);
+                border-radius: 16px;
+                padding-top: 24px;
+                padding-left: 24px;
+                padding-bottom: 5px;
+                margin-right: 10px;
+                .label-warning {
+                    label {
+                        font-weight: bold;
+                        font-size: 24px;
+                        line-height: 24px;
+                        color: #e5e5e5;
+                    }
+                }
+                .label-contract {
+                    font-weight: bold;
+                    font-size: 16px;
+                    line-height: 24px;
+                    color: #ffffff;
+                    span {
+                        font-weight: normal;
+                    }
+                }
+            }
+        }
+    }
+
+    .row-btn-submit {
+        position: fixed;
+        bottom: 2vh;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .ant-table {
+        .ant-table-tbody {
+            input {
+                background-color: #33334d;
+                border: 1px solid #727288;
+                border-radius: 4px;
+                color: #ffffff;
+            }
+        }
+    }
+}

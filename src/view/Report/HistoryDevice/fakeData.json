@@ -1,0 +1,153 @@
+[
+    {
+        "no":1,
+        "nameDevice": "Device1223322",
+        "status": 1,
+        "timeSync": "22/05/2021 22:15:00",
+        "totalPlays": 70,
+        "detailHistoryDevice": [
+            {
+                "noSong":1,
+                "nameSong":"Dù ngay mai bão giông",
+                "playCount": 10
+            },{
+                "noSong":2,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 7
+            },{
+                "noSong":3,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 11
+            },{
+                "noSong":4,
+                "nameSong":"Em nợ anh",
+                "playCount": 15
+            },{
+                "noSong":5,
+                "nameSong":"Anh vẫn ở đây",
+                "playCount": 20
+            }
+        ] 
+    },
+    {
+        "no":2,
+        "nameDevice": "DeviceQuangcute:3",
+        "status": 0,
+        "timeSync": "22/05/2021 22:15:00",
+        "totalPlays": 70,
+        "detailHistoryDevice": [
+            {
+                "noSong":1,
+                "nameSong":"Có một cái cây trong một cái vườn",
+                "playCount": 6
+            },{
+                "noSong":2,
+                "nameSong":"Vẫn xin yêu người",
+                "playCount": 7
+            },{
+                "noSong":3,
+                "nameSong":"Nước mắt trong tim",
+                "playCount": 50
+            },{
+                "noSong":4,
+                "nameSong":"Lựa chọn con tim",
+                "playCount": 23
+            },{
+                "noSong":5,
+                "nameSong":"Anh vẫn ở đây",
+                "playCount": 20
+            }
+        ] 
+    },
+    {
+        "no":3,
+        "nameDevice": "Device323",
+        "status": 1,
+        "timeSync": "22/05/2021 22:15:00",
+        "totalPlays": 70,
+        "detailHistoryDevice": [
+            {
+                "noSong":1,
+                "nameSong":"Dù ngay mai bão giông",
+                "playCount": 10
+            },{
+                "noSong":2,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 7
+            },{
+                "noSong":3,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 11
+            },{
+                "noSong":4,
+                "nameSong":"Em nợ anh",
+                "playCount": 15
+            },{
+                "noSong":5,
+                "nameSong":"Anh vẫn ở đây",
+                "playCount": 20
+            }
+        ] 
+    },
+    {
+        "no":4,
+        "nameDevice": "Device9890",
+        "status": 1,
+        "timeSync": "22/05/2021 22:15:00",
+        "totalPlays": 70,
+        "detailHistoryDevice": [
+            {
+                "noSong":1,
+                "nameSong":"Dù ngay mai bão giông",
+                "playCount": 10
+            },{
+                "noSong":2,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 7
+            },{
+                "noSong":3,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 11
+            },{
+                "noSong":4,
+                "nameSong":"Em nợ anh",
+                "playCount": 15
+            },{
+                "noSong":5,
+                "nameSong":"Anh vẫn ở đây",
+                "playCount": 20
+            }
+        ] 
+    },
+    {
+        "no":5,
+        "nameDevice": "Device1122",
+        "status": 1,
+        "timeSync": "22/05/2021 22:15:00",
+        "totalPlays": 70,
+        "detailHistoryDevice": [
+            {
+                "noSong":1,
+                "nameSong":"Dù ngay mai bão giông",
+                "playCount": 10
+            },{
+                "noSong":2,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 7
+            },{
+                "noSong":3,
+                "nameSong":"Dù em có yêu ai",
+                "playCount": 11
+            },{
+                "noSong":4,
+                "nameSong":"Em nợ anh",
+                "playCount": 15
+            },{
+                "noSong":5,
+                "nameSong":"Anh vẫn ở đây",
+                "playCount": 20
+            }
+        ] 
+    }
+]
+    

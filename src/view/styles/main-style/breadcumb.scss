@@ -1,0 +1,36 @@
+@use "variable";
+
+.main-title-breadcrum{
+  margin-top: 21px;
+  margin-bottom: 23px;
+}
+
+//======Breadcumb=========
+.breadcb {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  font-weight: $font-weight-semi-bold;
+  opacity: 0.6;
+  
+  a {
+    color: $color-breadcumb-text;
+  }
+
+
+
+  &__li:first-child {
+    padding-left: 0;
+  }
+
+  &__last {
+    font-weight: bold;
+  }
+
+  &__icon {
+    .anticon svg {
+      color: $color-breadcumb-icon;
+      font-size: 2.1rem;
+    }
+  }
+}

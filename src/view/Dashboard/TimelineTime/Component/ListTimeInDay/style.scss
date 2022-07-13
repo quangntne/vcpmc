@@ -1,0 +1,19 @@
+.list-time-in-day {
+    width: 20%;
+    max-width: 20%;
+    min-width: 20%;
+    height: fit-content;
+    background-color: #2C2C4B;
+
+    .time {
+        height: 71px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 1px solid rgb(92, 92, 92);
+
+        &:last-child {
+            border-bottom: none;
+        }
+    }
+}

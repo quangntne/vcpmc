@@ -1,0 +1,45 @@
+@import "../../styles/variable";
+
+.contract-list {
+  .div-search {
+    .ant-select-arrow {
+      .anticon {
+        color: $color__yellow;
+      }
+    }
+    .icon-search {
+      top: 40% !important;
+    }
+  }
+  .table-contract-list {
+    //margin-top: 1.3rem;
+    .icon-detail {
+      font-size: 2rem;
+      display: flex;
+      justify-content: center;
+    }
+    tr th.ant-table-selection-column .ant-radio-wrapper,
+    tr td.ant-table-selection-column .ant-radio-wrapper {
+      margin-right: 0;
+      display: none;
+    }
+    tr.ant-table-row.ant-table-row-level-0.ant-table-row-selected {
+      background-color: $color__yellow;
+    }
+    tr.ant-table-row-level-0.ant-table-row-selected.ant-table-row:first-child td.ant-table-cell {
+      border-top: 1px solid white;
+    }
+    .text-number {
+      margin-left: 22px;
+    }
+  }
+}
+
+.label-text-action {
+  color: #ff7506;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.label-text-error {
+  color: #ff4747;
+}

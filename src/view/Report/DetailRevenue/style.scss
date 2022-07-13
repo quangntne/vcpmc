@@ -1,0 +1,89 @@
+.label-infor-contract {
+    background-color: #2b2b3f;
+    border-radius: 16px;
+    padding: 2.5vh 1vw;
+    height: 44vh;
+    label {
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 24px;
+        color: #ff7506;
+    }
+}
+.label-infor-control {
+    background-color: #2b2b3f;
+    border-radius: 16px;
+    padding: 2.5vh 1vw;
+    height: 34vh;
+    label {
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 24px;
+        color: #ff7506;
+    }
+}
+.label-list-record {
+    label {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 24px;
+        color: #e5e5e5;
+    }
+}
+.label-view-table {
+    .label-view-datepicker {
+        label {
+            margin-top: 0.8vh;
+            width: 11vw;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 24px;
+            color: #ffffff;
+        }
+        .ant-picker {
+            width: 50%;
+            border: 1px solid #727288;
+            background-color: #2b2b3f;
+            .ant-picker-suffix {
+                color: #ff7506;
+            }
+        }
+    }
+    .search-bar {
+        position: relative;
+        padding: 0;
+        padding-bottom: 2vh;
+        width: 25vw !important;
+        .icon-search {
+            top: 40% !important;
+        }
+    }
+}
+
+@media screen and (max-width: 1790px) {
+    .label-view-table {
+        .label-view-datepicker {
+            label {
+                font-size: 14px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 1400px) {
+    .label-view-table {
+        .label-view-datepicker {
+            label {
+                font-size: 16px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .label-infor-contract ,
+    .label-infor-control {
+        .label--component {
+            font-size: 14px !important;
+        }
+    }
+}

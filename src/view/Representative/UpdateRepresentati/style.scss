@@ -1,0 +1,20 @@
+@import "./../styles/variable";
+
+.form-edit-user {
+    label {
+        width: 100%;
+    }
+    .label-input-edit{
+        width: 70%;
+    }
+    .label-iput-phone{
+        width: 45%;
+    }
+}
+.radio-eidt {
+    width: 100%;
+    display: flex;
+    label {
+        width: auto !important;
+    }
+}

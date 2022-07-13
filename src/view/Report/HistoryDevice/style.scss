@@ -1,0 +1,60 @@
+.active-row {
+    background-color: #3e3e5b;
+}
+
+.label-history-device {
+    .search-bar {
+        width: 28vw;
+    }
+    .label-title {
+        label {
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 24px;
+            color: #fff9f4;
+        }
+    }
+    .div-content {
+        .label-content-divice {
+            width: 19.5vw;
+        }
+        .label-content-play {
+            width: 20vw;
+        }
+    }
+    .label-table-right {
+        .main-table {
+            background-color: #2b2b3f !important;
+        }
+        .table-function {
+            width: 65%;
+        }
+    }
+}
+
+@media screen and (max-width: 1550px) {
+    .label-content-play{
+        width: 25vw !important;
+    }
+    .label-content-divice {
+        width: 22.5vw !important;
+    }
+    .label-table-right{
+        .pagesize{
+            span{
+                font-size: 10px !important;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1685px) {
+    .label-table-right{
+        .pagesize{
+            span{
+                font-size: 12px;
+            }
+        }
+    }
+}
+

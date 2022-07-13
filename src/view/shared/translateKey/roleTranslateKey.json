@@ -1,0 +1,83 @@
+{
+  "CONTENT_DELETE":{
+    "USA":"Are you sure you want to delete the role",
+    "VNM":"Bạn có chắc muốn xóa "
+  },
+  "AFTER_CONTENT_DELETE":{
+    "USA":"role selectd",
+    "VNM":"vai trò được chọn "
+  },
+  "ROLE_SYSTEM":{
+    "USA":"User role in system",
+    "VNM":"Vai trò người dùng trên hệ thống"
+  },
+  "ROLE":{
+    "USA":"User role",
+    "VNM":"Phân quyền người dùng"
+  },
+  "ROLES":{
+    "USA":"Role",
+    "VNM":"Vai Trò"
+  },
+  "USER_NUMBER":{
+    "USA":"User number",
+    "VNM":"Số lượng người dùng"
+  },
+  "DESCRIPTION":{
+    "VNM":"Mô tả",
+    "USA":"Description"
+  },
+  "GROUP_USER_NAME":{
+    "USA":"Group user name",
+    "VNM":"Tên nhóm người dùng"
+  },
+  "ADD_NEW_ROLE":{
+    "USA":"Add new role",
+    "VNM":"Thêm mới vai Ttrò"
+  },
+  "REMOVE_ROLE":{
+    "USA":"remove role",
+    "VNM":"Xóa vai trò"
+  },
+  "EDIT_ROLE":{
+    "USA":"Edit role",
+    "VNM":"Chỉnh sửa vai trò"
+  },
+  "ROLE_NAME":{
+    "USA":"Role name",
+    "VNM":"Tên vai trò"
+  },
+  "ROLE_CODE":{
+    "USA":"Role code",
+    "VNM":"Mã vai trò"
+  },
+  
+  "PERMISSIONS":{
+    "USA":"Permissions",
+    "VNM":"Quyền hạn"
+  },
+  "LIST_USER":{
+    "USA":"List user",
+    "VNM":"Danh sách người dùng"
+  },
+  "DECENTRALIZATION":{
+    "USA":"Decentralization",
+    "VNM":"Phân quyền"
+  },
+  "FUNCTIONAL":{
+    "USA":"Functional",
+    "VNM":"Chức năng"
+  },
+  "CODE":{
+    "USA":"Code",
+    "VNM":"Mã"
+  },
+  "PERMISSIONS":{
+    "USA":"Permissions",
+    "VNM":"Quyền hạn"
+  },
+  "CREATE_AT":{
+    "USA":"Created At",
+    "VNM":"Ngày Tạo"
+  }
+}

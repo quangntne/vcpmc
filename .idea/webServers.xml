@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b7d7b84d-db2f-4fe3-a759-30ee0f44aec2" name="192.168.11.52" url="http://192.168.11.21">
+        <fileTransfer rootFolder="/data/frontend_center/mtc-test" accessType="SFTP" sshConfigId="0754a53d-7508-4b9b-ad5d-644919d1423a" sshConfig="192.168.11.52">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+@import "../../../styles/variable";
+
+.table-works {
+  .BE-pagination-table {
+    .main-table{
+      .ant-table{
+        .ant-table-content{
+          .ant-table-tbody{
+
+            .action-audition{
+              text-decoration: underline;
+              color: $color__yellow;
+            }
+          }
+        }
+      }
+      .dot-work{
+        width: 5px;
+        height: 5px;
+        border-radius: 50%;
+        background-color: #347AFF;
+        opacity: 0.7;
+        margin: 0 4px;
+      }
+      .describe{
+        color: white;
+        opacity: 0.5;
+        font-size: 12px;
+      }
+    }
+  }
+}
+

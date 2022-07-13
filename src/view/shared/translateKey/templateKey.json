@@ -1,0 +1,96 @@
+{
+  "TEMPLATE_NAME": {
+    "USA": "Template Name",
+    "VNM": "Tên Bản Mẫu"
+  },
+  "TEMPLATES": {
+    "USA": "Templates",
+    "VNM": "Bản mẫu"
+  },
+  "DELETE_TEMPLATES": {
+    "USA": "Delete Templates",
+    "VNM": "Xóa Bản mẫu"
+  },
+  "DELETE_GROUP_ASSIGN": {
+    "USA": "Delete Groups Assign",
+    "VNM": "Xóa Group Chỉ Định"
+  },
+  "DELETE_TEMPLATES_CONTENT": {
+    "USA": "Do you agree to delete the specified templates?",
+    "VNM": "Bạn có đồng ý xóa các bản mẫu chỉ định ?"
+  },
+  "DELETE_GROUP_ASSIGN_CONTENT": {
+    "USA": "Do you agree to delete the specified group assign?",
+    "VNM": "Bạn có đồng ý xóa các nhóm chỉ định ?"
+  },
+  "RATIO": {
+    "USA": "Ratio",
+    "VNM": "Tỉ lệ"
+  },
+  "ADD_NEW_TEMPLATE": {
+    "USA": "Add New Template",
+    "VNM": "Thêm mới bản mẫu"
+  },
+  "EDIT_TEMPLATE": {
+    "USA": "Edit Template",
+    "VNM": "Chỉnh sửa bản mẫu"
+  },
+  "DELETE_TEMPLATE": {
+    "USA": "Delete Template",
+    "VNM": "Xóa bản mẫu"
+  },
+  "ASSIGN_GROUP": {
+    "USA": "Assign Group",
+    "VNM": "Chỉ định nhóm"
+  },
+  "GROUP_NAME": {
+    "USA": "Group Name",
+    "VNM": "Tên Nhóm"
+  },
+  "GROUP_ASSIGNMENT": {
+    "USA": "Group Assignment",
+    "VNM": "Phân công nhóm"
+  },
+  "DELETE": {
+    "USA": "Delete",
+    "VNM": "Xóa"
+  },
+  "TRANSFORM": {
+    "USA": "Transform",
+    "VNM": "Biến đổi"
+  },
+  "POSITION": {
+    "USA": "Position",
+    "VNM": "Vị trí"
+  },
+  "SIZE": {
+    "USA": "Size",
+    "VNM": "Kích thước"
+  },
+  "WIDTH": {
+    "USA": "Width",
+    "VNM": "Chiều ngang"
+  },
+  "HEIGHT": {
+    "USA": "Height",
+    "VNM": "Chiều dọc"
+  },
+  "WIDTH_SINGLE": {
+    "USA": "Width",
+    "VNM": "Ngang"
+  },
+  "HEIGHT_SINGLE": {
+    "USA": "Height",
+    "VNM": "Dọc"
+  },
+  "MAXIMUM_MEDIA":{
+    "USA":"You can only select maximum 10 media in a template",
+    "VNM": "Bạn chỉ có thể chọn tối đa 10 media trong một bản mẫu"
+  },
+  
+  "APPLY":{
+    "USA":"Apply",
+    "VNM": "Áp dụng"
+  }
+  
+}

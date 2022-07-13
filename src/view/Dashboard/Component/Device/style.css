@@ -1,0 +1,43 @@
+.device {
+  padding-right: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+  padding: 5px 0;
+  border-bottom: 1px solid #5c5c5c;
+}
+
+.device:last-child {
+  border-bottom: none;
+}
+
+.device img {
+  width: 60px;
+  height: 60px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.device .device-info {
+  line-height: 20px;
+  font-size: 13px !important;
+  width: calc(100% - 65px);
+  font-size: 12px;
+}
+
+.device .device-info .name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.device .device-info .id {
+  font-size: 13px !important;
+  color: rgba(255, 255, 255, 0.637);
+}
+
+.device .device-info .status i {
+  font-size: 12px;
+}
+/*# sourceMappingURL=style.css.map */
